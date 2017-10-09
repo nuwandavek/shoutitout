@@ -1,0 +1,1966 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/TFV7BDX_2wYTcmxxO3RvAzGDCPc\"",
+  "nextPageToken": "CDIQAA",
+  "pageInfo": {
+    "totalResults": 171,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/Han6G_xWWJXdOepENy0-nImjTPw\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi4yMkNBN0M4QUJEQzYxMjA3",
+      "snippet": {
+        "publishedAt": "2017-09-30T16:41:15.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "The Big Fight: What Ails The Economy?",
+        "description": "Niti Aayog's Bibek Debroy referred to it as a 'minor cold', while former Finance Minister Yashwant Sinha said that the 'economy was poised for a hard landing', so what kind of a slowdown is the economy facing? The GDP has witnessed a steady decline as India faces structural problems in the implementation of big bang reforms such as the GST and demonetisation. Has the government done too much, too soon? Or is this a passing phase that will only make the economy stronger? On this week's episode of The Big Fight, we look at the top five reasons behind the economic slowdown. We ask experts whether the slowdown is temporary or will it leave a deep imprint on our economic lives.  Write in to us at bigfight@ndtv.com to share your concerns about the health of the economy.\n\nWatch full video: https://www.ndtv.com/video/news/the-big-fight/the-big-fight-what-ails-the-economy-468960?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OkKm64nLh6Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OkKm64nLh6Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OkKm64nLh6Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OkKm64nLh6Q"
+        }
+      },
+      "contentDetails": {
+        "videoId": "OkKm64nLh6Q",
+        "videoPublishedAt": "2017-09-30T16:50:35.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/pSQTBvCpXEFZnixDzrjxQV1Yf-Q\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi5BNjBCMUFCN0Q5QzUyMjlG",
+      "snippet": {
+        "publishedAt": "2017-09-23T17:33:45.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Big Fight with Vikram Chandra | Simultaneous Polls: Aye Or Nay?",
+        "description": "On this week's episode of The Big Fight, we debate whether holding simultaneous elections is a good idea or not. What does 'simultaneous elections' mean? Niti Aayog defines it as follows: It involves the structuring of Indian election cycle in a manner that elections to Lok Sabha and State Assemblies are synchronized together. In such a scenario, a voter would normally cast their vote for electing members of Lok Sabha and State Assembly on a single day and at the same time.\nThe idea is not new to India and has recently seen favour with both the Prime Minister and the President of the BJP. Will holding simultaneous elections help curb corruption, will it also reduce election expenditure and black money or is the idea too Utopian to be implemented in a democracy like India? Watch this episode as we go through all the nuances of the debate, and send us your feedback on bigfight@ndtv.com\n\nWatch full video: http://www.ndtv.com/video/news/the-big-fight/should-nris-be-allowed-to-vote-through-proxies-466817?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o47MMdmTu08/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o47MMdmTu08/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o47MMdmTu08/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "o47MMdmTu08"
+        }
+      },
+      "contentDetails": {
+        "videoId": "o47MMdmTu08",
+        "videoPublishedAt": "2017-09-23T17:44:31.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/6rjmfRYd64fomGNTvHHBd2_Ydy0\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi40MkQ0RjUwRTlGMUU4N0ZG",
+      "snippet": {
+        "publishedAt": "2017-09-16T18:27:06.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "The Big Fight On Dynastic Politics",
+        "description": "On a recent visit to America, Congress Vice President, Rahul Gandhi insinuated that dynastic politics not only works in India but it is what people prefer. On this episode of The Big Fight, we debate whether there is any truth in that statement. A quick glance at the current Lok Sabha proves that Congress is by far the most dynastic of all parties with as many as 48% of its MPs from political families. BJP on the other hand, has that number limited to 15%, as both the Prime Minister and the BJP President are not from political parties. In India, the hard reality is that dynasties perpetuate in most if not all major political parties in India. What are the repercussions of this? Does dynastic politics deplete or add to the pool of talent in the legislature? And its not just politics, a majority of big ticket companies in India are also family owned. Does this prove beyond doubt that Indians prefer dynasts over those with merit? Is dynasto-cracy and meritocracy mutually exclusive?\n\nWatch full video: http://www.ndtv.com/video/news/the-big-fight/should-nris-be-allowed-to-vote-through-proxies-466817?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pU4JNVMOgMU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pU4JNVMOgMU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pU4JNVMOgMU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pU4JNVMOgMU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "pU4JNVMOgMU",
+        "videoPublishedAt": "2017-09-16T18:37:38.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/E9jnx-oDe1FnGF1_oKdqkULr3xE\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi4wOTkzRUNGQkU5QzI1QTA3",
+      "snippet": {
+        "publishedAt": "2017-09-02T17:16:06.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Should NRIs Be Allowed To Vote Through Proxies?",
+        "description": "Last month, the government took a decision to allow non-resident Indians or NRIs to nominate a proxy to vote in elections. The condition is that both the NRI and the proxy should be from the same constituency and the choice is only confined to elections. While the Parliament is yet to take up the matter and allow it, critics, including former Chief Election Commissioners, have expressed concern that it would violate the model code of secret ballots. If indeed proxy voting is deemed fit to be implemented, then shouldn't the same rule apply to migrants? It should be borne in mind that NRIs already have a legitimate right to vote which was bestowed to them during UPA-II. The only bone of contention was to figure out the modalities. It's true that NRIs have been the flagbearers of Indian culture for decades -- particularly in the US, Gulf countries and in Western Europe, but of late they have been playing an important role in promoting India in their country of residence backed by their growing financial clout. But will proxy voting disrupt the process of voting in India? Will an NRI, notwithstanding their love for their motherland, be able to make judicious choice of selecting the 'right' candidate based on his/her performance without being swayed by party manifestos and ideologies?\n\nWatch full video: http://www.ndtv.com/video/news/the-big-fight/should-nris-be-allowed-to-vote-through-proxies-466817?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YU6GGTqsF2Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YU6GGTqsF2Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YU6GGTqsF2Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YU6GGTqsF2Q"
+        }
+      },
+      "contentDetails": {
+        "videoId": "YU6GGTqsF2Q",
+        "videoPublishedAt": "2017-09-02T17:20:12.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/M4sDNc72qZJdyr-zenmuzYrvI3o\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi5DQzY2RDZFRUQyRDlDQkMw",
+      "snippet": {
+        "publishedAt": "2017-08-19T17:55:22.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "The Internet: Where Threats Lurk For Children?",
+        "description": "Could you ever imagine that a name as innocuous as 'Blue Whale Challenge' is actually a secret online game that provokes vulnerable teenagers to go through a series of tasks and dares that eventually lead to them taking their own lives? Although India has seen only a handful of suspected deaths so far, cyber bullying and virtual suicide challenges are here to stay. How we create a firewall that will protect our children from these threats? Is this the responsibility of schools, parents or do we need some sort of a collective effort to create awareness about predatory apps or games?\n\nOn this episode of The Big Fight, we look at all the aspects around cyber bullying - who are the most vulnerable, what can parents do when they are totally disconnected with their children's virtual reality, and should schools conduct digital workshops to apprise young students of the imminent dangers lurking online?\n\nWatch full video: http://www.ndtv.com/video/news/the-big-fight/the-internet-where-threats-lurk-for-children-465744?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nQJaW9HXwYs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nQJaW9HXwYs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nQJaW9HXwYs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nQJaW9HXwYs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "nQJaW9HXwYs",
+        "videoPublishedAt": "2017-08-19T17:59:50.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/V7C_hyOAxqw0XIodR7n7-SQHDOs\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi43Q0UyODJENjc3NDRCODU0",
+      "snippet": {
+        "publishedAt": "2017-08-12T18:34:43.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "India At 70: The Highs And Lows",
+        "description": "We are about to complete 70 years of our independence. From being the poster boy of poverty and branded as a land of snake-charmers, India has come a long way. Cynics had doubted whether India would even survive even for a few years with its experiment of being a democratic country amidst a wide range of diversity - religious, linguistic, racial to name a few. Though India has pulled out millions of people from the scourge of poverty, yet several millions still go to bed hungry. The last few decades have seen religious fault lines increasing with fundamentalism rearing its ugly head. While India is now recognised as a soft power, employment generation remains a major headache. Where do we go from here? Will India be able to reclaim its glorious past?\n\nWatch full video: http://www.ndtv.com/video/news/the-big-fight/india-at-70-the-highs-and-lows-465193?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cm3rUB6BDwo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cm3rUB6BDwo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cm3rUB6BDwo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cm3rUB6BDwo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "cm3rUB6BDwo",
+        "videoPublishedAt": "2017-08-12T18:34:34.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/tRa6NYxuYpvNR7hy6XJN8lJzcBg\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi4yM0YxNkQ4MTExRjg4RUI2",
+      "snippet": {
+        "publishedAt": "2017-07-29T17:55:52.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "The Big Fight: 2019 Polls - NDA In Pole Position?",
+        "description": "Nitish Kumar's 'Ghar Wapsi' has thrown the opposition into complete disarray. The dream of weaving a grand coalition is now in tatters - with the loss of a clean, competent, credible face - now back in National Democratic Alliance's fold, the BJP's job for 2019 polls appears more than half done.  But is it so? Can the BJP increase its tally beyond 282 seats that they got in 2014 general elections? In the last general election, BJP swept Gujarat, Rajasthan, Madhya Pradesh, Maharashtra, Chhattisgarh, Delhi, Himachal Pradesh, Uttarakhand and reduced the opposition to a few seats in Bihar, Uttar Pradesh, Andhra Pradesh. It's really difficult to increase its seats from these states. If NDA has to increase its tally it must look at those states where its performance was way below even satisfactory level - West Bengal, Odisha, Tamil Nadu, Kerala - where BJP won a paltry five seats out of 120. However, political experts believe that it is not the electoral arithmetic that works in India but rather the mood of the people, the 'wave' or the lack of it, that decides the outcome. No doubt, as of today, NDA under PM Narendra Modi is in an advantageous position and the opposition is grappling to figure out ways to counter him. But with elections more than a year-and-half away and the Indian electorate never failing to throw up a surprise, can a fight be completely written off?\n\nWatch full video: http://www.ndtv.com/video/news/the-big-fight/the-big-fight-2019-polls-nda-in-pole-position-464092?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MpkYi6Dexyo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MpkYi6Dexyo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MpkYi6Dexyo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MpkYi6Dexyo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "MpkYi6Dexyo",
+        "videoPublishedAt": "2017-07-29T17:56:07.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/h_KlOrAqJhVh1JHpePo_V2FV_-s\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi4zQTkyMjEwN0U0QkU3RDg5",
+      "snippet": {
+        "publishedAt": "2017-07-22T17:12:31.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "The Big Fight: Should Privacy Be A Fundamental Right?",
+        "description": "The ongoing hearing at the Supreme Court on privacy being a fundamental right has reopened a long buried but an important cornerstone of Indian Constitution - should there be reasonable restrictions on privacy of an individual? Though the Constitution doesn't delineate whether privacy should be a fundamental right yet Supreme Court's judgement on the issue in 1954 and 1962 has made it very clear that the right to privacy cannot be absolute. In today's world when the state is perceived as actively trampling into someone's fundamental rights in the name of security and fighting terrorism, is it time for the court to define what constitutes privacy and draw the line?\n\nWatch full video: http://www.ndtv.com/video/news/the-big-fight/the-big-fight-should-privacy-be-a-fundamental-right-463504?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DHkjWXWIj3o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DHkjWXWIj3o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DHkjWXWIj3o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DHkjWXWIj3o"
+        }
+      },
+      "contentDetails": {
+        "videoId": "DHkjWXWIj3o",
+        "videoPublishedAt": "2017-07-22T17:12:23.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/GaJ6n9OS8tak3ogf5tO8Ao-cp8M\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi5DNzNDRDE1NzhGODQzODI2",
+      "snippet": {
+        "publishedAt": "2017-07-15T18:48:53.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "The Big Fight: A New Wave Of Communalism",
+        "description": "It seems, at least in the domain of mass media, that we are living in an age of binaries. Today in India, where sane voices taking middle ground on the issues of communalism, terrorism and nationalism are being drowned in the cacophony of social media trolls, the discourse is increasingly being shaped by extreme voices. This was more evident in the recent events that rattled the nation - from the attack on Amarnath pilgrims in Kashmir to the communal riots in Basirhat, West Bengal. While the right-wing accused the \"liberals\", \"Leftists\", civil society and mainstream media of selective outrage, the \"liberals\" responded by blaming the right-wing brigade of stoking the communal fire, of deliberately blaming the minority community and posting fake news to justify the cause. Are we entering a new era of polarisation? Is there a justification in the charge labelled by right-wingers against civil society and liberals of selective outrage? Or are foot-soldiers of communalism taking it too far with communal elements running amok?\n\nWatch full video: http://www.ndtv.com/video/news/the-big-fight/the-big-fight-a-new-wave-of-communalism-462930?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h-kFDuloV1A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h-kFDuloV1A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h-kFDuloV1A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "h-kFDuloV1A"
+        }
+      },
+      "contentDetails": {
+        "videoId": "h-kFDuloV1A",
+        "videoPublishedAt": "2017-07-15T18:48:47.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/WIakCynLZXl8U49T6Vd1av6mg7o\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi4xREVBMTg1ODg1M0JCQUE1",
+      "snippet": {
+        "publishedAt": "2017-07-08T17:53:55.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Border Standoff: Is China Pushing The Boundary?",
+        "description": "China has fought war with India, Russia, Vietnam over territorial dispute and has contested Vietnam, Japan, Philippines' claim over South and East China seas. Though officially, the Chinese government has refrained from a belligerent rhetoric over the standoff, nevertheless its media has been carrying out a relentless propaganda war and implicit threats against India and at times against Bhutan. It was Bhutan, which had asked for India assistance to 'resolve' the crisis but Chinese media has blamed India for 'oppressing' the Bhutanese kingdom and stoking a fire to create a wedge between India and Bhutan. All along it has been empowering Pakistan and supporting clandestinely its military Nuclear programme. How should India deal with China? Is China's global ambition spilling across its borders? Is it time for India to harden its stance?\n\nWatch full video: http://www.ndtv.com/video/news/the-big-fight/border-standoff-is-china-pushing-the-boundary-462352?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/orvsLnVVacg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/orvsLnVVacg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/orvsLnVVacg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "orvsLnVVacg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "orvsLnVVacg",
+        "videoPublishedAt": "2017-07-08T17:53:45.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/Z-Y6ZkNy2A5BLv8-i_f3WpuA09Y\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi5CNzAzQzRDMkI3QThEQzZB",
+      "snippet": {
+        "publishedAt": "2017-07-01T18:28:42.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "The Big Fight: GST - Short Term Pain For Long Term Gain?",
+        "description": "After waiting for more than decade, India has been brought under a unified tax structure - a feat remarkable in such a diverse country where states, more often than not, fight with the centre on issues of federalism. GST will ensure smooth flow of goods between states which were so far subjected to a slew of taxes often holding up trucks and containers ferrying goods causing inordinate delay. While the industry has lauded the single-most biggest tax reform this country has ever undertaken, however, for small traders, service providers who have little or no knowledge of the computer system, confusion is the buzzword. From making extra provision for filing returns to different tax slabs for same goods of different value small manufacturers, business owners are an anxious lot. Will genuine mistakes lead to harassment? What happens if there is problem with the software? Will they end up paying for what is not their fault? \n\nWatch full show: http://www.ndtv.com/video/news/the-big-fight/the-big-fight-gst-short-term-pain-for-long-term-gain-461734?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nMoh-Cpvms0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nMoh-Cpvms0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nMoh-Cpvms0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nMoh-Cpvms0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "nMoh-Cpvms0",
+        "videoPublishedAt": "2017-07-01T18:28:37.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/Dt1rw2GlWe7qdEwuLbOPQYmFkAM\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi45QzM0OUZCRDUyMTgwREVG",
+      "snippet": {
+        "publishedAt": "2017-06-24T18:15:30.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "The Big Fight: No Country For Seniors?",
+        "description": "We all have been hearing about the demographic dividend that India has. But what rarely comes out is that the population of senior citizens is also growing at a brisk pace - more than 36 per cent according to census data between 2001 and 2011. The ageing population tragically is being accompanied with its unfortunate elements of loneliness, abuse, neglect and a rise in number of cases of geriatrics. But this was not the case. The rise of nuclear families has cut the support system which used to sustain and form a support group for the elderly is slowly being eroded and the rising cost of healthcare and frailties are forcing them to take succor at old-age homes. Less than 30 per cent of senior citizens have a pension cover and the increase lifespan is making it even more difficult for them to be financially independent. Is going back to the ways of joint families the way out? Or should  the government ensure a slew of social security measures for seniors?\n\nWatch full video: http://www.ndtv.com/video/news/the-big-fight/the-big-fight-no-country-for-seniors-461110?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BGcArGOplpI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BGcArGOplpI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BGcArGOplpI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BGcArGOplpI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "BGcArGOplpI",
+        "videoPublishedAt": "2017-06-24T18:15:17.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/rk-vUTO2PuabJDTu4a_HNLqzznA\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi5DMkM0MjQ3OTgwQzBCMEZB",
+      "snippet": {
+        "publishedAt": "2017-06-10T17:19:39.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "The Big Fight: High On Growth, Low On Jobs?",
+        "description": "The world is in a state of flux - more so if you are entering the job market. With artificial intelligence, robotics, automation eating away low-skilled, vocational jobs what are millions of people who enter the job market every year going to do? The China model of mass manufacturing and export cannot be replicated anymore in today's world. Are start-ups the way out? Perhaps. But, only if you are a skilled worker. For all the semi-skilled or unskilled workers, the situation is really problematic. Will they depend on government doles for day-to-day existence? The Modi government had placed a lot of emphasis on skill development but the lack of a strong education base and low industry demand is affecting their prospect. The industry, while admitting the changing scenario, is looking for niche skills - nano technologists, experts on robotics, high-end researchers, experienced managers in assembly line production but our education sector has been unable to keep pace with the changing demand. According to an Ernst & Young and FICCI study, over 80 percent of India's engineering graduates and around 90 percent of MBAs are unemployable. It's high time that we completely overhauled our education system. But in the short run, people have to be flexible enough to re-skill themselves and look for work in SMEs or be ready to tread the path of entrepreneurship.\n\nWatch full video: http://www.ndtv.com/video/news/the-big-fight/the-big-fight-high-on-growth-low-on-jobs-459792?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ieKTy-80BZw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ieKTy-80BZw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ieKTy-80BZw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ieKTy-80BZw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ieKTy-80BZw",
+        "videoPublishedAt": "2017-06-10T17:19:30.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/tpf9RndnF6k4nPt4iTQUekMfbdU\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi5BRjY4NjdBRjA5RTdCMUMx",
+      "snippet": {
+        "publishedAt": "2017-06-04T06:53:03.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "The Big Fight: Holy Cow, Unholy Politics?",
+        "description": "The centre has imposed a ban on sale of cattle for slaughter under the Prevention of Cruelty to Animals Act. This has led to a series of protests in states of Kerala, West Bengal, Meghalaya and Nagaland where beef consumption is not deemed illegal. Can the centre impose such a ban? Does it undermine the federal structure of the country? In most states, there is already a ban on cow slaughter. So what necessitated the ban? Is it a diversionary tactic from issues like decline in jobs and a dip in GDP growth? Or is cow being used as an emotive issue for electoral purpose?\n\nWatch full video: http://www.ndtv.com/video/news/the-big-fight/the-big-fight-holy-cow-unholy-politics-459075?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/duGvoSvo1us/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/duGvoSvo1us/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/duGvoSvo1us/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "duGvoSvo1us"
+        }
+      },
+      "contentDetails": {
+        "videoId": "duGvoSvo1us",
+        "videoPublishedAt": "2017-06-03T17:49:23.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/-43oZ-TODl9l3AlDtX7k5rG_e74\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi41RjU0OTVCQThDNUUwQzBD",
+      "snippet": {
+        "publishedAt": "2017-05-27T18:04:56.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "The Big Fight: Is The Army Getting Politicised?",
+        "description": "In the run up to the Uttar Pradesh assembly elections, posters depicting the success of India's surgical strike against Pakistan along with grabs of senior BJP leaders were used in rallies. Last year the Congress publicly questioned the basis for elevating General Bipin Rawat as the Chief of Army Staff superseding other seniors. And now, after the Army awarded Major Leetul Gogoi who used a man named Farooq Dar as a human shield, there has been a barrage of criticism from human rights group, a section of the media.\n\nWatch full video: http://www.ndtv.com/video/news/the-big-fight/the-big-fight-is-the-army-getting-politicised-458386?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BFp4hNLQCjs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BFp4hNLQCjs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BFp4hNLQCjs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BFp4hNLQCjs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "BFp4hNLQCjs",
+        "videoPublishedAt": "2017-05-27T18:04:52.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/hnx-YfKQ_fwuuh8EQqLOB3eVkCc\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi5EREU0QjZERDMzRDBGNTMz",
+      "snippet": {
+        "publishedAt": "2017-05-21T05:50:33.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "3 Years Of NaMo: Hits And Misses",
+        "description": "Change was the catchphrase in the run up to 2014 polls. Narendra Modi had promised us that he will transform India, end corruption, bring in industry, generate jobs, end social strife and forge a new path with neighbours and word powers. With his emphatic victory in the polls people were buoyed with the hope of a transformation that would herald a new era and catapult India towards a path of development. \n\nThree years have passed since Narendra Modi was anointed as the Prime Minister of the country. While the government has certainly succeeded in bringing down inflation, tackling corruption its failure to generate enough jobs has invited criticism from all quarters. While electorally, BJP had its best performance in Jammu and Kashmir, the sharp slide in the internal security condition of the state has put several question marks over its inability to come up with a new strategy to deal with the impending crisis.\n\nWhile time and again, PM Modi has reiterated his mantra of 'Sabka Saath Sabka Vikaas', the highhandedness of Gau Rakshaks and other fringe groups have undermined the government's desire to take along all sections of the society. \n\nThe realm of foreign policy has been really tricky for this government. With a changing geo-political scenario the government has been grappling with new ways and strategies - especially when it comes to Pakistan and China. While India's relation with Bangladesh and Nepal has improved a series of flip flops with Pakistan and China's belligerence stance and disregard for India's security concerns have hemmed in the Modi government into a corner. China has blocked India's entry to NSG and vetoed UN sanctions against terrorist Masood Azhar. It seems that it will be a long winding road for India. \n\nWatch full video: http://www.ndtv.com/video/news/the-big-fight/3-years-of-namo-hits-and-misses-457747?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X1m-xy5G85U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X1m-xy5G85U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X1m-xy5G85U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "X1m-xy5G85U"
+        }
+      },
+      "contentDetails": {
+        "videoId": "X1m-xy5G85U",
+        "videoPublishedAt": "2017-05-20T19:06:37.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/igM0eab92sSRreXCYiv8nd6_4yo\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi45NDIzMEVBNjk5NTFGRDZC",
+      "snippet": {
+        "publishedAt": "2017-05-14T06:17:34.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Instant Triple Talaq Superseding Fundamental Rights?",
+        "description": "Noted lawyer and BJP spokesperson Nalin Kohli made it amply clear that the issue of triple talaq shouldn't be viewed through the prism of politics since the BJP didn't go to the Supreme Court. The moot question, according to him, is the question of whether a person belonging to a certain religion would have lesser rights than others. Currently, the Supreme Court is looking at the crucial issue of whether instant triple talaq is fundamental to Islam.\n\n\nWatch full show: http://www.ndtv.com/video/news/news/instant-triple-talaq-superseding-fundamental-rights-457086?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kf3CvGZahXU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kf3CvGZahXU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kf3CvGZahXU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kf3CvGZahXU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "kf3CvGZahXU",
+        "videoPublishedAt": "2017-05-13T19:17:21.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/om5WoxLKQcGam4awkiBJ8Wpmb-U\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi5CODNEOTFERDNCQjU2ODhE",
+      "snippet": {
+        "publishedAt": "2017-05-13T17:33:13.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Is Instant Triple Talaq Fundamental To Islam?",
+        "description": "This week the crucial hearing over instant triple talaq began in Supreme Court. A constitutional bench of the court is looking at the issues of whether instant triple talaq is fundamental to Islam? Whether it is a sacrosanct part of Islam and if instant triple talaq is an enforceable fundamental right? Muslim women, who have been at the receiving end of triple talaq, have found it to be regressive and subverting their fundamental rights under the constitution. The All India Muslim Personal Law Board and few other organisations, however, argue that instant triple talaq is an inalienable part of Islam. They fear that any ruling which would go against the principle of instant triple talaq would lay the groundwork for establishing a Uniform Civil Code in the future although women's organisation and the ruling party have quelled this doubt. \n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n \nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch full show: http://www.ndtv.com/video/news/the-big-fight/is-instant-triple-talaq-fundamental-to-islam-457093?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LD5SfbGQqfQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LD5SfbGQqfQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LD5SfbGQqfQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LD5SfbGQqfQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "LD5SfbGQqfQ",
+        "videoPublishedAt": "2017-05-13T17:33:04.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/uvBz3v_ZhMGZ1DrCfjS4NIfQayo\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi5CNEFEOUNDRUMzMjVGMjc2",
+      "snippet": {
+        "publishedAt": "2017-05-14T06:17:34.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Is Instant Triple Talaq Fundamental To Islam?",
+        "description": "This week the crucial hearing over instant triple talaq began in Supreme Court. A constitutional bench of the court is looking at the issues of whether instant triple talaq is fundamental to Islam? Whether it is a sacrosanct part of Islam and if instant triple talaq is an enforceable fundamental right? Muslim women, who have been at the receiving end of triple talaq, have found it to be regressive and subverting their fundamental rights under the constitution. The All India Muslim Personal Law Board and few other organisations, however, argue that instant triple talaq is an inalienable part of Islam. They fear that any ruling which would go against the principle of instant triple talaq would lay the groundwork for establishing a Uniform Civil Code in the future although women's organisation and the ruling party have quelled this doubt. \n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n \nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch full show: http://www.ndtv.com/video/news/the-big-fight/is-instant-triple-talaq-fundamental-to-islam-457093?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LD5SfbGQqfQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LD5SfbGQqfQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LD5SfbGQqfQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LD5SfbGQqfQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "LD5SfbGQqfQ",
+        "videoPublishedAt": "2017-05-13T17:33:04.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/QSxE3wtO5eSZ2-tZudDVrJCsFCY\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi40QTY5NjQzQkQzMjgwNjhD",
+      "snippet": {
+        "publishedAt": "2017-05-06T17:58:51.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Can India Break The China-Pakistan Axis?",
+        "description": "Former Prime Minister Atal Behari Vajpayee had famously commented you can choose your friends but not neighbours. For India, unfortunately placed in a complicated neighbourhood amidst a complex relationship with two of its biggest neighbours - Pakistan and China - a long-term policy to deal with the neighbours is missing. India's piecemeal approach based on managing situations rather than long-term plan to resolve issues is not helping our strategic interest. Does India have a game-plan to counter China-Pak axis? Does it have enough diplomatic leverage to prevent the construction of China-Pakistan Economic Corridor that passes through Pak-Occupied Kashmir? If surgical strikes, covert operations are not options against terror strikes carried out by Pakistan-based terrorists, is India in a position to impose economic sanctions against Pakistan?\n\nWatch full show: http://www.ndtv.com/video/news/the-big-fight/can-india-break-the-china-pakistan-axis-456476?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3YJfO3c91D4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3YJfO3c91D4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3YJfO3c91D4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3YJfO3c91D4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "3YJfO3c91D4",
+        "videoPublishedAt": "2017-05-06T17:58:43.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/qQVThmhFfBu2r5sEpPy-fy7eAt4\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi5DNTU3ODQ4ODAzMjFERTI1",
+      "snippet": {
+        "publishedAt": "2017-04-30T03:21:36.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "The Big Fight: BJP's Winning Spree - Is It The Modi Factor?",
+        "description": "Post note ban, the BJP is on a winning spree. Barring the setback in Punjab, BJP has won handsomely in UP and Uttarakhand, formed government in Goa and Manipur, became the largest party in Maharashtra's municipal and Zilla Parishad polls, dislodged Congress from being the main opposition in Odisha's municipal and panchayat polls, and trounced AAP in Delhi civic polls. What explains BJP's winning spree? Is it the Modi factor or is it due to the fact that there is no viable opposition at the national level?\n\nThe second and the most important issue is the discourse and the focus of the governance. While Prime Minister Narendra Modi speaks about development, governance, fight against corruption and black money, it's the fringe on the ground which is at times overshadowing PM Modi's development agenda. Is there a subtext to the path this government is following?\n\nWatch full show: http://www.ndtv.com/video/news/the-big-fight/the-big-fight-bjp-s-winning-spree-is-it-the-modi-factor-455861?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\n\nLike us on Facebook: https://www.facebook.com/ndtv\n\nFollow us on Twitter: https://twitter.com/ndtv\n\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\n\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ceB5IpURreM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ceB5IpURreM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ceB5IpURreM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ceB5IpURreM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ceB5IpURreM",
+        "videoPublishedAt": "2017-04-30T03:21:29.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/1eCrYYtSSQSJNnm6d_6iBkcJi0E\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi40NTBGRDE5MDg2Q0NEODI4",
+      "snippet": {
+        "publishedAt": "2017-04-24T14:35:21.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Babri Demolition: 24 Years And Counting",
+        "description": "Over two decades have passed since the demolition of Babri Masjid - the 'event' that forever changed the course and discourse of Indian politics. The demolition was followed by riots across the country with hundreds of people losing their lives in the communal frenzy. Recently the Supreme Court said that Lal Krishna Advani, Murli Manohar Joshi and Uma Bharti should be tried for criminal conspiracy. Mr Advani, however, has time and again denied being responsible for bringing the mosque down. He even went to the extent of describing the day, when the mosque was brought down, as the 'saddest day' of his life. Is there a conspiracy to frame the BJP veteran or is he responsible for whipping up the mob frenzy? The build-up to the Ayodhya corresponded with a rise in political fortune of the BJP. But today political analysts feel that resuscitating the Mandir-Masjid issue won't give them the political dividend which once the political parties exploited. Is it possible to arrive at an amicable solution on the dispute without hurting the sentiments of any communities?\n\nWatch full video: http://www.ndtv.com/video/news/the-big-fight/babri-demolition-24-years-and-counting-455296?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FOBWfdnOkQk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FOBWfdnOkQk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FOBWfdnOkQk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FOBWfdnOkQk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "FOBWfdnOkQk",
+        "videoPublishedAt": "2017-04-23T18:42:32.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/zJAuZK7OxZq5EvsVKpuGVDUKcwE\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi42NjBGMkRFNDcwMjM2NzYx",
+      "snippet": {
+        "publishedAt": "2017-04-16T09:21:14.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Courts: Judicial Overreach vs Activism?",
+        "description": "The Supreme Court's latest ruling barring liquor shops, pubs, bars within 500 meters of National Highways has brought to the fore the question of whether the Judiciary is overreaching its ambit. In March this year the Court had refused to intervene in the Ayodhya dispute case suggesting amicable solution between the two warring factions. While there are a considerable number of cases where the Judiciary's intervention has been sought and lauded there are some cases where its intervention has been questioned - most notably the day-to-day running of BCCI. Critics argue that when the Courts are clogged with thousands of cases it is a futile exercise on the part of the Judiciary to spent time administering the functions of our apex cricket body. However, activists are in favour of the Court's intervention vis-a-vis subversion of fundamental rights - like access to food, healthcare, issues farm distress. Therefore we ask are the Judicial interventions due to under reach & failure on the part of the executive? Are we seeing a more pro-active role on the part of the Judiciary?\n\nWatch full show: http://www.ndtv.com/video/news/the-big-fight/courts-judicial-overreach-vs-activism-454651?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LJJM_sd0MUM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LJJM_sd0MUM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LJJM_sd0MUM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LJJM_sd0MUM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "LJJM_sd0MUM",
+        "videoPublishedAt": "2017-04-16T09:24:33.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/6sO6zEOUSTSufNaXl17QiaIy1HI\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi5FOTE3RTBFMjNFMDNEM0Yz",
+      "snippet": {
+        "publishedAt": "2017-04-02T07:26:41.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Big Fight Over Finance Bill Amendments",
+        "description": "The government brought in 40 amendments to the Finance Bill 2017, some of which are contentious with opposition, constitutional experts branding them as not a 'open and shut' case to be part of a 'Money Bill'. Now Money Bills, according to the constitution, need not be passed or amended by the Rajya Sabha, where the BJP is in minority. So were the reforms in contravention to the basic spirit of the Constitution? Did the BJP brought in 'allied reforms' in the Finance Bill and not as a separate Bill to evade the Rajya Sabha? Are the poll reforms, vesting more powers on Income Tax officers, making Aadhaar mandatory for filing I-T returns and making sweeping changes to Appellate Tribunals a subversion of constitution? The government, in its defence, is falling back to previous UPA and NDA regimes where poll reforms were tagged along the Finance Bill. The other controversial justification, which the spin doctors of the government are providing is that the Upper House of the Parliament cannot block 'people's wishes' as was evident through BJP's victories in a number of elections post 2014.\n\nWatch full video: http://www.ndtv.com/video/news/the-big-fight/big-fight-over-finance-bill-amendments-453429?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1wDTXu9rDbQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1wDTXu9rDbQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1wDTXu9rDbQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1wDTXu9rDbQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "1wDTXu9rDbQ",
+        "videoPublishedAt": "2017-04-02T07:26:34.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/WT0ze0drWsCSBKORofimF3bKNmE\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi4zMkY2MjA3RDJERTkxNjkz",
+      "snippet": {
+        "publishedAt": "2017-03-25T17:57:07.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "The Big Fight: Start-Ups - Unleashing India's Entrepreneurial Energy",
+        "description": "Of late, Indian start-ups have been grabbing headlines for all the wrong reasons - layoffs, sexual harassment, a dip in funding, closures - to name a few. So, is the start-up bubble about to burst? Is it going the 'dotcom' way or are we being too cynical towards a sector where historically the failure rate is at 90 per cent? There are issues that afflict the start-ups but with jobs drying up in traditional sectors, start-ups are the best bet to drive the job market. Even if the venture fails, people working in start-ups are regarded highly by corporate when it come to hiring. Should the government then provide extra fillip to start-ups like easy exit in case of failures?\n\nWatch full video: http://www.ndtv.com/video/news/the-big-fight/the-big-fight-start-ups-unleashing-india-s-entrepreneurial-energy-452801?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OrbuXBJlFUI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OrbuXBJlFUI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OrbuXBJlFUI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OrbuXBJlFUI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "OrbuXBJlFUI",
+        "videoPublishedAt": "2017-03-25T17:57:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/3gQY8210kHtBCEdkWIt7oAQcXRM\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi5DNUEzOUFFNkIyOUUzOTRC",
+      "snippet": {
+        "publishedAt": "2017-03-18T18:06:06.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "BJP's Path To 2019: Development Or Polarisation?",
+        "description": "Prime Minister Narendra Modi has reiterated time and again that his government stands for 'Sabka Saath, Sabka Vikas' (development without discriminating against anyone). But with the elevation of Hindutva icon Yogi Adityanath as the Chief Minister of Uttar Pradesh, will the path of development be junked? Or should we view the leader from Gorakhpur as the new face of development? After the BJP's astounding victory in UP, ministers had harped on the development plan. But with Yogi Adityanath's elevation, opposition leaders and experts raise questions on whether the BJP, along with the development plan, will peddle on soft Hindutva? With over two years to go before the general election in 2019, all eyes are on the newly-elected Chief Minister and the path he will take.\n\nWatch full video: http://www.ndtv.com/video/news/the-big-fight/bjp-s-path-to-2019-development-or-polarisation-452224?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5fCnbS_omE8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5fCnbS_omE8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5fCnbS_omE8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5fCnbS_omE8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "5fCnbS_omE8",
+        "videoPublishedAt": "2017-03-18T18:06:02.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/m75VKEJYujh5Zu6TEAkBmfGgJyU\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi4wNjIzRDA1OTQ2M0UyODEw",
+      "snippet": {
+        "publishedAt": "2017-03-09T11:10:30.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "The Big Fight On Patriotism: Ultra Left Vs Hyper Nationalists?",
+        "description": "Whether it's on campuses or in the social media, the public discourse is getting radically compartmentalised. The recent violence in Ramjas College followed by a bitter Twitter troll against Gurmehar Kaur, daughter of an Army soldier, for taking a stance that is against the current grain of 'hyper nationalism' has brought forth the whole debate of patriotism onto the surface. Is the discourse being dominated by either the Ultra Left or the Hyper Nationalists? Are the voices of the silent majority - who abide by Constitution but support freedom of speech with reasonable restrictions - being drowned amidst the cacophony of the two extreme groups?\n\nWatch full show: http://www.ndtv.com/video/news/the-big-fight/battleground-india-ultra-left-vs-hyper-nationalists-451011?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cfFZFMkY_HE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cfFZFMkY_HE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cfFZFMkY_HE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cfFZFMkY_HE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "cfFZFMkY_HE",
+        "videoPublishedAt": "2017-03-04T18:44:42.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/KZw_sWQH8kGxWoXmD0kKu4HaDao\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi4wQjA4QkVEQ0RFREIzMjFC",
+      "snippet": {
+        "publishedAt": "2017-02-25T18:50:56.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "The Big Fight: Uttar Pradesh - The Return Of Identity Politics?",
+        "description": "Change, development, jobs, efficiency, and an end to corruption, discrimination - it was these top promises as demonstrated by his popular slogan Sabka Saath Sabka Vikas, that swayed the elections in favour of Prime Minister Narendra Modi in 2014. But two-and-half-years later, a different discourse is being heard in the Hindi heartland of Uttar Pradesh - instead of jobs, Make in India, Beti Padhao, the high-decibel campaign is now focussing on competitive communalism - allocation of money for \"kabarastan and shamshan\" (crematoria and burial grounds), from netas insinuating that laptops have been distributed on the basis of religion to parties boasting of fielding a sizeable number of Muslim candidates. Where does it lead us? An unending vortex of caste and identity politics from which India has been unable to pull itself out? A gargantuan obstacle that puts a leash on the immense talent and energy that the youth wants to use to build a new India - where equality is the bedrock and Vikaas (development) is the only political buzzword? A roadblock that stifles nation building from taking a sublime form and attaining the glorious height that is only bestowed to a religious ceremony?\n\nWatch full show : http://www.ndtv.com/video/news/the-big-fight/the-big-fight-uttar-pradesh-the-return-of-identity-politics-450373?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xoijbYFu6B4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xoijbYFu6B4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xoijbYFu6B4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xoijbYFu6B4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "xoijbYFu6B4",
+        "videoPublishedAt": "2017-02-25T17:48:58.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/oZsSFia3ddltz1apPeR3YH7yPTQ\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi5EQTdFNDU3M0Y3MTM1QjlG",
+      "snippet": {
+        "publishedAt": "2017-03-09T11:12:24.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "The Big Fight: How Can We Expedite The Judicial Process?",
+        "description": "Any crime needs to be punished and that too in time. Justice delayed is justice denied. So why does this logic fail us when when it comes to our politicians? Is it because they are powerful or is it because we don't have the infrastructure or is it the will that we are lacking? While on one hand people wait with bated breath to see perpetrators brought to book, those, against whom false charges are pressed, wait to get their clear their names. How can we expedite the judicial process? Is setting up fast-track courts the answer or an increase in the number of judges will clear out the backlog of cases?\n\nWatch full show: http://www.ndtv.com/video/news/the-big-fight/the-big-fight-how-can-we-expedite-the-judicial-process-449697?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w1lBraj0Xto/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w1lBraj0Xto/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w1lBraj0Xto/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "w1lBraj0Xto"
+        }
+      },
+      "contentDetails": {
+        "videoId": "w1lBraj0Xto",
+        "videoPublishedAt": "2017-02-18T17:56:59.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/c3pdkqNrsKFhWFCWMwx-tMKUuEo\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi41QTQ4QTIyM0Y1RTBGMUNE",
+      "snippet": {
+        "publishedAt": "2017-02-16T13:03:15.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "The Big Fight: Who Funds Our Netas?",
+        "description": "Demonetisation was aimed at curbing black money - a substantial portion of which is used for political funding. Following on those steps, the government has reduced the limit for cash donations to political parties from Rs 20,000 to Rs 2,000 and issued electoral bonds which hope to ensure any donation above the threshold has to be paid in cheque or through digital means. Is it enough to to clean the electoral funding? Or is more transparency required to ensure black money is not routed through political parties? Critics argue that the electoral bonds will ensure that the donors remain anonymous while ensuring more contribution from individuals, corporates and organisations who have a vested interest in the government policies. So is state funding and bringing all political parties under RTI the way forward? Has the government done enough to clean the system and make every donation to parties traceable and accountable? Do write to us at bigfight@ndtv.com on what should be the steps that the government needs to take to ensure a transparent funding of political parties.\nWatch  full show: http://www.ndtv.com/video/news/the-big-fight/the-big-fight-who-funds-our-netas-448946?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_HP7ZGH6R4o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_HP7ZGH6R4o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_HP7ZGH6R4o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_HP7ZGH6R4o"
+        }
+      },
+      "contentDetails": {
+        "videoId": "_HP7ZGH6R4o",
+        "videoPublishedAt": "2017-02-11T17:42:41.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/rOhu31hL1gqN5bhChQ4MEwSyseQ\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi5CRjBFOTUzQTE4Mjg3RUJF",
+      "snippet": {
+        "publishedAt": "2017-02-04T19:46:52.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "The Big Fight: Decoding The Trump Phenomenon",
+        "description": "Close to two weeks in office and the US President has signed on 18 executive orders and memos already. The President who kept the world media on its toes always managed to leave a hint of what is to come on social media. It isn't a record of any sorts, since his predecessor signed 19 executive orders in the first 12 days of his presidency, but the one thing that perhaps stood out is how this very shrill the political rhetoric that is so markedly Trumpian hasn't faded in the face of the most important political office on the planet. However, there is no denying the fact that most of these 'executive decisions', be it the building of a wall along Mexico or the banning of entry of refugees, are issues he spoke about extensively during his campaign, so of course everything so far is according to 'plan'.\n\nWatch full video: http://www.ndtv.com/video/news/the-big-fight/the-big-fight-decoding-the-trump-phenomenon-448220?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oCjImOX92kQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oCjImOX92kQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oCjImOX92kQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oCjImOX92kQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "oCjImOX92kQ",
+        "videoPublishedAt": "2017-02-04T19:46:44.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/a0KqbPN4wHsKwHc7fgoPCxMh9v0\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi5ENUI5OTFCQkYxNDUxQjQ3",
+      "snippet": {
+        "publishedAt": "2017-01-28T17:24:44.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Budget Expectations 2017: Will PM Modi Go For A Robin Hood Budget?",
+        "description": "Two-and-half months have passed since demonetisation was announced. While a series of opinion polls have suggested considerable support for the government's bold move yet pundits have implied that the support is linked with Modi sarkaar's ability to give something 'back to people'. With the union budget to be presented on February 1, will the government go for a pro-poor, pro-farmer budget? Will it increase the outlay for social sector schemes? Will it bring in big-bang political measures such as targeted universal basic income for the poor? The larger question remains, how does the government plan to finance these schemes? Will there be a change in the tax rate? Will the government impose inheritance tax and bring back wealth tax or will it throw away fiscal consolidation into the winds? While experts agree that one direct outcome of demonetisation could be an increase in tax base however, it is too early to say that the expanding base will be able to generate the added revenue that will be needed to finance these programmes.\n\nWatch full video: http://www.ndtv.com/video/news/the-big-fight/budget-expectations-2017-will-modi-go-for-a-robin-hood-budget-447461?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k8ereXIArFY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k8ereXIArFY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k8ereXIArFY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/k8ereXIArFY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "k8ereXIArFY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "k8ereXIArFY",
+        "videoPublishedAt": "2017-01-28T17:25:05.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/28ALO1JkyKzfp3KbpUqT6IPKYxg\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi4xRjE1NzQ4MjRCMUNFRDdB",
+      "snippet": {
+        "publishedAt": "2017-03-09T11:14:09.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Crucial Assembly Elections: Who Has The Edge?",
+        "description": "The upcoming assembly polls in Uttar Pradesh, Punjab, Goa, Manipur and Uttarakhand is being touted as the semi-final in the run up to 2019 General Elections. Not only this is a chance for PM Modi to banish BJP's political 'vanavas' in Uttar Pradesh but also re-establish that his magic is intact post the demonetisation fiasco. Though early opinion polls show Congress leading in Punjab, BJP in Uttarakhand and neck-and-neck fight between Samajwadi Party and BJP in Uttar Pradesh it would be unwise to write off other parties - particularly AAP in Punjab, BSP in Uttar Pradesh. The polls would also provide an opportunity for the Congress to win atleast two or three states and improve upon its previous performance in Uttar Pradesh to come up as a strong challenger and rallying force for the opposition against the BJP. The most important question: who has the edge?\n\nWatch full show: http://www.ndtv.com/video/news/the-big-fight/crucial-assembly-elections-who-has-the-edge-445918?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SnI4_dPN1D8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SnI4_dPN1D8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SnI4_dPN1D8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SnI4_dPN1D8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "SnI4_dPN1D8",
+        "videoPublishedAt": "2017-01-14T17:51:48.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/LqwtLCasoljMmfgxZH1MpEpUPYE\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi5GN0EwRkMxQTJGMTFCNDc1",
+      "snippet": {
+        "publishedAt": "2017-01-07T19:04:11.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "The Big Fight: What Will Be The Big Headlines Of 2017?",
+        "description": "On 2017's first episode of The Big Fight, we try to predict the top headlines for the year from the fields of politics, sports, technology and popular culture. We look at some likely headlines and some very outlandish ones. Vote for your favourite headline or send us what you think will make news in 2017 at bigfight@ndtv.com.\n\nWatch full video: http://www.ndtv.com/video/news/the-big-fight/the-big-fight-what-will-be-the-big-headlines-of-2017-445052?yt\n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&utm_source=Youtube&utm_medium=embed&utm_campaign=Inhouse_App_Install",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XI7IIEkjjYY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XI7IIEkjjYY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XI7IIEkjjYY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XI7IIEkjjYY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "XI7IIEkjjYY",
+        "videoPublishedAt": "2017-01-07T18:25:19.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/cWlCRP-KPB74Bi9aXRvszFi-oZk\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi43RjdBQTMwNUUwRTA1QkE3",
+      "snippet": {
+        "publishedAt": "2017-01-02T14:04:01.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Best Of The Big Fight 2016",
+        "description": "2016 will go down in history as the year that perhaps saw the culmination of trends of disruption that have been in motion for years. The world is churning politically, economically and most of all socially and this is leading to a disruption of one's understanding of the existing world order. We take this opportunity to chronicle for you, this last year through the eyes of a debate show. We hope this not only helps encapsulate the year that has been but will also help us determine the year that is to come.\n\nDo watch this year-end special of The Big Fight and write to us with your thoughts on 2016 at bigfight@ndtv.com \n\nWatch full video: http://www.ndtv.com/video/news/the-big-fight/best-of-the-big-fight-2016-444315?yt\n                                                                                  \nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WEEO_lB67oI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WEEO_lB67oI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WEEO_lB67oI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WEEO_lB67oI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "WEEO_lB67oI",
+        "videoPublishedAt": "2017-01-01T10:08:39.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/8Ka7z58yf-gEOu1QY3a8MVeUIdA\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi5CMDk1Q0MxREYyOTVEOTZF",
+      "snippet": {
+        "publishedAt": "2016-12-24T17:25:35.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Demonetisation: Cost Vs Benefit",
+        "description": "Prime Minister's big post-demonetisation deadline of 50 days is coming to a close. Does this mean that people's ordeal with the currency ban will also come to an end? Will the government continue to have people's support and patience through its big bang reforms if they fail to achieve their original aim of retrieving black money? We ask, what lies ahead for India? How long will it take for India to become a cashless economy? What are the pitfalls? With a high bank dormancy rate of 43%, most Indians still prefer to make transactions through cash. Even if we are able to make that journey to becoming a cashless economy by 2020, does the government have the infrastructure to make online payments safe?\n\nWatch full video: http://www.ndtv.com/video/news/the-big-fight/demonetisation-cost-vs-benefit-443536?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/--CpaqKdZSQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/--CpaqKdZSQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/--CpaqKdZSQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "--CpaqKdZSQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "--CpaqKdZSQ",
+        "videoPublishedAt": "2016-12-24T17:25:29.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/retJOON4nfpU6EwKOXqtEbGHko4\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi5DODY2Qzc5Mzc1QkZEQ0NF",
+      "snippet": {
+        "publishedAt": "2016-12-17T16:39:41.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "The Big Fight: Notes Ban, A Big Success Or Massive Failure?",
+        "description": "What are some of the questions that have been on everyone's mind this last week - how long will the queues last? How long will this disruption continue? But most importantly, why is it so that while thousands of citizens stand in queues, waiting to withdraw their hard earned money, our television screens flash hoards of new cash being seized from all across the country? Has black money wriggled its way back into the system? As we take stock of the situation, we revisit the six crucial questions we asked in our last episode - Will this lead to windfall gains for the government? What will happen with the banks? Will there be a budget bonanza? Will black money be blacked out? Will the generation of black black money be curtailed in the future? And finally, how long will this disruption continue? As the weeks pass and time closes in on the Prime Minister Narendra Modi's 50-day promise, we see if our experts still hold the same opinion that they did when the PM's scheme was first announced on November 8th.\n\nWatch full video: http://www.ndtv.com/video/news/the-big-fight/the-big-fight-notes-ban-a-big-success-or-massive-failure-442788?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C3r1OZ0iED4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C3r1OZ0iED4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C3r1OZ0iED4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "C3r1OZ0iED4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "C3r1OZ0iED4",
+        "videoPublishedAt": "2016-12-17T16:43:45.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/77OoaRJCP75B_gTj1_xkbPbwXfg\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi44NzQ1OTI1OUFFM0NFRTc5",
+      "snippet": {
+        "publishedAt": "2016-12-20T08:47:43.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "After Notes Ban, Pink Is The New Black: Derek O'Brien",
+        "description": "The government's big demonetisation move has triggered an acute shortage of cash in the country and situation doesn't seem to be returning to normal any time soon, Trinamool Congress' National Spokesperson Derek O'Brien said. Speaking on The Big Fight, he said far from solving the problem, black money has just been replaced by the new pink 2,000-rupee notes.\n\nWatch full video: http://www.ndtv.com/video/news/the-big-fight/the-big-fight-notes-ban-a-big-success-or-massive-failure-442788?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XLa1a-SMnkw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XLa1a-SMnkw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XLa1a-SMnkw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XLa1a-SMnkw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "XLa1a-SMnkw",
+        "videoPublishedAt": "2016-12-17T13:33:42.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/l1jOjey7t4LwBxWqLd9VABCHGUE\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi40MzEwNkU4RUE0MjhBRjg4",
+      "snippet": {
+        "publishedAt": "2016-12-10T17:56:43.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "The Big Fight: Is There A Threat To Liberal Democracy?",
+        "description": "2016 hasn't been as sweet as the year had promised to be. It saw the 'unexpected' severance of Britain with the European Union; it saw the world's most powerful democracy elect a politically divisive Donald Trump as their 45th President. Were these events really 'unexpected'? Perhaps not. Then how did we not see it coming? Aren't journalists, the people you watch on your television screens every single night meant to 'shape' your opinions? Aren't pollsters supposed to keep their ears to the ground? How could this majority be left unheard for so long? Did the frontrunners of this liberal democracy have ideological blinkers on? Did they miss the signs as they marched forward? Or did they get too comfortable in our little bubble of enfranchisement and entitlement? Are these mere 'events' or symptoms of a larger problem? The repercussions are here for all of us to live through. It's not a crowd of a handful of bigots, ranting at the local town square as the 'politically correct' squirm in embarrassment. It's an entire population, that is responding to the isolating impact of globalisation, it's an entire population that still hasn't come to terms with the loss of their identity in this 'mixed' world, it's an entire population that is standing up for its voice to be heard by the elites, sitting in ivory towers, with their heads up in the clouds. This moment perhaps marks the dilution of an elitist discourse at the hands of a populist one? With this shrill a pitch, is democracy in peril? Does the world need to be subdued for capitalism to survive?\n\n\nWatch full video: http://www.ndtv.com/video/news/the-big-fight/the-big-fight-is-there-a-threat-to-liberal-democracy-442026?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2a8xb3qGpSI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2a8xb3qGpSI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2a8xb3qGpSI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2a8xb3qGpSI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "2a8xb3qGpSI",
+        "videoPublishedAt": "2016-12-10T17:56:39.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/j_dTcWpC95DCkUWA3SWi8gnW5FY\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi40ODU2MTBGM0M5MkIwQzU0",
+      "snippet": {
+        "publishedAt": "2016-11-26T17:53:44.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "The Big Fight: 6 Big Questions After Demonetisation",
+        "description": "It has been more than a fortnight since the ban on old 500 and 1,000 rupee notes was announced. For the common man, it meant inconvenience, for small traders it meant being unable to buy stocks, for daily labourers it translated into a nightmare, farmers were left stranded with their crops unable to pay for the fertilisers and there were those who had to run from pillar to the post to arrange money for hospitalisation. But all this inconvenience would be washed away only if the the 'big fishes' or 'fat cats' - those with black money - be caught and appropriate punishment meted out. Otherwise it will be the long queues, the hardships and the loss of business and jobs that will remain an indelible memory. To this end, we ask six crucial questions that every citizen should think about. \n\nWatch full video: http://www.ndtv.com/video/news/the-big-fight/the-big-fight-6-big-questions-after-demonetisation-440284?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rz4DEn3HKXA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rz4DEn3HKXA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rz4DEn3HKXA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rz4DEn3HKXA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "rz4DEn3HKXA",
+        "videoPublishedAt": "2016-11-26T17:53:39.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/G-kPZqsjcTeqGJiccPJ-XTLu0Og\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi42RDgxQ0M2OUIwREZCNjZF",
+      "snippet": {
+        "publishedAt": "2016-11-27T04:35:38.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "The Big Fight: 6 Questions On Demonetisation",
+        "description": "It has been more than a fortnight since the ban on old 500 and 1,000 rupee notes was announced. For the common man, it meant inconvenience, for small traders it meant being unable to buy stocks, for daily labourers it translated into a nightmare, farmers were left stranded with their crops unable to pay for the fertilisers and there were those who had to run from pillar to the post to arrange money for hospitalisation. But all this inconvenience would be washed away only if the the 'big fishes' or 'fat cats' - those with black money - be caught and appropriate punishment meted out. Otherwise it will be the long queues, the hardships and the loss of business and jobs that will remain an indelible memory. To this end, we ask six crucial questions that every citizen should think about.\n\nWatch full video: http://www.ndtv.com/video/news/the-big-fight/the-big-fight-6-big-questions-after-demonetisation-440284?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rMv5xWengdA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rMv5xWengdA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rMv5xWengdA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rMv5xWengdA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "rMv5xWengdA",
+        "videoPublishedAt": "2016-11-26T12:42:23.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/7JNntGNpsDfQG0vSICOt2Zti1ls\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi44REI4QUZDRDI5MDc4Q0NF",
+      "snippet": {
+        "publishedAt": "2016-11-20T07:30:45.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "#CashCleanup: Note Worthy Or Not Worthy?",
+        "description": "More than a week has passed since Prime Minister Narendra Modi announced his big-bang strike on black money by banning notes of higher denominations. The aam aadmi had wholeheartedly welcomed the idea initially, but with hardships and inconvenience increasing, people are questioning if there was proper planning before the announcement of this watershed move. The informal sectors have been hit the worse - local shopkeepers, vegetable vendors, small farmers, landless labourers and those working on construction sites. With the cash crunch affecting the economy, will the government show the same alacrity in ensuring that money reaches those who live on the margins of the society? Because if the ground situation doesn't improve, the move might politically backfire for the BJP and political parties like the Aaam Aadmi Party, the Trinomool Congress, the Samajwadi Party are leaving no stone unturned in criticising the government for its frailties in executing the plan. The experts on both side of the political divide are unanimous on one thing - this grand move has to be followed by a crackdown on corruption, more tax reforms and bringing in regulation in the real estate sector. Will the government tread this uncharted waters and walk the talk? Or a year or two from now, people will remember the hardships that they faced the cash crunch that made them anxious with little or no benefit that accrued from this move? Will this go down in history as the big-bang move that will rid India of its black money or will it turn out to be a damp squib?\n\nWatch full video: http://www.ndtv.com/video/news/the-big-fight/cashcleanup-note-worthy-or-not-worthy-439376?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lcLsUF1FDJk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lcLsUF1FDJk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lcLsUF1FDJk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lcLsUF1FDJk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "lcLsUF1FDJk",
+        "videoPublishedAt": "2016-11-19T21:27:35.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/ObCzUtmQAvBAFfLYGw_GzfyA9Jc\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi5FQjcyRDZBMEMyNTY3OTdE",
+      "snippet": {
+        "publishedAt": "2016-11-13T07:47:30.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "The Big Fight: PM Modi's Swachh Abhiyaan On Black Money",
+        "description": "There is perhaps no better way to clinch a cricket match than by hitting that one big century in the middle overs. The game could still flip but the least it ensures a real shot at winning the match. And that is exactly what the Modi government has done. Having completed exactly half term at two years six months this November, Narendra Modi has sealed this milestone with a master stroke. A quintessential, Modi style attack on black money. All those stashing cash at home, that includes your local kirana wallah, the vegetable vendor, the property agent, the real estate developer, the jeweller, the small businessman, even the householder who saved up small stacks of money for the rainy day, quivered with awe and disbelief. The fishing net had been lowered just enough to catch the small fish. There was panic and anxiety too, as the coming days saw shop owners refuse old 500, 1000 rupee notes, COD or cash on delivery declined as cashless payment companies sprung into actions with payment codes appearing in even tea-stalls. The shrewd Indian brain sprang into action, coming up with innovative ways or jugaad to convert black into white. But what does this really mean for the economy at large? How much cash will the government be able to accumulate through this new move? Can this move be linked to the upcoming elections in UP and Punjab? Does this small step to stir up the domestic market mean that the government is willing to go after the black money stacked away in banks across the world?\n\nWatch full show: http://www.ndtv.com/video/news/the-big-fight/the-big-fight-pm-modi-s-swachh-abhiyaan-on-black-money-438443?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VyWH0b1Awa4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VyWH0b1Awa4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VyWH0b1Awa4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VyWH0b1Awa4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "VyWH0b1Awa4",
+        "videoPublishedAt": "2016-11-12T17:31:07.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/TlOJMIJ8hK1EnlpDUkAt4YHbDeQ\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi4wMEMyQTBBOTUwNTM0OUFG",
+      "snippet": {
+        "publishedAt": "2016-11-05T18:22:02.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "'1,000 Shades Of Grey': A Tale Of 'Capital' Pollution",
+        "description": "Like Diwali, air pollution has also become a part of north India's ritual, one that no one looks forward to but is a byproduct of everything that is wrong with urban India - mis-governance, political apathy, lack of concern for the environment, poor implementation of green laws, improper planning etc. Policymakers were well aware of the impending crisis of air pollution, but little or nothing was done to prevent it. Small yet meaningful measures such as vacuuming of roads, sprinkling of water was not done. The situation worsened further by smoke rising from crop burning in neighbouring states such as Punjab and Haryana, and cracker bursting during the festival of Diwali. Now, most of northern India sits with a cloud of deadly smog hovering over it, the air quality index hit 'severe' for several cities in the region. Experts on the show, Chandra Bhushan from Centre for Science and Environment and Dr. Guleria, a renowned Pulmonologist claimed that this air pollution could lead to thousands of deaths as the air puts at risk children as well as adults. If this is not a wake up call then what is?\n\nWatch full show: http://www.ndtv.com/video/news/the-big-fight/1000-shades-of-grey-a-tale-of-capital-pollution-437592?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KZX1Gex_Jiw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KZX1Gex_Jiw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KZX1Gex_Jiw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KZX1Gex_Jiw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "KZX1Gex_Jiw",
+        "videoPublishedAt": "2016-11-05T18:22:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/_9QV95wwvJcS1wfko3Roo9U8TYU\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi44M0Q5MzQ0QTcwQzFDMjc5",
+      "snippet": {
+        "publishedAt": "2016-10-29T18:09:17.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Big Fight Diwali Special: What Is The Best Mode Of Investment?",
+        "description": "With interest rates on safe and secure small savings schemes lowering year after year, when it is not even possible to match inflationary figures anymore, where does one invest? Real Estate? Does the quest for a 'home' stand a chance as the only sector where prices stand corrected? Or should one invest 'systematically' in mutual funds which for the past few years has consistently given returns higher than the average inflationary figure? What about investing in the stock market? Can those who have limited knowledge about stocks bear the ups and downs the market offers? Or should people repose their faith on the time tested, age-old mode of investment and exchange, gold? Join us on The Big Fight as we bring to you professional experts, financial planners, fund managers to help you decide on the best mode of investment this Diwali\n\nWatch full show: http://www.ndtv.com/video/news/the-big-fight/big-fight-diwali-special-what-is-the-best-mode-of-investment-436791?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hs_DR6khIuY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hs_DR6khIuY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hs_DR6khIuY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hs_DR6khIuY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "hs_DR6khIuY",
+        "videoPublishedAt": "2016-10-29T18:09:15.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/1kaQqYPXkSWsnpknJE5HJswU4jc\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi5EN0U0NTk3NzIwMjUxN0M3",
+      "snippet": {
+        "publishedAt": "2016-10-23T02:36:19.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Wrong To Impose Criminal Liabilities On Celebrities: Actor Samir Soni",
+        "description": "In today's episode of The Big Fight on 'should celebrities be held accountable', actor Samir Soni made a very impassioned statement saying celebrities by no means can be experts on consumer durables. Consumers are well aware and do not just buy products that have been endorsed by their favourite celebrity.\n\nWatch more videos: http://www.ndtv.com/video?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xr0-T1f8jK8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xr0-T1f8jK8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xr0-T1f8jK8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xr0-T1f8jK8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "xr0-T1f8jK8",
+        "videoPublishedAt": "2016-10-23T02:36:12.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/cMJubZ7CCj8ANmTzIMeXgkX2e6E\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi5BQzRBQzNEOTgzNTU2QkZB",
+      "snippet": {
+        "publishedAt": "2016-10-22T17:17:38.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Should Celebrities Be Held Criminally Liable For Endorsements?",
+        "description": "Last year, a government testing laboratory found 'excess' lead in Maggi - one of the most popular brands of instant noodles. The brand ambassadors of the product, actors Amitabh Bachchan, Madhuri Dixit and Preity Zinta were not only flayed on social media but a case was filed against them in a local court in Uttar Pradesh. The case rested on the logic that celebrities should be held accountable for any product they endorse, since the celebrities, have a mass following and have the ability to sway people. The discourse on making celebrities accountable for misleading adverts was given a shot in the arm when the Parliamentary Standing Committee made recommendations on making celebrities accountable. Based on which, the government has prepared a draft Bill proposing criminal liabilities on celebrities featuring in misleading advertisements. It says that court can take 'cognisance' of a false or misleading endorsement if the complaint is being filed by an officer of the Central Consumer Protection Authority. Though the draft bill makes it clear that consumers won't be able to drag a celebrity to court yet the endorsers are up in arms as they say that it is impossible to validate the claims made by the manufacturers since only an expert is qualified to exercise such due diligence. Can celebrities be expected to self-regulate or should the power lie in the hands of the consumer?\n\nWatch full show: http://www.ndtv.com/video/news/the-big-fight/should-celebrities-be-held-criminally-liable-for-endorsements-436012?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bzZsfBxz_gk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bzZsfBxz_gk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bzZsfBxz_gk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bzZsfBxz_gk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "bzZsfBxz_gk",
+        "videoPublishedAt": "2016-10-22T17:17:31.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/SfCQ3DrNrt-Ta2W9bUjb-MPeXCA\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi45MEI3NjgzMTVFQkZGODYx",
+      "snippet": {
+        "publishedAt": "2016-10-16T06:24:49.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Should The State Intervene In Religious Practices?",
+        "description": "Fasting has been an integral part of organized religion in India. Sometimes fasting is undertaken for the betterment of worldly life and at times for renunciation of material comfort. But the 'Lakshman Rekha' was breached when Aradhana Samdhariya - a 13-year-old girl - suffered a fatal heart attack after completing a fast that lasted 68 days. Her death shocked the country, as her funeral procession was turned into a 'shobha yatra' in an attempt by her community to extol her virtues. It was only after the Child Rights Organizations filed a complaint that a case of culpable homicide not amounting to murder was registered against the Jain teen's parents.\n\nWatch full show: http://www.ndtv.com/video/news/the-big-fight/should-the-state-intervene-in-religious-practices-435143?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HtlrKaWrp4U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HtlrKaWrp4U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HtlrKaWrp4U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HtlrKaWrp4U"
+        }
+      },
+      "contentDetails": {
+        "videoId": "HtlrKaWrp4U",
+        "videoPublishedAt": "2016-10-15T16:47:04.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/M12arKfwI_VbBkYwQwGln_WbkZI\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi4zNEMzQ0FDREY1MkE1RkQ1",
+      "snippet": {
+        "publishedAt": "2016-10-16T06:26:35.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Uniform Civil Code, A Political Agenda?",
+        "description": "Kamal Faruqui, member of All India Muslim Personal Law Board, didn't mince his words when he said that Uniform Civil Code is a political agenda which is impossible to implement in India. Dropping a hint that consensus would even elude different religions and sects among the majority of the population, Kamal Faruqui added that the draft Code Bill first be discussed among the other sections of the population and then the Muslim community's view should be sought.\n\nWatch full show: http://www.ndtv.com/video/news/the-big-fight/should-the-state-intervene-in-religious-practices-435143?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LoMV4ru-IGE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LoMV4ru-IGE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LoMV4ru-IGE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LoMV4ru-IGE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "LoMV4ru-IGE",
+        "videoPublishedAt": "2016-10-15T14:28:15.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/csT22y7iJxTTAQlgF-8lPQCNSwA\"",
+      "id": "UExZU2ZZVmRyT1p2aWlaN3ZVajdfNWtvMW13TkliTEF2Zi5ENjg3MEUyQ0IzODMzQThB",
+      "snippet": {
+        "publishedAt": "2016-10-01T17:25:32.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Post Surgical Strikes: The Changing Dynamics Of Indo-Pak Engagement",
+        "description": "Whatever one calls it - a daring move, a game-changer, a paradigm shift - the bottomline is that  Prime Minister Narendra Modi has changed the rules of engagement with Pakistan post the September 29 surgical strikes against terror launch pads across the Line of Control. India received tremendous support from its neighbours especially from SAARC countries, which has pushed Pakistan into a corner. The US, while remaining silent on the strikes, has called on Pakistan to act against terror outfits. So what will Pakistan do now - live in denial about the surgical strikes and blame India for fanning the flame in Balochistan or wait for an opportunity to carry out another terror strike in India through its proxies whom they refer as 'non-state actors'? Or has the surgical strikes forced them to think twice before making another attempt to bleed India? The future of Indo-Pak relations might take an unpredictable turn but PM Modi's message to Pakistan is clear - an attack on India will not go unpunished.\n\nWatch full video: http://www.ndtv.com/video/news/the-big-fight/post-surgical-strikes-the-changing-dynamics-of-indo-pak-engagement-433343?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z5fVziNnbDg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z5fVziNnbDg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z5fVziNnbDg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZviiZ7vUj7_5ko1mwNIbLAvf",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "z5fVziNnbDg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "z5fVziNnbDg",
+        "videoPublishedAt": "2016-10-01T17:25:27.000Z"
+      }
+    }
+  ]
+}

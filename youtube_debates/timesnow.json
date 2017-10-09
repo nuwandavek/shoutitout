@@ -1,0 +1,2252 @@
+
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/47tsoABCw4BholtVY0DWzRiqTgw\"",
+  "nextPageToken": "CDIQAA",
+  "pageInfo": {
+    "totalResults": 2139,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/U_CDXFxJqVQmae7ImHf2bI-N8jI\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy4xNjUzQTY1REY4ODMxRjcw",
+      "snippet": {
+        "publishedAt": "2017-10-04T09:18:03.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Honeypreet Insan: Fugitive Or Protectee | The Newshour Debate (3rd October)",
+        "description": "Subscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : https://goo.gl/1odwSc\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - https://goo.gl/EwzX47\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/znBv2x9dqM0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/znBv2x9dqM0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/znBv2x9dqM0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/znBv2x9dqM0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "znBv2x9dqM0"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/622ek3VeI2JWlBuB7qySQcObISs\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy40N0Y3NzcxM0ExNkZDQUQw",
+      "snippet": {
+        "publishedAt": "2017-10-04T06:39:06.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Amit Shah Exposed Left's Hypocrisy? | The Newshour Debate (3rd October)",
+        "description": "Click Here For Latest Political News & Updates ►http://bit.ly/2xenpXW\n\nSubscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : https://goo.gl/1odwSc\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - https://goo.gl/EwzX47\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dRqAZKU-wPs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dRqAZKU-wPs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dRqAZKU-wPs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dRqAZKU-wPs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dRqAZKU-wPs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dRqAZKU-wPs"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/yzY2osz-V6XBDPrKug-ngjSxErw\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy4zMUQxOTQyQzE5QzBERTNB",
+      "snippet": {
+        "publishedAt": "2017-10-03T06:35:38.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Asaduddin Owaisi Questions Yogi Adityanath's Double Act | The Newshour Debate (2nd October)",
+        "description": "Subscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : https://goo.gl/1odwSc\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - https://goo.gl/EwzX47\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nIMLE8vB55Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nIMLE8vB55Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nIMLE8vB55Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nIMLE8vB55Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nIMLE8vB55Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nIMLE8vB55Y"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/e63CBQtubAgv1ajNKsv3pz8rp3k\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy5CQzM3M0NDRTI1N0M2QjE5",
+      "snippet": {
+        "publishedAt": "2017-10-03T06:34:15.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Kerala CM Links RSS To 'Religious Terror' | The Newshour Debate (2nd October)",
+        "description": "Click Here For Latest Political News & Updates ►http://bit.ly/2xQy9ZK\n\nSubscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : https://goo.gl/1odwSc\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - https://goo.gl/EwzX47\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eFKQqa_B3-c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eFKQqa_B3-c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eFKQqa_B3-c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eFKQqa_B3-c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eFKQqa_B3-c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eFKQqa_B3-c"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/hjpXpWHPbwfcLTV75h81rxKpWtk\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy4xNjk3REVERDdFN0EyQ0FF",
+      "snippet": {
+        "publishedAt": "2017-10-02T06:47:56.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "CM Yogi Adityanath Turns Priest For Dussehra, Is It Justified? - The Newshour Debate (01st October)",
+        "description": "Subscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : https://goo.gl/1odwSc\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - https://goo.gl/EwzX47\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kExIk-PLmiQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kExIk-PLmiQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kExIk-PLmiQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kExIk-PLmiQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kExIk-PLmiQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kExIk-PLmiQ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/GOTBuwTS_YQoeqdcD8SqCmM2c-Y\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy4yQ0M5MDIzNzdGRjFEMThF",
+      "snippet": {
+        "publishedAt": "2017-10-01T05:58:27.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Will Modi Government Scrap Article 370? - The Newshour Debate (30th September)",
+        "description": "Subscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : https://goo.gl/1odwSc\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - https://goo.gl/EwzX47\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fbVdjCGJ5xk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fbVdjCGJ5xk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fbVdjCGJ5xk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fbVdjCGJ5xk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fbVdjCGJ5xk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fbVdjCGJ5xk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/4QbVGNq1z2tYsmcSKUN6_vH8uow\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy5CMEVFM0M3OThDOTYwQTk0",
+      "snippet": {
+        "publishedAt": "2017-09-30T07:03:35.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Mumbai Stampede - Will The Authorities Still Shun Onus?- The Newshour Debate (29th September)",
+        "description": "Subscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : https://goo.gl/1odwSc\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - https://goo.gl/EwzX47\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FEwKEB_I_Is/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FEwKEB_I_Is/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FEwKEB_I_Is/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FEwKEB_I_Is/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FEwKEB_I_Is/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FEwKEB_I_Is"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/uP_2zKh3xYNRok8fSTD7qjN174E\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy44NUVBOTY4RTkzNjhCODFE",
+      "snippet": {
+        "publishedAt": "2017-09-30T06:55:06.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Mumbai Elphinston Stampede - Are Human Lives Mere Statistics? - The Newshour Debate (29th September)",
+        "description": "Subscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : https://goo.gl/1odwSc\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - https://goo.gl/EwzX47\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Bm-DMzjlPtg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Bm-DMzjlPtg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Bm-DMzjlPtg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Bm-DMzjlPtg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Bm-DMzjlPtg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Bm-DMzjlPtg"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/ku-Fx5W8pQ5QWMZ-wmm9owqECgI\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy41OUQ2QUUwOTEzNTVGODJE",
+      "snippet": {
+        "publishedAt": "2017-09-29T06:53:13.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Will Govt Sack BHU Vice Chancellor? - The Newshour Debate (28th September)",
+        "description": "Subscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : https://goo.gl/1odwSc\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - https://goo.gl/EwzX47\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PY1U0bkZvqQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PY1U0bkZvqQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PY1U0bkZvqQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PY1U0bkZvqQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PY1U0bkZvqQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PY1U0bkZvqQ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/Q4z9leTy-ItX0QEetY0Tuijozig\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy40MTYzODg1MUQ3RkJGRDJD",
+      "snippet": {
+        "publishedAt": "2017-09-28T17:46:43.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Jayant Sinha On Newshour, Can He Convince India? | The Newshour Debate (28th September)",
+        "description": "Jayant Sinha, Mos Civil Aviation joins Navika Kumar on the Newshour Debate and keeps his side of the story on behalf of 'The Government of India' for the recent economic reforms undertaken such as demonetisation & GST and its effects on the Indian economy.\n\nSubscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : https://goo.gl/1odwSc\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - https://goo.gl/EwzX47\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7bRg_YnstWg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7bRg_YnstWg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7bRg_YnstWg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7bRg_YnstWg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7bRg_YnstWg"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/-NSnfWx3YI6EazgdmiXFsnTp5ww\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy5DOUQxRTEwQzM2RUE0REVE",
+      "snippet": {
+        "publishedAt": "2017-09-28T07:00:04.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "PFI Hate Files: Shocking Link With Terror Group | The Newshour Debate (27th September)",
+        "description": "Subscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : https://goo.gl/1odwSc\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - https://goo.gl/EwzX47\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WF3AZvMUdoE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WF3AZvMUdoE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WF3AZvMUdoE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WF3AZvMUdoE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WF3AZvMUdoE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WF3AZvMUdoE"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/bva5yUoWulnSAZHsuqWHM_SoOGo\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy40NDkyRDE4QzNEMUNGREU0",
+      "snippet": {
+        "publishedAt": "2017-09-28T06:56:37.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Bofors Scam: India Cheated Twice | The Newshour Debate (27th September)",
+        "description": "Subscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : https://goo.gl/1odwSc\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - https://goo.gl/EwzX47\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5uD--vK2Wdg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5uD--vK2Wdg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5uD--vK2Wdg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5uD--vK2Wdg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5uD--vK2Wdg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5uD--vK2Wdg"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/syiU1a03YV-MwvMfZHW_0x3VlAY\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy42RTZFRTNBNjlCREJDRDFE",
+      "snippet": {
+        "publishedAt": "2017-09-27T10:22:11.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Popular Front Of India To Be Banned Soon | The Newshour Debate (26th September)",
+        "description": "Subscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : https://goo.gl/1odwSc\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - https://goo.gl/EwzX47\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BiT2Qg2JV2M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BiT2Qg2JV2M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BiT2Qg2JV2M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BiT2Qg2JV2M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BiT2Qg2JV2M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BiT2Qg2JV2M"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/l8UJqCZTFsxppex-eoEdCOKEliA\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy4xQjc2MjQ1MDk2MEI4RkZF",
+      "snippet": {
+        "publishedAt": "2017-09-26T07:01:01.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Covering Up Laxity With Lathis - The Newshour Debate (26th September)",
+        "description": "Subscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : https://goo.gl/1odwSc\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - https://goo.gl/EwzX47\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/53rzVVT5VHg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/53rzVVT5VHg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/53rzVVT5VHg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/53rzVVT5VHg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/53rzVVT5VHg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "53rzVVT5VHg"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/gJDVD1WcxWG3-YmEHBTqqmGP2LM\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy5GNjNBRDNBRTlCRUVDRUIw",
+      "snippet": {
+        "publishedAt": "2017-09-25T06:19:46.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Pakistan Scores Self-goal, Shames Itself At UN | The Newshour debate (24th September)",
+        "description": "Subscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : http://goo.gl/5XreUq\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - http://goo.gl/FzJIpz\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5Wt7aEyYj9I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5Wt7aEyYj9I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5Wt7aEyYj9I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5Wt7aEyYj9I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5Wt7aEyYj9I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5Wt7aEyYj9I"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/vVXr5L-vEmLR3MgRbDf_deB5-W0\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy4xQ0QyNjZGNzMyMTdDMDM5",
+      "snippet": {
+        "publishedAt": "2017-09-24T07:24:02.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Sushma Swaraj Tears Into Pak At UN | The Newshour Debate (23rd September)",
+        "description": "Subscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : http://goo.gl/5XreUq\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - http://goo.gl/FzJIpz\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aLKiSnmCVso/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aLKiSnmCVso/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aLKiSnmCVso/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aLKiSnmCVso/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aLKiSnmCVso/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aLKiSnmCVso"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/tBOZLNaEsc9p-vfnmUF26zhpY3Q\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy45QTRGNzE4RUEyMjAxOERB",
+      "snippet": {
+        "publishedAt": "2017-09-23T06:34:33.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "What is Rahul Gandhi Hiding From India? | The Newshour Debate (22nd September)",
+        "description": "Subscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : http://goo.gl/5XreUq\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - http://goo.gl/FzJIpz\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r5ef7DbGvXs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r5ef7DbGvXs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r5ef7DbGvXs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/r5ef7DbGvXs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/r5ef7DbGvXs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "r5ef7DbGvXs"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/HrjpnFH058E2uSUQULWYab5aNl0\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy5FOUNBNENGQ0VGMUU2NDRB",
+      "snippet": {
+        "publishedAt": "2017-09-22T06:30:55.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Is WB Government Abdicating Responsibilities? The Newshour Debate (22 September)",
+        "description": "Click Here For Latest Political News & Updates ►http://bit.ly/2fdOfUA\n\nSubscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : http://goo.gl/5XreUq\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - http://goo.gl/FzJIpz\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iFXVABNFVXQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iFXVABNFVXQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iFXVABNFVXQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iFXVABNFVXQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iFXVABNFVXQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iFXVABNFVXQ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/B3iiD9yjckgWo5o5_5Kw2vfaNz8\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy42NDBGNjg4MDhEMUUwOUE2",
+      "snippet": {
+        "publishedAt": "2017-09-22T06:28:13.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Can Neta Kamal Win It Alone? I The Newshour Debate (22 September)",
+        "description": "Click Here For Latest Political News & Updates ►http://bit.ly/2fdOfUA\n\nSubscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : http://goo.gl/5XreUq\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - http://goo.gl/FzJIpz\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aINLKoh79TU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aINLKoh79TU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aINLKoh79TU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aINLKoh79TU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aINLKoh79TU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aINLKoh79TU"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/GMkBN5Nz1PcZuQkayjX6b-nL2tM\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy5GODk3NUIwQkQ2RTVEOUZF",
+      "snippet": {
+        "publishedAt": "2017-09-21T06:43:15.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Time To Stop Giving ‘Islamists’ A Free Run? | The Newshour Debate (20th September)",
+        "description": "Subscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : http://goo.gl/5XreUq\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - http://goo.gl/FzJIpz\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gaa9MtFtM7o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gaa9MtFtM7o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gaa9MtFtM7o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Gaa9MtFtM7o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Gaa9MtFtM7o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Gaa9MtFtM7o"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/BDURnYoAAhDAnq8FsoeJdSOqcGs\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy5GNEI1QTY4Mzg3ODc0OUI5",
+      "snippet": {
+        "publishedAt": "2017-09-21T06:39:59.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Rohingya Hate Tapes: 'Sedition' In The Name Of Secularism | The Newshour Debate (20th September)",
+        "description": "Subscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : http://goo.gl/5XreUq\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - http://goo.gl/FzJIpz\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8gT_ukqM_YM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8gT_ukqM_YM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8gT_ukqM_YM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8gT_ukqM_YM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8gT_ukqM_YM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8gT_ukqM_YM"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/n8ayv79RAc-OlGDF2-Up75nVuoQ\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy40NTM1QkUwQkRGNTA2OUE5",
+      "snippet": {
+        "publishedAt": "2017-09-20T08:32:50.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Gauri Lankesh Probe Disclosure Been Suppressed? | The Newshour Debate (19th September)",
+        "description": "Click Here For Latest Political News & Updates ►http://bit.ly/2wzw8DT\n\nSubscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : http://goo.gl/5XreUq\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - http://goo.gl/FzJIpz\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wfFilbU5JP4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wfFilbU5JP4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wfFilbU5JP4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wfFilbU5JP4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wfFilbU5JP4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wfFilbU5JP4"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/3zz6-4lR-F1fcT7kp889_0lJDqI\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy4zMjM1RjY1Mzk2RDI3NzBE",
+      "snippet": {
+        "publishedAt": "2017-09-20T08:16:13.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Iqbal Kaskar Arrest - Will Cops Disclose Political Link With D-Company? | The Newshour Debate",
+        "description": "Click Here For Latest Political News & Updates ►http://bit.ly/2wzw8DT\n\nSubscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : http://goo.gl/5XreUq\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - http://goo.gl/FzJIpz\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GDoDNwmwmMc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GDoDNwmwmMc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GDoDNwmwmMc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GDoDNwmwmMc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GDoDNwmwmMc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GDoDNwmwmMc"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/WOHMrim7xou7xbDXbTU8Iu7L3mA\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy40NEY5NUZGQkQ2RDBDNkZE",
+      "snippet": {
+        "publishedAt": "2017-09-19T06:13:28.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "‘Azaadi’ Mask Off, ‘Aatank’ Truth Exposed? | The Newshour Debate (18th September)",
+        "description": "Click Here For Latest Political News & Updates ►http://bit.ly/2wzw8DT\n\nSubscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : http://goo.gl/5XreUq\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - http://goo.gl/FzJIpz\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/54aqO0ITwwM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/54aqO0ITwwM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/54aqO0ITwwM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/54aqO0ITwwM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/54aqO0ITwwM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "54aqO0ITwwM"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/suaRb2d3UDhbu7fyTGs-N154fJ4\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy4wNTgzMTkxMUUwQjU4RTFD",
+      "snippet": {
+        "publishedAt": "2017-09-19T06:04:02.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Rohingya Recruitment Tapes: Is Sheltering Hate Humanity? The Newshour Debate (18th September)",
+        "description": "Click Here For Latest Political News & Updates ►http://bit.ly/2wzw8DT\n\nTimes NOW's Navika Kumar in a debate about the Rohingya refugee row.\n\nSubscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : http://goo.gl/5XreUq\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - http://goo.gl/FzJIpz\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tzHF5cmaVwk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tzHF5cmaVwk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tzHF5cmaVwk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tzHF5cmaVwk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tzHF5cmaVwk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tzHF5cmaVwk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/NzvJknyTh9FjWAhHc4np1ywuTHU\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy4xMzY0MzI4NTZEQ0ExMDMy",
+      "snippet": {
+        "publishedAt": "2017-09-18T06:15:39.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Kalburgi Re-run In Karnataka? The Newshour Debate (17th September)",
+        "description": "Click Here For Latest Political News & Updates ►http://bit.ly/2x96AwS\n\nSubscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : http://goo.gl/5XreUq\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - http://goo.gl/FzJIpz\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1v2J5bCd9jQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1v2J5bCd9jQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1v2J5bCd9jQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1v2J5bCd9jQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1v2J5bCd9jQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1v2J5bCd9jQ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/F4dRoPpxilFz8LKoRgLhSEAuHHA\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy42ODM2Qzk4MTBCQTY0MDNB",
+      "snippet": {
+        "publishedAt": "2017-09-17T07:36:11.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Marshal Of The Indian Air Force Arjan Singh Passes Away - The Newshour Debate (16th September)",
+        "description": "Click Here For Latest Political News & Updates ►http://bit.ly/2x96AwS\n\nSubscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : http://goo.gl/5XreUq\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - http://goo.gl/FzJIpz\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4f1wVM1DWWo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4f1wVM1DWWo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4f1wVM1DWWo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4f1wVM1DWWo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4f1wVM1DWWo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4f1wVM1DWWo"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/353mvWZuwxvi_vTadeOL4-5QRIQ\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy40N0U3RTc0M0E5NjE0NUFB",
+      "snippet": {
+        "publishedAt": "2017-09-16T07:53:46.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Why Indulge A Love Jehadi? Kerala's Shafin Jahan - The Newshour Debate (15th September)",
+        "description": "Subscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : http://goo.gl/5XreUq\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - http://goo.gl/FzJIpz\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0aZh0Mcf6VA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0aZh0Mcf6VA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0aZh0Mcf6VA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0aZh0Mcf6VA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0aZh0Mcf6VA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0aZh0Mcf6VA"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/iFUnQz6PwV8kd24UOIhATOZN8tI\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy5BMDEzMEIxQjNEQTQzQzE0",
+      "snippet": {
+        "publishedAt": "2017-09-15T06:56:47.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "'Collusion' Subverting Probe In Pehlu Mob Lynching Case? - The Newshour Debate (14th September)",
+        "description": "Click Here For Latest Political News & Updates ►http://bit.ly/2xD49Dh\n\nSubscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : http://goo.gl/5XreUq\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - http://goo.gl/FzJIpz\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xYCEagmwrbE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xYCEagmwrbE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xYCEagmwrbE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xYCEagmwrbE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xYCEagmwrbE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xYCEagmwrbE"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/-2LY4WNKZyePrm4UflOf1suiG1g\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy42MDUxMENGQjBBODM4RjUy",
+      "snippet": {
+        "publishedAt": "2017-09-15T06:52:19.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Fuel & Food Price Inflation Affecting The Common Man - The Newshour Debate (14th September)",
+        "description": "Click Here For Latest Political News & Updates ►http://bit.ly/2xD49Dh\n\nSubscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : http://goo.gl/5XreUq\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - http://goo.gl/FzJIpz\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9ht3ADjjuCQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9ht3ADjjuCQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9ht3ADjjuCQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9ht3ADjjuCQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9ht3ADjjuCQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9ht3ADjjuCQ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/4FariEftr4gYPdm_dr4W6tXBRDs\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy43NjRBN0I0RUE3NjlGM0VF",
+      "snippet": {
+        "publishedAt": "2017-09-14T06:59:12.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Why 'Communalise' Compassion? - The Newshour Debate (13th September)",
+        "description": "Click Here For Latest Political News & Updates ►http://bit.ly/2h3K9CQ\n\nSubscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : http://goo.gl/5XreUq\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - http://goo.gl/FzJIpz\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vRO3iBPlCQs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vRO3iBPlCQs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vRO3iBPlCQs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vRO3iBPlCQs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vRO3iBPlCQs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vRO3iBPlCQs"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/6gPlnkP14XPZab8jaDnjRm4Pdg0\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy43MDE3OUQ0RjI4RTJFQTND",
+      "snippet": {
+        "publishedAt": "2017-09-14T06:56:33.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Will Critics Still Doubt PM Narendra Modi? - The Newshour Debate (13th September)",
+        "description": "Click Here For Latest Political News & Updates ►http://bit.ly/2h3K9CQ\n\nSubscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : http://goo.gl/5XreUq\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - http://goo.gl/FzJIpz\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zk6ESpLpY90/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zk6ESpLpY90/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zk6ESpLpY90/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zk6ESpLpY90/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zk6ESpLpY90/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zk6ESpLpY90"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/Tv5URQNdKB5c86ZotFJ5wY9lhs4\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy5FMzQ3RkQ2RjQwNTI4OTU1",
+      "snippet": {
+        "publishedAt": "2017-09-13T07:09:28.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Dynasty Over Democracy In New India?  - The Newshour Debate (12th September)",
+        "description": "Click Here For Latest Political News & Updates ►http://bit.ly/2f44G9B\n\nRahul Gandhi's Berkeley speech causes an uproar in debate between Dynasty Politics & Democracy Politics.\n\nSubscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : http://goo.gl/5XreUq\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - http://goo.gl/FzJIpz\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lVUBjSf4bzA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lVUBjSf4bzA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lVUBjSf4bzA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lVUBjSf4bzA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lVUBjSf4bzA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lVUBjSf4bzA"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/CTZ0O8mzFohwTflWc_955HY3Zss\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy43OEE4N0M5MUY1OUYxM0ZE",
+      "snippet": {
+        "publishedAt": "2017-09-12T07:32:34.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Did Congress Shield Pak 'Trojan' Rashid Engineer? - The Newshour Debate (11th September 2017)",
+        "description": "Click Here For Latest Political News & Updates ►http://bit.ly/2vQHNtp\n\nSubscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : http://goo.gl/5XreUq\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - http://goo.gl/FzJIpz\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/44IMYncW1gA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/44IMYncW1gA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/44IMYncW1gA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/44IMYncW1gA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/44IMYncW1gA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "44IMYncW1gA"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/6bzALPVTdwWr0ehU9PUn7ST2yNA\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy5GRThCODI4NjA1N0M5Qzk2",
+      "snippet": {
+        "publishedAt": "2017-09-12T07:30:00.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Negligent School, Negligent State? Gurugram Murder Case - The Newshour Debate (11th September 2017)",
+        "description": "Click Here For Latest Political News & Updates ►http://bit.ly/2vQHNtp\n\nSubscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : http://goo.gl/5XreUq\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - http://goo.gl/FzJIpz\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/87SVP-FVzRA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/87SVP-FVzRA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/87SVP-FVzRA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/87SVP-FVzRA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/87SVP-FVzRA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "87SVP-FVzRA"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/WnMEni2TNH50N69t0UzdjWYaUDY\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy4wMTQ1NzE0MzNCMzVCNDc0",
+      "snippet": {
+        "publishedAt": "2017-09-11T06:51:15.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Why oppose One India?  I The Newshour Debate (10th September)",
+        "description": "Click Here For Latest Political News & Updates ►http://bit.ly/2gWY3TI\n\nSubscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : http://goo.gl/5XreUq\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - http://goo.gl/FzJIpz\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MzvxfTIkTI0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MzvxfTIkTI0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MzvxfTIkTI0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MzvxfTIkTI0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MzvxfTIkTI0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MzvxfTIkTI0"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/-63JliIUqs9EdjKjbwoI2y85FMw\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy4yNEYwODdCOEU4QUVGMkYy",
+      "snippet": {
+        "publishedAt": "2017-09-10T07:54:13.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Politics Continues On Gauri Lankesh Murder Case | The Newshour Debate (09th September)",
+        "description": "Click Here For Latest Political News & Updates ►http://bit.ly/2gWY3TI\n\nAnand Narsimhan discusses with his panelist on the back & forth politics played by BJP & Congress over the brutal murder of Journalist Gauri Lankesh. Is this case turning out to be another Kalburgi case?\n\nSubscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : http://goo.gl/5XreUq\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - http://goo.gl/FzJIpz\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QIRJZxSBi6o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QIRJZxSBi6o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QIRJZxSBi6o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QIRJZxSBi6o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QIRJZxSBi6o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QIRJZxSBi6o"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/EIOll44vcnZxqlQu6YsU7q9kW8Q\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy41MDY3MUQxQTJBMkU0MEU1",
+      "snippet": {
+        "publishedAt": "2017-09-09T09:01:53.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Rohingya Immigration Divide: Tolerance Vs Terror? - The Newshour Debate (8th September)",
+        "description": "Click Here For Latest Political News & Updates ►http://bit.ly/2gWY3TI\n\nAnand Narasimhan talks about the Rohingya Muslims' refugee status & should they be welcomed to India from Myanmar.\n\nSubscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : http://goo.gl/5XreUq\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - http://goo.gl/FzJIpz\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LeMih-XHP9s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LeMih-XHP9s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LeMih-XHP9s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LeMih-XHP9s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LeMih-XHP9s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LeMih-XHP9s"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/Hv90--JokiXJbTKYAJI18PXr5no\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy43NjY4MzEzMzdFMTFGQTcx",
+      "snippet": {
+        "publishedAt": "2017-09-09T08:55:57.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Congress Leader Digvijaya Singh Turns Trolls Towards PM Modi - The Newshour Debate (8th September)",
+        "description": "Click Here For Latest Political News & Updates ►http://bit.ly/2gWY3TI\n\nNavika Kumar is joined by Ravishankar Prasad followed by other panelists as they discuss Digvijaya Singh's post on social media about PM Narendra Modi which caused an uproar.\n\nSubscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : http://goo.gl/5XreUq\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - http://goo.gl/FzJIpz\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Le5USalVpo4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Le5USalVpo4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Le5USalVpo4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Le5USalVpo4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Le5USalVpo4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Le5USalVpo4"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/7oIfWiYkhSx-BCbt-uxt_MfFac8\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy40QkYzNUQyODU2NjM0Qzk1",
+      "snippet": {
+        "publishedAt": "2017-09-08T06:51:29.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Politics Dictating Prejudice? | The Newshour Debate - 7th September",
+        "description": "Click Here For Latest Political News & Updates ►http://bit.ly/2xTJmIv\n\nSubscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : http://goo.gl/5XreUq\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - http://goo.gl/FzJIpz\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QlQJpT_vsPE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QlQJpT_vsPE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QlQJpT_vsPE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QlQJpT_vsPE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QlQJpT_vsPE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QlQJpT_vsPE"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/_zYSQ10ipw9i0D-Qdz7De0c6-G0\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy43OEQ3MDJDRTc3RUIwQTQ1",
+      "snippet": {
+        "publishedAt": "2017-09-08T06:40:53.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Are Politicians Into 'Self Seva' More Than 'Desh Seva'? | The Newshour Debate - 7th September",
+        "description": "Click Here For Latest Political News & Updates ►http://bit.ly/2f7LTXQ\n\nSubscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : http://goo.gl/5XreUq\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - http://goo.gl/FzJIpz\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/46ZIPV7qp9Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/46ZIPV7qp9Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/46ZIPV7qp9Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/46ZIPV7qp9Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/46ZIPV7qp9Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "46ZIPV7qp9Q"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/Gk6t3ENEWWoOPectLIDsFyNMcAw\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy5ENkJCNzNEQjExRDlEOUEz",
+      "snippet": {
+        "publishedAt": "2017-09-08T06:34:07.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Who killed Gauri Lankesh? - The Newshour Debate (6th September)",
+        "description": "Click Here For Latest Political News & Updates ►http://bit.ly/2f7LTXQ\n\nSubscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : http://goo.gl/5XreUq\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - http://goo.gl/FzJIpz\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l7tipHBIvGw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l7tipHBIvGw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l7tipHBIvGw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/l7tipHBIvGw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/l7tipHBIvGw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "l7tipHBIvGw"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/z-XjBj_X7JKfWZ_5WQWbmNNi1nk\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy4zODZBREVCQzFCQUIyNzND",
+      "snippet": {
+        "publishedAt": "2017-09-07T06:51:12.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Confession Of Funding In Kashmir Is Out; Geelani, Mirwaiz Can't Escape Now | The Newshour Debate",
+        "description": "Click Here For Latest Political News & Updates ►http://bit.ly/2f6r2nX\n\nSubscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : http://goo.gl/5XreUq\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - http://goo.gl/FzJIpz\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OJjvQ0lT8YY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OJjvQ0lT8YY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OJjvQ0lT8YY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OJjvQ0lT8YY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OJjvQ0lT8YY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OJjvQ0lT8YY"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/meQnfd-rEnSKWongx9Rha56_GSk\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy42RTk2QUEyMEU2NEExNjk0",
+      "snippet": {
+        "publishedAt": "2017-09-06T07:37:05.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Refugees Or Islamist ‘Radicals’? | The Newshour Debate (5th September 2017)",
+        "description": "Click Here For Latest Political News & Updates ►http://bit.ly/2w5Bz8p\n\nSubscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : http://goo.gl/5XreUq\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - http://goo.gl/FzJIpz\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/euoMKM6H1FY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/euoMKM6H1FY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/euoMKM6H1FY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/euoMKM6H1FY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/euoMKM6H1FY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "euoMKM6H1FY"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/xTZZcraQskwaSVl9YtiiAByFLZQ\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy5GQUI0ODVFMTIzNzkyNkIw",
+      "snippet": {
+        "publishedAt": "2017-09-06T07:34:19.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Blocking Mohan Bhagwat In Kolkata An Act Of Secularism? | The Newshour Debate (5th September 2017)",
+        "description": "Click Here For Latest Political News & Updates ►http://bit.ly/2w5Bz8p\n\nSubscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : http://goo.gl/5XreUq\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - http://goo.gl/FzJIpz\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NK7VutvEngE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NK7VutvEngE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NK7VutvEngE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NK7VutvEngE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NK7VutvEngE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NK7VutvEngE"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/osb0KkG0keufLcGWYaivlXkg9Jo\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy5FMjAwNDFFNDgyQUQxMDIy",
+      "snippet": {
+        "publishedAt": "2017-09-05T07:01:26.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "China Forced To Dump Pakistan At BRICS Summit 2017 | The Newshour Debate (04th September)",
+        "description": "Click Here For Latest Political News & Updates ►http://bit.ly/2x6vugS\n\nSubscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : http://goo.gl/5XreUq\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - http://goo.gl/FzJIpz\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nc1w2JrEznw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nc1w2JrEznw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nc1w2JrEznw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nc1w2JrEznw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nc1w2JrEznw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nc1w2JrEznw"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/dAVH1NxUSxN2kclxAq1vi11Ev-E\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy5CNUQ2MTYwMDE1OTBGRTND",
+      "snippet": {
+        "publishedAt": "2017-09-05T06:47:20.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "India’s Secrets Peddled For ‘Profit’? | The Newshour Debate (04th September)",
+        "description": "Click Here For Latest Political News & Updates ►http://bit.ly/2x6vugS\n\nSubscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : http://goo.gl/5XreUq\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - http://goo.gl/FzJIpz\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Jd6dCHUAzlE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Jd6dCHUAzlE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jd6dCHUAzlE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Jd6dCHUAzlE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Jd6dCHUAzlE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Jd6dCHUAzlE"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/CbCTqWrnMRJXsMNHRqt7EQlFuyQ\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy43NTM2RTgxNTI5M0Q3MTlG",
+      "snippet": {
+        "publishedAt": "2017-09-04T06:30:19.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "PM Modi Revamps Cabinet: Right Team For 2019? | The Newshour Debate (03rd September 2017)",
+        "description": "Navika Kumar is joined by panelists Samrit Patra, Ghanshyam Tiwari, Saba Naqvi & Smita Prakash as they discuss the revamp in the cabinet by PM Modi. Is this the right team for 2019?\n\nSubscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : http://goo.gl/5XreUq\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - http://goo.gl/FzJIpz\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UT3fJ4znEFI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UT3fJ4znEFI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UT3fJ4znEFI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UT3fJ4znEFI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UT3fJ4znEFI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UT3fJ4znEFI"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/yt7-kwWrfHYTIHOt7PVzEGeb0S4\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy44NUI2MjY2QTI3QjVGRUU4",
+      "snippet": {
+        "publishedAt": "2017-09-03T07:42:10.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Politics Claimed Anitha's Life | The Newshour Debate (2nd September)",
+        "description": "Click Here For Latest Political News & Updates ►http://bit.ly/2vXzyv0\n\nSubscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : http://goo.gl/5XreUq\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - http://goo.gl/FzJIpz\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TzL0Gv4NeN0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TzL0Gv4NeN0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TzL0Gv4NeN0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TzL0Gv4NeN0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TzL0Gv4NeN0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TzL0Gv4NeN0"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/ifsO23VUPofrJ2GpLp-ZK3r2wwU\"",
+      "id": "UExPYUZXejVISEdEUmJkRWYxOHlCZVRtT2JSWUhfTzJmQy5CNTM1OERCQzY5RjI2ODM1",
+      "snippet": {
+        "publishedAt": "2017-09-02T07:48:25.000Z",
+        "channelId": "UCw8Fc5R0Q5yyS3KrDCPM3xg",
+        "title": "Bakra Eid: 'Belief' Or 'Barbarism'? | The Newshour Debate (1st September)",
+        "description": "Click Here For Latest Political News & Updates ►http://bit.ly/2vXzyv0\n\nSubscribe to NewsHour Debate | Click Here ► http://goo.gl/LfNgFF\n\n‘Download the official TIMES NOW mobile app – Give a missed call on 1800 4190 300. Stay updated, stay ahead.’\n\nSubscribe Now To Our Network Channels\nET Now : http://goo.gl/5XreUq\nTimes Now  : http://goo.gl/U9ibPb\n\nTo Stay Updated Download the Times Now App :-\nAndroid Google Play :  https://goo.gl/zJhWjC\nApple App Store :  https://goo.gl/d7QBQZ\n\nSocial Media Links :- \nTwitter - http://goo.gl/FzJIpz\nFacebook - http://goo.gl/CC7rGc\nG+ -  http://goo.gl/O1iEp5\nAlso visit our website - http://www.timesnownews.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dc3s8pi5WVg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dc3s8pi5WVg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dc3s8pi5WVg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Dc3s8pi5WVg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Dc3s8pi5WVg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Newshour Debate",
+        "playlistId": "PLOaFWz5HHGDRbdEf18yBeTmObRYH_O2fC",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Dc3s8pi5WVg"
+        }
+      }
+    }
+  ]
+}

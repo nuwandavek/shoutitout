@@ -1,0 +1,1961 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/OLcXWNevxmsJ7nG9A1sMwu8oxBo\"",
+  "nextPageToken": "CDIQAA",
+  "pageInfo": {
+    "totalResults": 91,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/Sxd8tFbvcVbZQQ9BtVtJWSUCYGQ\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS41RDUzRjJFQ0Y0MUI3NzU1",
+      "snippet": {
+        "publishedAt": "2017-10-01T18:56:59.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Mental Health In India: Toss The Taboo",
+        "description": "According to the World Health Organisation, India is the most depressed country in the world with 36 per cent of citizens battling depression or other mental health issues. Suicide is the leading cause of death among young people. Adding to the grim picture is the almost negligible size of mental health care sector with just three psychiatrists per million Indians. On this edition of We The People, we ask: Is it time we acknowledged the existence of a looming threat to India's young demographic in the form of severe mental crises? Can a measly expenditure of 0.06% of the health budget tackle this growing menace?\n\nWatch full video: https://www.ndtv.com/video/news/we-the-people/mental-health-in-india-toss-the-taboo-469004?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UbsY7nANJvY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UbsY7nANJvY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UbsY7nANJvY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UbsY7nANJvY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "UbsY7nANJvY",
+        "videoPublishedAt": "2017-10-01T18:56:57.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/ipCSYc1nCB_mUVhoTRn6FTrVt6M\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS5ERENFNTk4Q0Q2MTZDMTA5",
+      "snippet": {
+        "publishedAt": "2017-09-24T17:43:34.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Abortion Laws: Caught In A Time Warp?",
+        "description": "It is estimated that in India, a woman dies every two hours because of unsafe abortions. Just 10 per cent of the estimated 70 lakh abortions that happen in India every year are said to be documented; the rest are assumed to take place in shady clinics, often run by quacks. In a landmark ruling in September, the Supreme Court of India allowed a 13-year-old rape victim in Mumbai to terminate her 31-week pregnancy. Yet the same court in July ruled that a 10-year-old raped child, should not be allowed to abort at 28 weeks. On We The People we ask: Why did the families of these children have to go to the court for a private decision? And, is it time for the 46-year-old Indian abortion law to be amended?\n\nWatch full video: https://www.ndtv.com/video/news/we-the-people/abortion-laws-caught-in-a-time-warp-468475?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LE1TcPUQzFs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LE1TcPUQzFs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LE1TcPUQzFs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LE1TcPUQzFs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "LE1TcPUQzFs",
+        "videoPublishedAt": "2017-09-24T17:48:13.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/Ag0IV3JWLoJipNdFUM7Rla2dZQc\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS4yM0EyQ0U1M0I2RkIwNTQ0",
+      "snippet": {
+        "publishedAt": "2017-09-17T19:05:06.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Blue Whale: Deadly Challenge Or Media Myth?",
+        "description": "Online self-harm game Blue Whale Challenge has gripped social media and headlines for the past many weeks. As per people who believe in the authenticity of the challenge, it is an online game that originated from Russia. A designated curator assigns players various tasks over a 50-day period, culminating in the player committing suicide. Several suicides across India have been linked to the challenges in some form or the other. As smartphones burrow their way further into our lives, becoming an additional limb, on this edition of We The People we ask, is there a new social and health crisis in India?\n\nWatch full video: http://www.ndtv.com/video/news/we-the-people/blue-whale-deadly-challenge-or-media-myth-467937?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w-kEmOpZFo0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w-kEmOpZFo0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w-kEmOpZFo0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "w-kEmOpZFo0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "w-kEmOpZFo0",
+        "videoPublishedAt": "2017-09-17T19:05:11.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/I9LLUMyPIxW5mgOYSibl-UoT4ug\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS5DQjg2RDQyMEVGQkZFOEVF",
+      "snippet": {
+        "publishedAt": "2017-09-10T18:41:28.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "We The People: No Country For Free Thinkers?",
+        "description": "Gauri Lankesh's murder has unleashed the worst in both the political class as well as the civil society with a blame-game and ideological sparring taking precedence over justice. Narendra Dabholkar, Govind Pansare and MM Kalburgi, all rationalists and free thinkers in their own right, were killed in a manner eerily similar to Gauri Lankesh and the perpetrators are yet to be brought to book. On this episode of We The People, we ask: Was Gauri's killing ideologically motivated or is speculation about the killers doing disservice to the investigation? What does this murder mean for freedom of speech in India ? Is the space for dissent shrinking in the largest democracy in the world?\n\nWatch full show: http://www.ndtv.com/video/news/news/we-the-people-no-country-for-free-thinkers-467369?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VV55ysaA8Jo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VV55ysaA8Jo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VV55ysaA8Jo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VV55ysaA8Jo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "VV55ysaA8Jo",
+        "videoPublishedAt": "2017-09-10T18:54:57.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/SYlfq91kaPDcvDBv32tgFg6-I5U\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS4wQUE0QzM4MkJGQ0YwQjUx",
+      "snippet": {
+        "publishedAt": "2017-09-03T17:19:21.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Marital Rape: 'Culture' Over Consent?",
+        "description": "The Delhi High Court is hearing a cluster of petitions and counter-petitions on the issue of marital rape. While one side led by non-profits RIT Foundation and AIDWA is asking the court to declare marital rape a crime, the opposing party led by another non-profit Men's Welfare Trust is against the idea representing fears that the law could be misused. The government's stand is that criminalising marital rape may lead to \"destabilisation of marriages\". On this edition of We The People, we ask: What is more important, tradition or women's rights? Does the idea of consent become impotent after marriage? Who will decide the so-called definition of marital rape?\n\nWatch full video: http://www.ndtv.com/video/news/we-the-people/marital-rape-culture-over-consent-466871?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E_y-AC1f3B4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E_y-AC1f3B4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E_y-AC1f3B4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "E_y-AC1f3B4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "E_y-AC1f3B4",
+        "videoPublishedAt": "2017-09-03T17:25:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/cZpvzuvZaKlgyp7liH4IKIUFBsE\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS5GMDBDNkJGMzYzREUyMTYw",
+      "snippet": {
+        "publishedAt": "2017-08-20T17:31:49.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "We The People: Health'scare' In India?",
+        "description": "More than 70 children lost their lives in a hospital in Uttar Pradesh's Gorakhpur last week due to an alleged shortage of oxygen. The UP health minister maintains that such deaths in the month of August are a yearly feature for Gorakhpur, the UP government has denied any dearth of oxygen. In May this year, a CAG report had warned of glaring technical shortages with many hospitals in the country including the hospital in question. On this episode of We The People, we ask: Is an expenditure of 1.16% of the GDP enough for an already crumbling health care? Has the public sector of a welfare country like India failed to provide adequate care for its people? Is the proposed PPP model the solution in waiting for India?\n\nWatch full video: http://www.ndtv.com/video/news/we-the-people/we-the-people-health-scare-in-india-465788?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Er3vvpCDNb8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Er3vvpCDNb8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Er3vvpCDNb8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Er3vvpCDNb8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Er3vvpCDNb8",
+        "videoPublishedAt": "2017-08-20T17:32:05.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/HELX2VfD_RE-AOwRlGVV2neWwuo\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS5CMUM0NzY5NzdEQzlGRjAx",
+      "snippet": {
+        "publishedAt": "2017-08-13T18:05:48.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "We The People: Who Is A Patriot And Who Gets To Decide?",
+        "description": "Seven decades ago, India threw off its yoke of colonialism and bondage. The India of then was not a homogenous entity nor is the India of today. All religions, castes, classes, ages and genders came together to fight for their freedom. Ironically, the free India of the 21st century continues to bicker over the definition of nationalism. On this episode of We The People, we ask: are symbols like war tanks and national flags enough to instill nationalism in the citizens? Does a diverse country of 1.2 billion people work better with diverse ideas of nationalism? Who decides what the definition of nationalism is? Shouldn't people in a democracy be free to choose their individual form of nationalism?\n\nWatch full video: http://www.ndtv.com/video/news/we-the-people/we-the-people-who-is-a-patriot-and-who-gets-to-decide-465254?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D-Md9va1jDo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D-Md9va1jDo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D-Md9va1jDo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "D-Md9va1jDo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "D-Md9va1jDo",
+        "videoPublishedAt": "2017-08-13T18:37:13.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/ux9NaA8PJnUP-KyboEfRtzAfs1E\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS5EMzJDRTUwQjBEOUVFQzAw",
+      "snippet": {
+        "publishedAt": "2017-08-06T17:51:16.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "We The People: No Dignity Of Labour For Domestic Workers?",
+        "description": "Indian domestic workers, comprising of mostly women and minors, have endured abuse and exploitation for a long time by their employers. The abuse often ranges from withholding of wages to starvation, not allowing time for sleep or rest, beatings, torture, and even sexual exploitation. In this edition of We The People, we ask, how can we help India's domestic help secure basic dignity in labour? Who will help India's domestic help? Are work-related rights the sole prerogative of the well-to-do?\n\nWatch full video: http://www.ndtv.com/video/news/we-the-people/we-the-people-no-dignity-of-labour-for-domestic-workers-464705?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eCxg1pfCwo4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eCxg1pfCwo4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eCxg1pfCwo4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eCxg1pfCwo4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "eCxg1pfCwo4",
+        "videoPublishedAt": "2017-08-06T17:51:05.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/vgBIuGH2I7XLPUE1Lm9kWYJYYOk\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS40NzE2MTY1QTM3RUI3QkU3",
+      "snippet": {
+        "publishedAt": "2017-07-30T18:52:44.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "We The People: 2019 Elections - Sealed For PM Modi?",
+        "description": "Since 2014, there has been a deluge of opposition leaders who have found home in the BJP, six Congress MLAs from Gujarat being the latest. The BJP now has governments in 18 out of 29 states. With Nitish deserting the RJD and joining hands with the BJP in Bihar, the Opposition seems to have lost the one face that could have led them against the BJP in 2019. On this episode of We The People, we ask: with Congress leaders critical of their central leadership, is it time for the Grand Old Party to seek change at the top? Is Nitish's new-found camaraderie with the BJP going to cost the Opposition a respectable chance in the next general elections? Is 2019 a won battle for the BJP?\n\nWatch full show: http://www.ndtv.com/video/news/we-the-people/we-the-people-2019-elections-sealed-for-pm-modi-464132?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HTBdDCe1UnE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HTBdDCe1UnE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HTBdDCe1UnE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HTBdDCe1UnE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "HTBdDCe1UnE",
+        "videoPublishedAt": "2017-07-30T18:52:34.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/yogk329rdtGVsckii1GKqYcRpcA\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS44MkM2RjVEQkQ5N0I2MjVE",
+      "snippet": {
+        "publishedAt": "2017-07-23T17:45:31.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "We The People: Farm Distress - Political Harvest?",
+        "description": "In the last few weeks, farmer agitations are making headlines from Delhi to Uttar Pradesh, Telangana, Punjab, Haryana, Gujarat and Andhra Pradesh. According to the government, there have been 11,400 farmer suicides in 2016. In 2013-14, Prime Minister Narendra Modi had committed to doubling farmer incomes in the next 5 years. But despite such high-level political commitments, progress on the ground has sadly been lacking for decades. On this edition of We The People, we turn the spotlight on the growing rural distress in India. And analyse why are farmers across India protesting? Are their demands valid?  And is India's agrarian sector a tinderbox waiting to explode?\n\nWatch full video: http://www.ndtv.com/video/news/we-the-people/we-the-people-farm-distress-political-harvest-463576?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tX56OdPxPUA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tX56OdPxPUA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tX56OdPxPUA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tX56OdPxPUA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "tX56OdPxPUA",
+        "videoPublishedAt": "2017-07-23T17:45:20.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/1gZ3SL9E6job-PrxDxcazqfLMqY\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS44QTA1QTQyRTc3M0VGQzYx",
+      "snippet": {
+        "publishedAt": "2017-07-16T19:06:41.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "We The People: Female Sexuality - Why The Taboo?",
+        "description": "The multicultural Indian society seems to be at an inflection point. While most of the youth think it's okay to have sex before marriage, around 80 per cent continue to adhere to the age-old process of arranged marriages. Moving with the times, the top court of the country ruled that live-in relationships in India are now acceptable and not taboo yet the censor board just recent expressed discomfort at the word \"intercourse\" in an upcoming movie. On this episode of We The People, we ask:  Is female sexuality still hostage to the society's patriarchal structure? Is \"modern\" India ready to talk about sex or is Indian modernism still being stifled by a conservative baggage?\n\nWatch full video: http://www.ndtv.com/video/news/we-the-people/we-the-people-female-sexuality-why-the-taboo-462990?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TkWllNbl7iA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TkWllNbl7iA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TkWllNbl7iA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TkWllNbl7iA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "TkWllNbl7iA",
+        "videoPublishedAt": "2017-07-16T19:06:34.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/kmlz2a4cXARi_ZxZGAame1dqLLs\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS4wMDFGNzBEOTU4Q0Y1Q0RG",
+      "snippet": {
+        "publishedAt": "2017-07-09T17:28:52.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "We The People: 'Modi-Fied' Foreign Policy - Optics vs Outcome",
+        "description": "Ever since he assumed office in 2014, Prime Minister Narendra Modi has visited more than 60 countries. His visit to Israel earlier this week, the first ever by an Indian Prime Minister in a departure from the traditional Israel-Palestine policy, signals that India under PM Modi's leadership is not afraid to explore unconventional relationships if they eventually serve the country's needs. That being said, the recent India-China standoff in Doklam proves that India may need to prioritise its relations with its neighbours over the rest of the world. On We The People, we ask: Is India making new friends in the Global North at the cost of its relationships with its immediate neighbours? Have the Prime Minister's many foreign visits resulted in substantial gains for the country? Does India have an opportunity to fill in the void between an unsure US and an unpredictable China?\n\nWatch full video: http://www.ndtv.com/video/news/we-the-people/we-the-people-modi-fied-foreign-policy-optics-vs-outcome-462398?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0JYhDd2BLww/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0JYhDd2BLww/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0JYhDd2BLww/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0JYhDd2BLww"
+        }
+      },
+      "contentDetails": {
+        "videoId": "0JYhDd2BLww",
+        "videoPublishedAt": "2017-07-09T17:28:38.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/x_b4-Mjf0MofpSl1APQkedIz9go\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS4xNTZBNUQxMDZBQzFGMjkw",
+      "snippet": {
+        "publishedAt": "2017-07-02T18:55:53.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "We The People: We The Lynch Mob?",
+        "description": "Hours after Prime Minister Narendra Modi spoke out on the wave of lynchings targeting minorities across the country, yet another man was lynched in the name of cow protection. The phenomenon of lynching, unfortunately, is not new to the country but the growing spate of killings and mob violence by the so-called cow vigilantes has instilled a sense of fear in the country's minorities. On this episode of We The People, we ask, have the basic ideals enshrined in our Constitution become too lofty to achieve? Have the PMs's strong words against mob violence fallen on deaf ears? Is India breaking at the seams of its diverse and delicately patched social fabric?\n\nWatch full video: http://www.ndtv.com/video/news/we-the-people/we-the-people-we-the-lynch-mob-461781?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3VbcGp4i0l0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3VbcGp4i0l0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3VbcGp4i0l0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3VbcGp4i0l0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "3VbcGp4i0l0",
+        "videoPublishedAt": "2017-07-02T19:02:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/pWW6LZIIuO6Qh-R8uJaypvoyT_k\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS4zQTkzRjgxRTY0OEU0MkM3",
+      "snippet": {
+        "publishedAt": "2017-06-26T02:19:04.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "We The People - Gorkhaland: Pipe Dream Or Can It Be A Reality?",
+        "description": "It's been eleven days since the Gorkha Janmukti Morcha called for an indefinite strike, demanding a separate state. Peaceful protests have made way for violent unrest. With the supporters of Gorkhaland out on the streets, the heart-achingly beautiful region of Darjeeling is on fire. The army has been sent in along with the paramilitary forces to try and restore law and order. Three protesters have died, one policeman has been stabbed. Shops are closed, hotels shut, businesses stalled, and ATMs are now cashless. On this edition of We The People, we ask - Is it a summer of discontent in the Darjeeling hills? Are the state and the centre playing with fire by ignoring the Gorkha identity issue? And is the demand for Gorkhaland even feasible?\n\nWatch full video: http://www.ndtv.com/video/news/we-the-people/we-the-people-gorkhaland-pipe-dream-or-can-it-be-a-reality-461172?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UByuFZoyW2U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UByuFZoyW2U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UByuFZoyW2U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UByuFZoyW2U"
+        }
+      },
+      "contentDetails": {
+        "videoId": "UByuFZoyW2U",
+        "videoPublishedAt": "2017-06-25T18:00:53.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/mctc38nRMeoz8wt38eM3GPyWbro\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS44QTY2MEEzNzBFQUJCMUQ2",
+      "snippet": {
+        "publishedAt": "2017-06-23T17:43:51.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Walk The Talk With World Economic Forum Founder Klaus Schwab",
+        "description": "\"People's mindset has changed globally and the world though more dangerous is now better\" - a puzzling comment by the Founder and Executive Chairman of the World Economic Forum and a renowned economist Prof Klaus Schwab. This remark becomes lucid when he explains that globalisation has got the world closer and encouraged risk taking but at the same time excessive risk does lead to economic crises. Professor Schwab is optimistic that US President Donald Trump will reverse his decision of the US quitting the Paris Climate Change Agreement. On Walk The Talk this week, watch the eminent economist voice his opinion on various issues including how Europe will handle Brexit and whether India can become a global economic giant, courtesy Prime Minister Narendra Modi.\n\nWatch full show: http://www.ndtv.com/video/shows/walk-the-talk/walk-the-talk-with-world-economic-forum-founder-klaus-schwab-461025?yt\n\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G22EMvB3fdc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G22EMvB3fdc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G22EMvB3fdc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "G22EMvB3fdc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "G22EMvB3fdc",
+        "videoPublishedAt": "2017-06-23T17:43:37.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/Ig7Vt2XYbE0tzsRlmsKnDzGTJGo\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS4xNjIyNEE0MDEyRDlCMjBE",
+      "snippet": {
+        "publishedAt": "2017-06-11T19:31:27.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "We The People: Body Shaming - Unfair And Ugly",
+        "description": "Be it Serena Williams - one of the world's greatest female athletes, film actors like Kareena Kapoor Khan and Aishwarya Rai Bachchan or a commoner walking on streets, most of us have been victims of body shaming at some point of time in our lives. Body shaming is a practice of humiliating people by making critical comments about their physical appearance. On this edition of We The People, the question is, who gets to decide if someone is fit or not? Is the obsession with weight and colour fair? Have we gone way too far under the pressure of looking \"perfect\"?\n\nWatch full video: http://www.ndtv.com/video/news/we-the-people/we-the-people-body-shaming-unfair-and-ugly-459856?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SXeIXaCqauU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SXeIXaCqauU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SXeIXaCqauU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SXeIXaCqauU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "SXeIXaCqauU",
+        "videoPublishedAt": "2017-06-11T19:31:16.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/kxaGug5bdIL0YTKeF983UK1CgMk\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS4xN0Y2QjVBOEI2MzQ5OUM5",
+      "snippet": {
+        "publishedAt": "2017-05-29T14:35:17.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "We The People: The Curse Of Caste?",
+        "description": "The past few weeks saw Uttar Pradesh's Saharanapur singed by disturbing caste clashes becoming the order of the day. In response, Delhi's Jantar Mantar witnessed a major Dalit rally on May 21st, against the alleged violence by upper caste Thakurs. At Jantar Mantar, thousands of Dalit protesters gathered under the banner of Bhim Army to protest against the atrocities they faced. On this edition of We The People, we ask: Is Yogi government failing to ensure its crime-free state promise? Have mainstream Dalit political fronts lost their ground? Is Dalit affirmation taking the centre stage? Has the Dalit Uprising 2.0 begun?\n\nWatch full video: http://www.ndtv.com/video/news/we-the-people/we-the-people-the-curse-of-caste-458461?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j0JztnSJJ1w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j0JztnSJJ1w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j0JztnSJJ1w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "j0JztnSJJ1w"
+        }
+      },
+      "contentDetails": {
+        "videoId": "j0JztnSJJ1w",
+        "videoPublishedAt": "2017-05-28T18:55:08.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/CHVI6_mUugEcjDdcoAVI5gJvnIM\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS45NDlDQUFFOThDMTAxQjUw",
+      "snippet": {
+        "publishedAt": "2017-05-21T19:39:37.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "We The People: New India - In Search Of Jobs",
+        "description": "A 3-year-old Modi government has a lot to boast about: be it the passage of the GST bill or a consistently high GDP. On the flip side, job creation under the government has dipped to a record 8-year low. There are other worrying signs as well: the agricultural sector grew at a measly 1.2% in 2015-16 while expenditure on education remains stagnant at 3% of the GDP. On this edition of We The People, we ask: does this government have a plan to convert 'jobless' growth into real jobs? How successful have the numerous government schemes like Make in India and Skill India been? Have risky moves like demonetisation actually worked in the government's favour?\n\nWatch full video: http://www.ndtv.com/video/news/we-the-people/we-the-people-new-india-in-search-of-jobs-457807?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qv-zmH_Ggzw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qv-zmH_Ggzw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qv-zmH_Ggzw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Qv-zmH_Ggzw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Qv-zmH_Ggzw",
+        "videoPublishedAt": "2017-05-21T19:39:24.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/1x75v8MSIO-d8ZC2ff62mCnr-wY\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS5FQUY2Qzk4RUFDN0ZFRkZF",
+      "snippet": {
+        "publishedAt": "2017-05-29T14:35:17.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "We The People: New India - In Search Of Jobs",
+        "description": "A 3-year-old Modi government has a lot to boast about: be it the passage of the GST bill or a consistently high GDP. On the flip side, job creation under the government has dipped to a record 8-year low. There are other worrying signs as well: the agricultural sector grew at a measly 1.2% in 2015-16 while expenditure on education remains stagnant at 3% of the GDP. On this edition of We The People, we ask: does this government have a plan to convert 'jobless' growth into real jobs? How successful have the numerous government schemes like Make in India and Skill India been? Have risky moves like demonetisation actually worked in the government's favour?\n\nWatch full video: http://www.ndtv.com/video/news/we-the-people/we-the-people-new-india-in-search-of-jobs-457807?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qv-zmH_Ggzw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qv-zmH_Ggzw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qv-zmH_Ggzw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Qv-zmH_Ggzw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Qv-zmH_Ggzw",
+        "videoPublishedAt": "2017-05-21T19:39:24.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/ZNH5dZ_zbOI6gPyx9vIsAwCD-aw\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS4yQzk4QTA5QjkzMTFFOEI1",
+      "snippet": {
+        "publishedAt": "2017-05-14T16:43:23.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Language: Bridge Or Divide?",
+        "description": "On April 17 this year, the President accepted the recommendations of the Parliamentary Committee on Official Language, giving a significant push to the use of Hindi in public discourse. The move has yet again invoked the ire of the non-Hindi speaking population of India, with the DMK threatening a replay of the anti-Hindi protests in Tamil Nadu in the 1960s. Another facet of this language debate is the deep Hindi-English class divide. On this edition of We The People, we ask: Is Hindi spoken widely enough to be the 'national' language of India? Is the Hindi push counter-productive to the organic growth of the language? Is the knowledge of only regional languages disadvantageous?\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n \nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch full show: http://www.ndtv.com/video/news/we-the-people/language-bridge-or-divide-457158?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/isP8jhDz26Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/isP8jhDz26Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/isP8jhDz26Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "isP8jhDz26Q"
+        }
+      },
+      "contentDetails": {
+        "videoId": "isP8jhDz26Q",
+        "videoPublishedAt": "2017-05-14T16:43:13.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/rLobwF-M-MbIAv3LbMdseH6jf6U\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS5CMEVBRUJERkUyNTBENTkz",
+      "snippet": {
+        "publishedAt": "2017-05-29T14:35:17.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Language: Bridge Or Divide?",
+        "description": "On April 17 this year, the President accepted the recommendations of the Parliamentary Committee on Official Language, giving a significant push to the use of Hindi in public discourse. The move has yet again invoked the ire of the non-Hindi speaking population of India, with the DMK threatening a replay of the anti-Hindi protests in Tamil Nadu in the 1960s. Another facet of this language debate is the deep Hindi-English class divide. On this edition of We The People, we ask: Is Hindi spoken widely enough to be the 'national' language of India? Is the Hindi push counter-productive to the organic growth of the language? Is the knowledge of only regional languages disadvantageous?\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n \nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch full show: http://www.ndtv.com/video/news/we-the-people/language-bridge-or-divide-457158?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/isP8jhDz26Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/isP8jhDz26Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/isP8jhDz26Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "isP8jhDz26Q"
+        }
+      },
+      "contentDetails": {
+        "videoId": "isP8jhDz26Q",
+        "videoPublishedAt": "2017-05-14T16:43:13.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/cleB__PvYke8UfgBd_8UdxJOzo0\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS5EQkE3RTJCQTJEQkFBQTcz",
+      "snippet": {
+        "publishedAt": "2017-05-08T04:08:39.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "We The People: A Problem Called Pakistan",
+        "description": "With two Indian soldiers mutilated in Poonch, the country, and not just the government is livid. And yet again, the government has issued strong statements. While the Sports Minister has said that terror and sports don't go along, a delegation of 50 Pakistani students was sent back on the advice of the Foreign Ministry. Clearly the cultural ties with Pakistan have taken a severe beating. But is severing cultural ties the answer? The Indian Army has obliquely hinted at military reaction at the time and place of its choosing. In response to the claims of beheading of Indian soldiers by the Indian Army, the Pakistan Army has denied any such occurrence. On this edition of We The People we ask: Can India do better? Is there anything we can do other than diplomatic statements, surgical strikes, and banning Pakistani players and artists from the country? These actions might satisfy public anger in the immediate term, but do they actually advance India's long term interest?\n\nWatch full video: http://www.ndtv.com/video/news/we-the-people/we-the-people-a-problem-called-pakistan-456539?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3QNfWqG7O_s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3QNfWqG7O_s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3QNfWqG7O_s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3QNfWqG7O_s"
+        }
+      },
+      "contentDetails": {
+        "videoId": "3QNfWqG7O_s",
+        "videoPublishedAt": "2017-05-07T19:57:47.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/1_CTmnt4OGIjqIwx9b9GIQXzCI0\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS43QzNCNkZENzIyMDY2MjZB",
+      "snippet": {
+        "publishedAt": "2017-04-30T18:28:09.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "We The People: How Should India Deal With Maoists?",
+        "description": "On April 24, 25 personnel of the Central Reserve Police Force or CRPF were killed in an attack by the Maoists. The attack came a month after 12 CRPF jawans were killed in a similar ambush on March 11. Maoists even stole 10 weapons from the dead troopers. In 2010, 75 CRPF troopers were killed in Dantewada in the heart of the so called \"red corridor\". On this episode of We The People, we are asking: Has the CRPF borne the brunt of India's decades-long battle with Maoists? Are our security forces sitting ducks in the hands of the Maoists? Are more boots on the ground the way forward? And, with 2017 marking the 50th anniversary of the Naxal movement,  do we need to rethink and reevaluate the strategy to deal with the Naxals?\n\nWatch full video: http://www.ndtv.com/video/news/we-the-people/we-the-people-how-should-india-deal-with-maoists-455898?yt\n\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mFwHmRA0Kng/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mFwHmRA0Kng/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mFwHmRA0Kng/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mFwHmRA0Kng"
+        }
+      },
+      "contentDetails": {
+        "videoId": "mFwHmRA0Kng",
+        "videoPublishedAt": "2017-04-30T18:28:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/sy1AerQjek6Yrgo-QNnt14g7Khc\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS42RTNCOEMxREI3Q0VDMjU2",
+      "snippet": {
+        "publishedAt": "2017-04-30T10:25:09.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "The Kashmir Conundrum: How Did We Get Here?",
+        "description": "The Kashmir Valley is on the boil once again. The Srinagar by-polls on April 9 recorded the lowest ever turnout of 7.13%. The polling took place amidst widespread violence and arson resulting in nine deaths. The unrest is just as palpable on social media as it is on the ground and both seem to be feeding into each other. On one hand we have a video showing a CRPF jawan being heckled at a polling booth, on the other we have a civilian being used as a human shield by the Army. On this edition of We The People, we ask: How did we get here? Did governments, both at the Centre and the state, wither away dividends of peace after the unrest of 2010 subsided? Why are more and more Kashmiri youngsters turning to militancy? And does the Modi government have a roadmap for peace in the troubled Valley? Is dialogue with all stakeholders the only way out of this violent and long-drawn stalemate?\n\nWatch full video: http://www.ndtv.com/video/news/we-the-people/the-kashmir-conundrum-how-did-we-get-here-455335?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/blRYuIwiwRs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/blRYuIwiwRs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/blRYuIwiwRs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "blRYuIwiwRs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "blRYuIwiwRs",
+        "videoPublishedAt": "2017-04-23T19:21:42.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/0nPicJu_QR9zQFXaFDAaadR_4c0\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS40MDNEMzA0QTBFRThFMzBE",
+      "snippet": {
+        "publishedAt": "2017-04-16T19:21:50.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "We The People: Government Or Big Brother?",
+        "description": "The Modi team, during the 2014 election campaign, promised \"minimum government, maximum governance\". But in the last three years, we have seen a combination of judicial and executive action at state and central levels, many of which have been accused of infringing people's personal liberty. Elements of the government are trying to control what we eat, drink, watch and even speak. After BJP's recent victory in the Uttar Pradesh Assembly elections, the re-emergence of anti-Romeo squads and increased brazenness of 'gau-rakshaks' or cow vigilantes have raised many questions. On this edition of We The People, we ask: Is India now a state of prohibition? Has the government gone too far by dictating how the free citizen of India should behave? Is the state playing a bigger role in our lives than we would like?\n\nWatch full video: http://www.ndtv.com/video/news/we-the-people/we-the-people-government-or-big-brother-454712?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5hFdYwfte9w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5hFdYwfte9w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5hFdYwfte9w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5hFdYwfte9w"
+        }
+      },
+      "contentDetails": {
+        "videoId": "5hFdYwfte9w",
+        "videoPublishedAt": "2017-04-16T19:21:42.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/Kc4L6jlClrgVtQZWQip66NHAZbs\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS42MjYzMTMyQjA0QURCN0JF",
+      "snippet": {
+        "publishedAt": "2017-04-10T05:30:53.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "We The Racists? India's 'Unfair' Obsession, Skin-Deep Prejudice",
+        "description": "Days after a series of attacks on Africans just an hour's drive from capital New Delhi and a sharp barb by foreign diplomats, the Indian government rejected that the incidents were racist in nature, pending an investigation. On this edition of We The People, we ask: Are we in denial when we say that India is not racist?  Can we hope to resolve an issue without acknowledging it? Are African envoys right in terming these attacks as xenophobic or are such incidents, like the Indian government says, are criminal offences and not racial attacks? Also, how do we respond to the racially-motivated attacks against the North- East Indians?\n\nWatch full video: http://www.ndtv.com/video/news/we-the-people/we-the-racists-india-s-unfair-obsession-skin-deep-prejudice-454098?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/liG2o4pP6ko/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/liG2o4pP6ko/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/liG2o4pP6ko/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "liG2o4pP6ko"
+        }
+      },
+      "contentDetails": {
+        "videoId": "liG2o4pP6ko",
+        "videoPublishedAt": "2017-04-10T05:30:42.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/ENEER_3SqpqEwokgWKcvI-K1H7Y\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS4xM0YyM0RDNDE4REQ1NDA0",
+      "snippet": {
+        "publishedAt": "2017-04-02T18:00:26.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "We The People: Big Fat Indian Wedding - Time To Tone It Down?",
+        "description": "Foreigners are often told that there's no better way to sample Indian culture than attending a \"Big Fat Indian Wedding\". In our homes and on our screens, there's no better way to bring large families together for celebrations that are often our greatest memories of a lifetime. But behind the celebrations lies a darker story. In most cases, given India's poverty levels, the festivities impose a crushing burden on the hosts. There is enormous pressure to host as lavish a wedding as possible. People save for a life-time, to throw that one big party - and often these savings are not enough. Many become deeply indebted as a result of wedding festivities. Today on We The People ask: is it time to trim the big fat Indian wedding? Or Is this too great an intrusion on personal liberty?\n\nWatch full video: http://www.ndtv.com/video/news/we-the-people/we-the-people-big-fat-indian-wedding-time-to-tone-it-down-453482?yt\n\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fdQyfNp8xq8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fdQyfNp8xq8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fdQyfNp8xq8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fdQyfNp8xq8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "fdQyfNp8xq8",
+        "videoPublishedAt": "2017-04-02T18:00:20.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/nS64JWvoTi5e8INSnumCBKVf3oI\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS5ERkUyQTM0MzEwQjZCMTY5",
+      "snippet": {
+        "publishedAt": "2017-03-26T17:23:13.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "We The People: Workspace - Still A Man's World?",
+        "description": "A 24-year-old former employee of the internet video company The Viral Fever wrote an anonymous blog accusing the Founder and CEO Arunabh Kumar of repeatedly harassing her and traumatizing her with unsolicited and offensive sexual advances - charges that he has strongly refuted. Within hours, many more women shared similar distressing experiences. The workplace has always been an uneasy terrain for women, especially in the predominantly male sectors such as law and technology. On We The People we ask - just how progressive is this new start-up culture? Were we naive to be taken in by the fancy logos and fashionable workplaces? As we herald a \"new India\", is all big talk drowning out the noise on the ground? Are these high profile new Indian companies just as flawed as the old guard they are trying to replace?\n\nWatch full video: http://www.ndtv.com/video/news/we-the-people/we-the-people-workspace-still-a-man-s-world-452855?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DkcNQtMs_1k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DkcNQtMs_1k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DkcNQtMs_1k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DkcNQtMs_1k"
+        }
+      },
+      "contentDetails": {
+        "videoId": "DkcNQtMs_1k",
+        "videoPublishedAt": "2017-03-26T18:28:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/6L4w7PU6vku81Jxn9EYf0htreDE\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS5CNTcxMDQ0NThBNzMxODYz",
+      "snippet": {
+        "publishedAt": "2017-03-19T18:23:56.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "College Campuses Or Cages?",
+        "description": "Last week on the day of Holi, women students at two girls' hostels in Delhi University were barred from stepping out. Earlier this month, Union Minister Maneka Gandhi said early curfews in hostels protect the youth from themselves as they are \"hormonally challenged\". On this edition of We The People we ask: is gender equality a distant dream in Indian colleges? Are political opinions reserved only for men? Why do we resort to restricting women's freedom for their 'safety' instead of educating the men?\n\nWatch full video: http://www.ndtv.com/video/news/we-the-people/college-campuses-or-cages-452273?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J7VLvn2rsKY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J7VLvn2rsKY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J7VLvn2rsKY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "J7VLvn2rsKY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "J7VLvn2rsKY",
+        "videoPublishedAt": "2017-03-19T18:23:46.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/LL_YDSC4PnOgtdWQYa4CQkvVHuA\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS5CNTZFOTNGQzZEODg1RUQx",
+      "snippet": {
+        "publishedAt": "2017-03-12T18:52:03.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "We The People - Mid-Term Thumbs Up For PM Modi",
+        "description": "Riding on the popularity of Prime Minister Narendra Modi, the BJP has swept the Uttar Pradesh and Uttarakhand assembly elections. The ruling Samajwadi Party who went into the polls in alliance with Congress has taken a bashing while Mayawati's BSP, which was considered the dark horse, has been obliterated. As the mid-term mandate gives PM Modi a thumping victory, on We The People we ask: Has BJP under Narendra Modi and Amit Shah successfully disrupted the trend of vote bank politics in India? Is it time Congress looked for a new leadership? And with this victory, are 2019 Lok Sabha Elections a done deal for BJP?\nWatch full video: http://www.ndtv.com/video/news/we-the-people/we-the-people-mid-term-thumbs-up-for-pm-modi-451719?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gCRRhehtiv0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gCRRhehtiv0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gCRRhehtiv0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gCRRhehtiv0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "gCRRhehtiv0",
+        "videoPublishedAt": "2017-03-12T18:25:19.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/7r9-ut_GtciRb8xXIbd5uqxL1_8\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS4zMUEyMkQwOTk0NTg4MDgw",
+      "snippet": {
+        "publishedAt": "2017-03-09T11:19:17.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "We The People - Triple Talaq - 'Divorced' From Reality?",
+        "description": "Banned in more than 20 countries, this form of talaq, still practised in India, finds no mention in the Quran. Last year, the Allahabad High court called the practice 'unconstitutional'. Seventy years after independence, Muslim women in our country can still be banished out of their own homes without warning. Is the debate about religious freedom or just basic human rights promised to every citizen of the country in our constitution? On We The People, we ask: is it time the world's largest democracy caught up with its neighbours and banned triple talaq? Will the Supreme Court ruling finally deliver the judgement that women like Shayara Bano and Gulshan Parveen have been waiting for?\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube\nWatch full video: http://www.ndtv.com/video/news/we-the-people/we-the-people-triple-talaq-divorced-from-reality-449775?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w0-G5KIW0YM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w0-G5KIW0YM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w0-G5KIW0YM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "w0-G5KIW0YM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "w0-G5KIW0YM",
+        "videoPublishedAt": "2017-02-19T18:45:33.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/ixWIAKOFv6dAUt2JmkytxmAaJMg\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS42QzdBMzlBQzQzRjQ0QkQy",
+      "snippet": {
+        "publishedAt": "2017-03-09T11:19:52.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "We The People: Traffic Accidents - Are We A Nation Of Onlookers?",
+        "description": "India has been shamed by a series of recent cases where accident victims lay pleading for help while the onlookers stood by, taking pictures and making videos instead. On We The People, we ask: why do we not help accident victims? People say they hesitate to get involved because they fear police harassment or legal hassles. Is this a valid excuse? Are we living in times of social paradox where we are digitally connected but detached from reality? Should we have a law that holds people accountable if they don't help? Should 'Bad Samaritans' be punished?\nWatch full video: http://www.ndtv.com/video/news/we-the-people/we-the-people-traffic-accidents-are-we-a-nation-of-onlookers-449037?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GuaArbWO9OE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GuaArbWO9OE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GuaArbWO9OE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GuaArbWO9OE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "GuaArbWO9OE",
+        "videoPublishedAt": "2017-02-12T20:06:33.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/HP-0aWKlWEkGq9mNfZhrr0hWT2o\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS41OURENDc2NEM1MDI5Mjky",
+      "snippet": {
+        "publishedAt": "2017-03-09T11:21:05.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "We The People: Art And The Right To Offend",
+        "description": "The new year is barely a month old but 2017 has already seen filmmaker Sanjay Leela Bhansali being attacked by a fringe group on the sets of his next film 'Padmavati' and protests against author Taslima Nasreen at the Jaipur Literature Festival. On We The People, we ask: has the argumentative Indian become overly sensitive? All over the world, the right to expression is subject to reasonable restriction, but have India's myriad restrictions crossed the threshold of reason?\nWatch full video: http://www.ndtv.com/video/news/we-the-people/we-the-people-art-and-the-right-to-offend-448301?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2lWcHhXkE20/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2lWcHhXkE20/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2lWcHhXkE20/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2lWcHhXkE20"
+        }
+      },
+      "contentDetails": {
+        "videoId": "2lWcHhXkE20",
+        "videoPublishedAt": "2017-02-05T18:33:47.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/1fcH3-RSg4qEFRbePZWR-jHh4jQ\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS4wRjhFM0MxMTU1MEUzQ0VB",
+      "snippet": {
+        "publishedAt": "2017-03-09T11:21:41.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "We The People: Quality Education - Free Or For A Fee?",
+        "description": "This week Supreme Court upheld the Delhi High Court verdict that made it mandatory for private unaided schools, built on Delhi Development Authority land, to seek permission of the Delhi Government before hiking tuition fees. The AAP \n\ngovernment has hailed this decision as historic and warned schools of strict action if they don't comply. On We The People, we ask: can the fee regulation solve the demand-supply gap? Will micromanaging school fees disincentivise \n\neducational entrepreneurs? While Right to Education is a fundamental right, in reality, India offers education of acceptable quality only to those who can pay for it. Multiple studies have highlighted miserable quality of education in our \n\ngovernment schools. One in six teaching positions in government schools are vacant. So are private schools the answer? On the other hand, have private schools made education a business where the focus is only on profit books? We debate.\n\nWatch full show: http://www.ndtv.com/video/news/we-the-people/we-the-people-quality-education-free-or-for-a-fee-447543?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wc2I-h3jdTM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wc2I-h3jdTM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wc2I-h3jdTM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Wc2I-h3jdTM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Wc2I-h3jdTM",
+        "videoPublishedAt": "2017-01-29T17:04:18.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/9VEONmMRtPsTlkjUE0e5TF-byUI\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS4wMTYxQzVBRDI1NEVDQUZE",
+      "snippet": {
+        "publishedAt": "2016-10-17T05:43:29.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Sedition Laws: Archaic Or Essential?",
+        "description": "On We The People, we debate whether sedition laws are needed in age of terrorism. While there was a slump in sedition cases in 2015, several high profile cases were registered this year. From JNU to Amnesty controversies, nationalism debate has taken the centre-stage. Is going against the dominant narrative seditious and do sedition laws have a place in modern democracy? \n\nWatch more videos: http://www.ndtv.com/video?yt\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j0t14CsCmcw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j0t14CsCmcw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j0t14CsCmcw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "j0t14CsCmcw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "j0t14CsCmcw",
+        "videoPublishedAt": "2016-10-16T17:48:53.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/Apex4pB70JCDrpn-2CCnT5f4BBs\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS4wNEU1MTI4NkZEMzVBN0JF",
+      "snippet": {
+        "publishedAt": "2016-08-29T02:15:59.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "No surrogacy for gays or singles: Modern families, backward bill?",
+        "description": "On We The People we look at the new Surrogacy Bill cleared by the Cabinet that bans commercial surrogacy and allows only altruistic surrogacy, that too by close relatives. The draft bill bars gays, single persons and live in couples from opting for surrogacy. On the show, we ask: is the government playing nanny with a regressive bill? Is the bill protecting the rights of women, as government claims, or denies them freedom of choice? And isn't altruistic surrogacy another form of pressure on women?\nWatch more videos: http://www.ndtv.com/video?yt\n                                                                                  \nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ayzXZrp1D60/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ayzXZrp1D60/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ayzXZrp1D60/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ayzXZrp1D60"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ayzXZrp1D60",
+        "videoPublishedAt": "2016-08-28T19:12:38.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/Nf1y_tGv72liJ-ZWoPNggX-WzY0\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS5CQkEwRDA0MDkwNUM2MDY1",
+      "snippet": {
+        "publishedAt": "2016-07-31T18:33:37.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Government vs NGOs - Transparency or crackdown?",
+        "description": "On We The People, we debate: should trustees and board members of NGOs be asked to make assets public or is this a new clash between government and NGOs? Is the Lokpal being diluted by keeping the heat on NGOs instead of bureaucrats and politicians?\nWatch more videos: http://www.ndtv.com/video?yt\n                                                                                  \nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TZquk5pqIOU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TZquk5pqIOU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TZquk5pqIOU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TZquk5pqIOU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "TZquk5pqIOU",
+        "videoPublishedAt": "2016-07-31T18:33:26.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/LObx2b_uAATpdCU0mrNbNPDYQvM\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS5GNjAwN0Y0QTFGOTVDMEMy",
+      "snippet": {
+        "publishedAt": "2016-06-07T09:17:33.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "We The People: Single parents, changing India - Has the law kept pace?",
+        "description": "On We The People, meet India's youngest single man to adopt a child. Aditya Tiwari is just 28 and has adopted a child with Down Syndrome. On the show, we look at the changing face of the great Indian family. Has the law kept pace with it? What are the struggles and challenges that single parents face? And how is technology changing the traditional family set up?\n\nWatch more videos: http://www.ndtv.com/video?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yBvzPaOUlso/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yBvzPaOUlso/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yBvzPaOUlso/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yBvzPaOUlso"
+        }
+      },
+      "contentDetails": {
+        "videoId": "yBvzPaOUlso",
+        "videoPublishedAt": "2016-05-22T20:04:18.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/uw24OFihX_IZ4hPngA9FMU8DNrw\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS41NTZEOThBNThFOUVGQkVB",
+      "snippet": {
+        "publishedAt": "2016-05-09T05:56:07.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Swacch medical admissions: Will 'NEET' break netas-colleges nexus?",
+        "description": "Supreme Court has directed a single entrance exam for admissions to medical colleges across the country -- both government and private. Many private medical colleges are owned by politicians. Is that why the single exam is being opposed? Is a single exam the only way to ensure quality doctors. Clean up or shock therapy?\n\nWatch more videos: http://www.ndtv.com/video?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EJUyFBCkG8c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EJUyFBCkG8c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EJUyFBCkG8c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EJUyFBCkG8c"
+        }
+      },
+      "contentDetails": {
+        "videoId": "EJUyFBCkG8c",
+        "videoPublishedAt": "2016-05-09T06:08:16.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/If6T-BDrPsKUGKXgPQPN9KqOquI\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS43NERCMDIzQzFBMERCMEE3",
+      "snippet": {
+        "publishedAt": "2016-06-07T09:17:04.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Malegaon mysteries: 'Saffron' terror twist or convenient politics?",
+        "description": "With the discharge of 8 Muslim men due to lack of evidence against them 10 years after they were arrested for their involvement in Malegaon blasts in 2006, we debate the new twists in these 'saffron' terror tales. Will we ever find out the truth behind these attacks or will BJP-Congress politics suppress the truth?\n\nWatch more videos: http://www.ndtv.com/video?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3moncKWsC9E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3moncKWsC9E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3moncKWsC9E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3moncKWsC9E"
+        }
+      },
+      "contentDetails": {
+        "videoId": "3moncKWsC9E",
+        "videoPublishedAt": "2016-05-02T03:58:46.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/sEqYHD2DOEpaQeeT7K7Q5oJo3Ao\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS4xMzgwMzBERjQ4NjEzNUE5",
+      "snippet": {
+        "publishedAt": "2016-04-25T03:30:53.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Didi vs rest: Left-hand drive, speed breaker for Mamata?",
+        "description": "Bengal Assembly elections appeared to be a cakewalk for Mamata Banerjee, but the coming together of the Left and the Congress seems to have thrown up a formidable challenge to the Mamata juggernaut. Will the alliance hurt Trinamool's chances? Will the BJP be able to get it 'Right' in West Bengal? What will be the impact of Saradha-Narada scams in the state politics?\n\nWatch more videos: http://www.ndtv.com/video?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LQGQ8ThSiXY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LQGQ8ThSiXY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LQGQ8ThSiXY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LQGQ8ThSiXY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "LQGQ8ThSiXY",
+        "videoPublishedAt": "2016-04-25T03:30:48.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/XuNMdfhFkcaJEar5Rgk7SklcayA\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS44QzVGQUU2QjE2NDgxM0M4",
+      "snippet": {
+        "publishedAt": "2016-04-18T14:12:53.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Beef and liquor bans: State overreach, selective outrage?",
+        "description": "As Nitish Kumar implements prohibition in Bihar and states like Tamil Nadu maybe next to do the same, we debate whether this ban is appropriate or intrusive and whether it curtails people's freedom of choice. As far as bans go, why has there been a selective outrage over banning alcohol unlike the beef ban which registered much protest. Also, considering that states justify the ban in the name of women's rights we debate: Prohibition is the answer to patriarchy & violence at home?\n\nWatch more videos: http://www.ndtv.com/video?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7z3IrCdwZRw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7z3IrCdwZRw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7z3IrCdwZRw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7z3IrCdwZRw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "7z3IrCdwZRw",
+        "videoPublishedAt": "2016-04-18T06:11:05.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/aP9VuVMxErdGr2SEZDYv_9br7fc\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS41RTNBREYwMkI5QzU3RkY2",
+      "snippet": {
+        "publishedAt": "2016-04-04T04:51:29.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "We The People: Role reversal at home - the final frontier?",
+        "description": "Can we have equality at workspace without equality at home? A new film 'Ki and Ka' explores the idea of gender role reversal. On We The People we discuss: If men and women are equal, why don't we have 'house husbands'? Why are women judged for being ambitious and men mocked if they are not.\n\nWatch more videos: http://www.ndtv.com/video?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l3loi82bnCc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l3loi82bnCc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l3loi82bnCc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "l3loi82bnCc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "l3loi82bnCc",
+        "videoPublishedAt": "2016-04-03T19:10:47.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/7EJT8GRVRvDA6U4-SwTXzVL9WrQ\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS40QzRDOEU0QUYwNUIxN0M1",
+      "snippet": {
+        "publishedAt": "2016-04-03T06:03:24.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Husbands as homemakers: Only in the movies?",
+        "description": "Can we have equality at workspace without equality at home? A new film Ki and Ka explores the idea of gender role reversal. On We The People we discuss if men and women are equal, why don’t we have 'househusbands'? Why are women judged for being ambitious and men  mocked if they are not.\n\nWatch more videos: http://www.ndtv.com/video?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x_bGc-oD2EM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x_bGc-oD2EM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x_bGc-oD2EM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "x_bGc-oD2EM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "x_bGc-oD2EM",
+        "videoPublishedAt": "2016-04-02T11:54:21.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/xSauXo_CWS6K-6bG7sjt9P781Ds\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS4yQUJFNUVCMzVDNjcxRTlF",
+      "snippet": {
+        "publishedAt": "2016-03-21T06:53:15.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Fauj vs Babus: Why 7th pay commission has the military up in arms",
+        "description": "While netas play politics over patriotism, soldiers are fighting for pay parity. The seventh pay commission says Indian Police Service and Indian Forest Service will be at par with the IAS, leaving the military behind. On We The People, we debate the pay panel's recommendations. Why this pay divide? Will politicians who are playing patriotic games put their money where their mouth is? In crises like the recent Jat agitation, the Army is often replacing civil administration, but is not being paid as much. Why is this so? Should Armed Forces have a separate pay commission?\nWatch more videos: http://www.ndtv.com/video?yt\n                                                                                  \nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z2uFqCY2pBc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z2uFqCY2pBc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z2uFqCY2pBc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "z2uFqCY2pBc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "z2uFqCY2pBc",
+        "videoPublishedAt": "2016-03-20T19:04:02.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/X4J3M9St47iOsbtpQAvAkgjwWMQ\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS4yQjZFRkExQjFGODk3RUFD",
+      "snippet": {
+        "publishedAt": "2016-03-14T02:43:56.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Melinda Gates, Kalki Koechlin and Suneeta Dhar on She The People",
+        "description": "Melinda Gates, Kalki Koechlin and Suneeta Dhar in conversation with Barkha Dutt discussing how equality at work place and equality at home remain elusive for women all over the world.\n\n\nWatch more videos: http://www.ndtv.com/video?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CS8CUjWnvmo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CS8CUjWnvmo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CS8CUjWnvmo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CS8CUjWnvmo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "CS8CUjWnvmo",
+        "videoPublishedAt": "2016-03-13T19:05:14.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/A5Y9GEsFoYnLHhYmes5Vbw2fMQk\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS41MzY4MzcwOUFFRUU3QzEx",
+      "snippet": {
+        "publishedAt": "2016-02-29T06:35:02.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Kashmiri pandits: When home is a dream",
+        "description": "In this episode we discuss whether the return of Kashmiri Pandits to their homes in Jammu and Kashmir is possible without reconciliation and justice in the state?\n\nWatch more videos: http://www.ndtv.com/video?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nc8QB1w3pxU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nc8QB1w3pxU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nc8QB1w3pxU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nc8QB1w3pxU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "nc8QB1w3pxU",
+        "videoPublishedAt": "2016-02-29T06:34:53.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/wmrwSTRssbh_KAfwRt5hn_vTIH4\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS5DNkMwRUI2MkI4QkI4NDFG",
+      "snippet": {
+        "publishedAt": "2016-02-22T09:12:31.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Jat agitation: India's 'backward march' into quota politics?",
+        "description": "In this episode, we look at the agitation by the socially and politically influential Jat community in Haryana which has taken a violent turn and discuss the burning question of caste-based reservation in this country. As the mobs go on rampage in Haryana and political leaders' houses are set on fire, we debate whether this demand for an Other Backward Class or OBC quota by Jats is justified and whether any country should make policies on the basis of violent blackmail.\n\nAs part of the NDTV and L'Oréal Paris Women of Worth Awards 2016, we bring to you the inspirational stories of women who have made a mark in the world of Arts and Sports.\n\nWatch more videos: http://www.ndtv.com/video?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1l4QXXGFWHE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1l4QXXGFWHE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1l4QXXGFWHE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1l4QXXGFWHE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "1l4QXXGFWHE",
+        "videoPublishedAt": "2016-02-22T10:28:31.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/8ASGMj10GSnenHmH_E9YOUSrQs4\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS5DRUQwODMxQzUyRTlGRkY3",
+      "snippet": {
+        "publishedAt": "2016-02-22T11:46:35.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "'Modern Marx' Piketty vs team 'Modinomics': The economy debate",
+        "description": "Three of the most influential economists, Chief Economic Adviser Arvind Subramanian, Niiti Aayog member Bibek Debroy and author of the book 'Capital' Thomas Piketty -- come together to debate India's economic future. From Income Tax data to Raghuram Rajan's comment that defaulters should not flaunt their wealth to the inheritance tax - watch the divergent views from the Left and the Right in this NDTV exclusive.\n\nWatch more videos: http://www.ndtv.com/video?yt\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/llwsirBdpUY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/llwsirBdpUY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/llwsirBdpUY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "llwsirBdpUY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "llwsirBdpUY",
+        "videoPublishedAt": "2016-01-24T17:46:09.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/mW-6Ho31esYZnH2BlRnU6628pg0\"",
+      "id": "UExZU2ZZVmRyT1p2aWZ5dzJ1LURvVFhGSS1HdFl1MUExWS45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2015-12-21T03:47:41.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "'Juvenile' rapist released; Maneka says opposition parties to blame",
+        "description": "The youngest of the six convicts in the 'Nirbhaya' (Jyoti Singh) gang-rape and murder case is released from the correctional home and is now with an NGO. Jyoti's parents say that the legal system has let them down and that their 3-year-old fight has come to zero. A new Juvenile Justice Law is stuck in the Rajya Sabha and Maneka Gandhi blames the Opposition MPs for stalling it. Should juveniles between 16 and 18 years who commit heinous crimes be tried as adults?\n\nDownload the NDTV news app: https://play.google.com/store/apps/details?id=com.july.ndtv&referrer=utm_source%3Dyoutubecards%26utm_medium%3Dcpc%26utm_campaign%3Dyoutube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yTUtdP8Qb6k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yTUtdP8Qb6k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yTUtdP8Qb6k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvifyw2u-DoTXFI-GtYu1A1Y",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yTUtdP8Qb6k"
+        }
+      },
+      "contentDetails": {
+        "videoId": "yTUtdP8Qb6k",
+        "videoPublishedAt": "2015-12-20T20:53:25.000Z"
+      }
+    }
+  ]
+}

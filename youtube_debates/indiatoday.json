@@ -1,0 +1,2256 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/UZGxsv6WVUIPbEIBU0hDkdxb_iY\"",
+  "nextPageToken": "CDIQAA",
+  "pageInfo": {
+    "totalResults": 542,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/eBSRs7a1PP7JYNV2S5R6RFvvQTc\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS4wNzkyRUNFNTBEQkNEMjg0",
+      "snippet": {
+        "publishedAt": "2017-10-06T03:05:56.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "BJP Challenges, Left Stonewalls | To The Point",
+        "description": "Amit Shah flagged off BJP’s two-week-long Jan Raksha Yatra from Kannur in Kerala in a bid to bolster the party’s prospects in the state ahead of 2019 Lok Sabha, and 2021 assembly elections. The state was witness to a bloody war between the CPM and RSS cadres for past many years. Amit Shah accused Chief Minister Pinarayi Vijayan of all the political murders in the state.\n\n___\nAbout Channel:\n\nIndia Today TV is India's leading English News Channel.\n\nIndia Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more.\n\nStay tuned for latest updates and in-depth analysis of News from India and around the World!\n\n___\nSubscribe To India Today : \nhttp://bit.ly/2vrkGte\n\n_\n\nFollow us:\n\nOfficial Website: www.indiatoday.in\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TZ1LdIbsfvo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TZ1LdIbsfvo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TZ1LdIbsfvo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TZ1LdIbsfvo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TZ1LdIbsfvo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TZ1LdIbsfvo"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/qy6ibHuFDCxLGpcR-rWbr0ceizM\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS5EM0QyMDFGNzQ4ODk3MjhB",
+      "snippet": {
+        "publishedAt": "2017-10-04T10:10:34.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "Saffron vs Red: Who Will End The 'Bloody' Fight In Kerala? | To The Point",
+        "description": "BJP president Amit Shah today directly attacked the Pinarayi Vijayan government and the Left saying that political killings were common in both Kerala and Tripura. He said that whenever the Left Front came to power in Kerala it set off a cycle of violence. Shah added that over 120 BJP and RSS workers have been killed in Kerala and over 80 of them were killed in Chief Minister Pinarayi Vijayan's constituency. The BJP president was in the state to inaugurate the party's Jana Raksha Yatra in Payyannur.\n___\nAbout Channel:\n\nIndia Today TV is India's leading English News Channel.\n\nIndia Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more.\n\nStay tuned for latest updates and in-depth analysis of News from India and around the World!\n\n___\nSubscribe To India Today : \nhttp://bit.ly/2vrkGte\n\n_\n\nFollow us:\n\nOfficial Website: www.indiatoday.in\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xAKn9lTqc_U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xAKn9lTqc_U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xAKn9lTqc_U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xAKn9lTqc_U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xAKn9lTqc_U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xAKn9lTqc_U"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/22nX8UOblzyUj1Pxt7Ec4eDCo5o\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS5FNUY3QTdGNUU3NjlGMjYz",
+      "snippet": {
+        "publishedAt": "2017-10-03T03:11:32.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "To The Point : Pinarayi Vijayan Vs Mohan Bhagwat War Of Words",
+        "description": "Kerala Chief Minister Pinarayi Vijayan has hit out RSS chief Mohan Bhagwat in a Facebook post for alleging that his government was helping anti-nationals, calling the Sangh's ideology divisive. In a Facebook post, Kerala Chief Minister Pinarayi Vijayan has hit out RSS chief Mohan Bhagwat for alleging that his government was helping anti-nationals. Vijayan said that such a remark was nothing but the Sangh's oft-used formula to pit people against one another. \"But no communal, seditious or anti-national individual or organisation can provoke Keralites, who have rejected these outfits completely.\"\n\n___\nAbout Channel:\n\nIndia Today TV is India's leading English News Channel.\n\nIndia Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more.\n\nStay tuned for latest updates and in-depth analysis of News from India and around the World!\n\n___\nSubscribe To India Today : \nhttp://bit.ly/2vrkGte\n\n_\n\nFollow us:\n\nOfficial Website: www.indiatoday.in\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GWvahbzLqKM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GWvahbzLqKM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GWvahbzLqKM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GWvahbzLqKM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GWvahbzLqKM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GWvahbzLqKM"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/n3ps66dJrnaxLmT3iXogRfpzrIA\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS41NEZEQTVEMjlBNUUyNTU2",
+      "snippet": {
+        "publishedAt": "2017-09-29T14:34:27.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "To The Point : Why Were Warnings On Elphinstone Station Stampede Ignored ?",
+        "description": "After a few commuters fell off the foot overbridge connecting Parel and Elphinstone suburban stations causing Mumabikars to panic that led to the stampede that killed 22 people, we ask whether this tragedy could have been averted. Over 30 others have been injured.\nMultiple warnings raising safety concerns over this foot overbridge went unheeded. Angry commuters are not just demanding action against the erring authorities, but also shouting slogans against Railways Minister Piyush Goyal. \n\n___\nAbout Channel:\n\nIndia Today TV is India's leading English News Channel.\n\nIndia Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more.\n\nStay tuned for latest updates and in-depth analysis of News from India and around the World!\n\n___\nSubscribe To India Today : \nhttp://bit.ly/2vrkGte\n\n_\n\nFollow us:\n\nOfficial Website: www.indiatoday.in\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9iAIicuH0q4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9iAIicuH0q4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9iAIicuH0q4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9iAIicuH0q4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9iAIicuH0q4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9iAIicuH0q4"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/P3UKylBie_bPMPjpnG6oVFJI4pU\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS5BNzc4QTUwNTI1QjY5NjA5",
+      "snippet": {
+        "publishedAt": "2017-09-28T15:25:59.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "To The Point: Big Economy Debate With Ex-FM Yashwant Sinha",
+        "description": "Ex-FM Yashwant Sinha has questioned Modi Govt's economic policies and issued a red alert for the Indian economy as GDP rate goes down quarter by quarter.\n\n___\nAbout Channel:\n\nIndia Today TV is India's leading English News Channel.\n\nIndia Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more.\n\nStay tuned for latest updates and in-depth analysis of News from India and around the World!\n\n___\nSubscribe To India Today : \nhttp://bit.ly/2vrkGte\n\n_\n\nFollow us:\n\nOfficial Website: www.indiatoday.in\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uU_tMaeyWgU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uU_tMaeyWgU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uU_tMaeyWgU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uU_tMaeyWgU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uU_tMaeyWgU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uU_tMaeyWgU"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/ffsSGr4985A3bWrkyL1un8g_NsQ\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS45QkJFMDA5MUJGODNGMkY2",
+      "snippet": {
+        "publishedAt": "2017-09-27T15:07:27.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "Politics Over Strikes On Naga Rebels : Is Congress mocking Army operation? | To The Point",
+        "description": "A large number of Naga rebels were killed along the Indo-Myanmar border after the Indian Army, in response to an attack by insurgents, rained heavy fire on NSCN(K) cadre. Para-commandos targeted Naga terrorists acting on a specific intelligence input. Meanwhile, Former Finance Minister, P Chidambaram has questioned the terror operations. He said every time when the economy is in doldrums, the government talks of a surgical strike.\n\n___\nAbout Channel:\n\nIndia Today TV is India's leading English News Channel.\n\nIndia Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more.\n\nStay tuned for latest updates and in-depth analysis of News from India and around the World!\n\n___\nSubscribe To India Today : \nhttp://bit.ly/2vrkGte\n\n_\n\nFollow us:\n\nOfficial Website: www.indiatoday.in\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YVfu8pN70WA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YVfu8pN70WA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YVfu8pN70WA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YVfu8pN70WA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YVfu8pN70WA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YVfu8pN70WA"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/zDgJVYN8yxQp_Lrny38cjaL8-cg\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS4yNTRCMzdFM0VDMDRDRkIz",
+      "snippet": {
+        "publishedAt": "2017-09-26T14:54:57.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "BHU Unrest : Should VC, Girish Chandra Tripathi Be Sacked ? | To The Point",
+        "description": "The Uttar Pradesh government today ordered a judicial inquiry into the violence on the campus of the Banaras Hindu University. Meanwhile, Girish Chandra Tripathi, the VC of Banaras Hindu University, feels that the protests were \"politically motivated\" and the whole event was just a \"simple incident of eve-teasing\".\n\n___\nAbout Channel:\n\nIndia Today TV is India's leading English News Channel.\n\nIndia Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more.\n\nStay tuned for latest updates and in-depth analysis of News from India and around the World!\n\n___\nSubscribe To India Today : \nhttp://bit.ly/2vrkGte\n\n_\n\nFollow us:\n\nOfficial Website: www.indiatoday.in\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K9f0JVFL_vg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K9f0JVFL_vg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K9f0JVFL_vg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K9f0JVFL_vg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/K9f0JVFL_vg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "K9f0JVFL_vg"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/L4n0yiQg3sUAKXLiLhAGLruePdA\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS42NzgyQkFFNEUyOTZDMkE4",
+      "snippet": {
+        "publishedAt": "2017-09-22T14:34:17.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "To The Point : India Exposes Pakistan At United Nations",
+        "description": "Responding to Pakistan Prime Minister Shahid Khaqan Abbasi's charge that India was supporting terrorism against his country, India gave a befitting reply at the UN General Assembly session describing the neighbouring nation as 'terroristan'.\n___\nAbout Channel:\n\nIndia Today TV is India's leading English News Channel.\n\nIndia Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more.\n\nStay tuned for latest updates and in-depth analysis of News from India and around the World!\n\n___\nSubscribe To India Today : \nhttp://bit.ly/2vrkGte\n\n_\n\nFollow us:\n\nOfficial Website: www.indiatoday.in\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MwNRMam5gfw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MwNRMam5gfw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MwNRMam5gfw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MwNRMam5gfw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MwNRMam5gfw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MwNRMam5gfw"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/Tjf34m_NeiU8DayJBCYtZdaQfwo\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS5DMDA1QTU3NjFEOEJENTND",
+      "snippet": {
+        "publishedAt": "2017-09-21T15:03:17.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "To The Point : Kolkata HC Revokes Mamata Govt Order On Durga Idol Immersion",
+        "description": "The Kolkata High Court Has revoked the Mamata Government order restricting the Durga idol immersion after 6pm on Muharram. The Mamata government has failed to convince the Court about the rationale behind the restriction.\n\n___\nAbout Channel:\n\nIndia Today TV is India's leading English News Channel.\n\nIndia Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more.\n\nStay tuned for latest updates and in-depth analysis of News from India and around the World!\n\n___\nSubscribe To India Today : \nhttp://bit.ly/2vrkGte\n\n_\n\nFollow us:\n\nOfficial Website: www.indiatoday.in\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xOvmntvC_o0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xOvmntvC_o0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xOvmntvC_o0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xOvmntvC_o0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xOvmntvC_o0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xOvmntvC_o0"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/5B3W3N0rEZksRKUOACKLWHA5OcY\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS4yODM3QTMyMkFFRDdEMzNE",
+      "snippet": {
+        "publishedAt": "2017-09-21T12:48:52.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "To The Point : Kolkata HC Questions Mamata Govt's Order On Durga Idol Immersion",
+        "description": "The High Court has questioned the Mamata Banerjee government after hearing a plea against the government order to immerse Durga idols by 6pm to make way for Muharram processions. The court questioned whether it was trying to create a divide between the two communities.Hearing a plea against Mamata government's order on immersing Durga idols,  The Court also added that there was no such tension between the communities in the past.\n\n___\nAbout Channel:\n\nIndia Today TV is India's leading English News Channel.\n\nIndia Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more.\n\nStay tuned for latest updates and in-depth analysis of News from India and around the World!\n\n___\nSubscribe To India Today : \nhttp://bit.ly/2vrkGte\n\n_\n\nFollow us:\n\nOfficial Website: www.indiatoday.in\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JbJ08C_nRTA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JbJ08C_nRTA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JbJ08C_nRTA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JbJ08C_nRTA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JbJ08C_nRTA"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/IZ0WBcl_kWaQ27M7Jpndfp1_XUo\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS42REM4MTcyRDk5RkFGMDg5",
+      "snippet": {
+        "publishedAt": "2017-09-19T15:01:40.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "To The Point : JeM Chief Masood Azhar Calls Muslims To Unite For Rohingyas",
+        "description": "Jaish-e-Mohammed Maulana Masood Azhar has called on the world's Muslims to unite for the cause of Myanmar's Rohingya Muslims, hundreds of thousands of whom have fled their homeland since August 25 to escape a military response to attacks by Rohingya insurgents. And he's issued a threat to Myanmar, saying it was waiting to hear \"the footsteps of the conquerors.\" Apart from Azhar, a Pakistani cleric Ashraf Jalali too made a comment promising to avenge crimes against Rohingya Muslims.\n\n___\nAbout Channel:\n\nIndia Today TV is India's leading English News Channel.\n\nIndia Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more.\n\nStay tuned for latest updates and in-depth analysis of News from India and around the World!\n\n___\nSubscribe To India Today : \nhttp://bit.ly/2vrkGte\n\n_\n\nFollow us:\n\nOfficial Website: www.indiatoday.in\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_xIVRA1apVs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_xIVRA1apVs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_xIVRA1apVs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_xIVRA1apVs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_xIVRA1apVs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_xIVRA1apVs"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/Cxy_efLHL5MAliuEjGOCsCW3p34\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS43QUY2NjhEOUFDMDE4Mjgx",
+      "snippet": {
+        "publishedAt": "2017-09-18T14:29:41.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "To The Point : End Of Mannargudi Clan In Tamil Nadu Politics ?",
+        "description": "In a massive setback for the Sasikala - Dinakaran camp, the Tamil Nadu assembly speaker has disqualified 18 MLAs who were backing them. The number games are massively tilted in favor of EPS-OPS camp with the total strength of the assembly being reduced.\n\n___\nAbout Channel:\n\nIndia Today TV is India's leading English News Channel.\n\nIndia Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more.\n\nStay tuned for latest updates and in-depth analysis of News from India and around the World!\n\n___\nSubscribe To India Today : \nhttp://bit.ly/2vrkGte\n\n_\n\nFollow us:\n\nOfficial Website: www.indiatoday.in\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WCRC2SwyRXE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WCRC2SwyRXE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WCRC2SwyRXE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WCRC2SwyRXE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WCRC2SwyRXE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WCRC2SwyRXE"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/woUaec6v3EtLi0JK-KCUQp8lTBU\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS41ODMwMTY5RkJCRDBDRDUy",
+      "snippet": {
+        "publishedAt": "2017-09-15T14:52:25.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "To The Point: Modi Government To Reconsider On Deporting Rohingyas?",
+        "description": "Considered as the world's most persecuted minority 'Rohingyas' are said to be a threat to national security by Modi Government in an affidavit filled in the supreme court. But the opposition soon after made the statement backlashed against Modi Government.\n___\nAbout Channel:\n\nIndia Today TV is India's leading English News Channel.\n\nIndia Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more.\n\nStay tuned for latest updates and in-depth analysis of News from India and around the World!\n\n___\nSubscribe To India Today : \nhttp://bit.ly/2vrkGte\n\nMore From This Playlist: \n_\n\nFollow us:\n\nOfficial Website: www.indiatoday.in\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QtFZV4_TJMw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QtFZV4_TJMw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QtFZV4_TJMw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QtFZV4_TJMw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QtFZV4_TJMw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QtFZV4_TJMw"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/Jpq5ZQUBHhJNOShcWpeyjxmo29w\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS4xMEVEM0Y0QUI2N0JEOTY5",
+      "snippet": {
+        "publishedAt": "2017-09-14T14:49:11.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "To The Point: Opposition Trying To Derail India's First Bullet Train Project ?",
+        "description": "Indian Prime Minister, Narendra Modi and Japanese Prime Minister, Shinzo Abe launched India's ambitious Ahmedabad-Mumbai high-speed train project in Ahmedabad. But in opposition, Shiv Sena thinks that it's a gimmick for next election and Congress talks about making train travel safer first. \n___\nAbout Channel:\n\nIndia Today TV is India's leading English News Channel.\n\nIndia Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more.\n\nStay tuned for latest updates and in-depth analysis of News from India and around the World!\n\n___\nSubscribe To India Today : \nhttp://bit.ly/2vrkGte\n\nMore From This Playlist: \n_\n\nFollow us:\n\nOfficial Website: www.indiatoday.in\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/opHMkuNvLok/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/opHMkuNvLok/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/opHMkuNvLok/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/opHMkuNvLok/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/opHMkuNvLok/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "opHMkuNvLok"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/gaWL_rlodaUFmFFchG-YqJ8afyo\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS5FMEIzOTY1MURERTA1RTMx",
+      "snippet": {
+        "publishedAt": "2017-09-14T02:37:06.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "To The Point : CCTV Captured The Live Murder Of Pradyumn | Exclusive",
+        "description": "In the India's most bone chilling murder, where everyday there are twists and turns. There is a big revelation that CCTV cameras were working and have captured the murder live. India Today will reveal the murderer of innocent Pradyumn.\n___\nAbout Channel:\n\nIndia Today TV is India's leading English News Channel.\n\nIndia Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more.\n\nStay tuned for latest updates and in-depth analysis of News from India and around the World!\n\n___\nSubscribe To India Today : \nhttp://bit.ly/2vrkGte\n\nMore From This Playlist: \n_\n\nFollow us:\n\nOfficial Website: www.indiatoday.in\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7wBSkQ8j4Vc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7wBSkQ8j4Vc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7wBSkQ8j4Vc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7wBSkQ8j4Vc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7wBSkQ8j4Vc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7wBSkQ8j4Vc"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/mDNbLyVbGgRaA2Fwlqpzx8kTCug\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS5CM0Q1QTM2Mjc0NzBGMDgw",
+      "snippet": {
+        "publishedAt": "2017-09-13T16:01:08.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "Ryan Murder Case | Pradyumn's Murderer Revealed, CCTV Was Working",
+        "description": "As the days pass, the Pradyuman murder case is taking various twists and turns. There is the contrast in the statements of the eye-witnesses. And now there is the new revelation that CCTV was working, watch to the point where India Today will reveal who killed Pradyuman.\n___\nAbout Channel:\n\nIndia Today TV is India's leading English News Channel.\n\nIndia Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more.\n\nStay tuned for latest updates and in-depth analysis of News from India and around the World!\n\n___\nSubscribe To India Today : \nhttp://bit.ly/2vrkGte\n\nMore From This Playlist: \n_\n\nFollow us:\n\nOfficial Website: www.indiatoday.in\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WnEWSSkqR5Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WnEWSSkqR5Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WnEWSSkqR5Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WnEWSSkqR5Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WnEWSSkqR5Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WnEWSSkqR5Q"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/wBzKYOZLHML8bNoIRHqLK8YMPrk\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS5EOTVDMUUxREU1QUE1RjE4",
+      "snippet": {
+        "publishedAt": "2017-09-12T14:58:28.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "To The Point: Tamil Game Of Thrones, Mannargudi Clan Blown Away",
+        "description": "AIADMK General Council in Chennai has expelled Sasikala Natarajan and TTV Dinakaran from the party. \nThe party has passed a resolution to remain as a unified faction and for restoring the two leaves symbol of the party. \n___\nAbout Channel:\n\nIndia Today TV is India's leading English News Channel.\n\nIndia Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more.\n\nStay tuned for latest updates and in-depth analysis of News from India and around the World!\n\n___\nSubscribe To India Today : \nhttp://bit.ly/2vrkGte\n\nMore From This Playlist: \n_\n\nFollow us:\n\nOfficial Website: www.indiatoday.in\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UPBwVg_ao5Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UPBwVg_ao5Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UPBwVg_ao5Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UPBwVg_ao5Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UPBwVg_ao5Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UPBwVg_ao5Y"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/Ri06pUTiUukTZ2vy9TR_JLLs3Ts\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS4wMUM3OUNGRDRERUUwQzdC",
+      "snippet": {
+        "publishedAt": "2017-09-12T02:53:41.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "To The Point : Pradyuman's Murder Opens Loopholes In Safety Of Country's School",
+        "description": "Pradyuman's parents are waiting for CBI inquiry to reveal the truth behind the country's school and its safety. They have hope from Supreme Court, but still mercifully begging for justice for their beloved son Pradyuman.\n___\nAbout Channel:\n\nIndia Today TV is India's leading English News Channel.\n\nIndia Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more.\n\nStay tuned for latest updates and in-depth analysis of News from India and around the World!\n\n___\nSubscribe To India Today : \nhttp://bit.ly/2vrkGte\n\nMore From This Playlist: \n_\n\nFollow us:\n\nOfficial Website: www.indiatoday.in\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zF_cilaVn38/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zF_cilaVn38/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zF_cilaVn38/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zF_cilaVn38/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zF_cilaVn38/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zF_cilaVn38"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/pb5n12GNAMem-XFqPBbsyLOlC3U\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS4zQkFFRDQ1REVCQjgwM0Ux",
+      "snippet": {
+        "publishedAt": "2017-09-08T15:04:21.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "To The Point | Digvijaya Singh Posts Tweet With Abusive Words To Criticise PM Modi",
+        "description": "Congress Rajya Sabha Parliamentarian Digvijaya Singh on Friday posted an image on Twitter containing decidedly unparliamentary language to criticise Prime Minister Narendra Modi.\nThe tweet is a meme - it has a picture of the PM with two jokey sentences both of which have curse words.\nWatch To The Point discussion on the stand of political parties of it.\n\n___\nAbout Channel:\n\nIndia Today TV is India's leading English News Channel.\n\nIndia Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more.\n\nStay tuned for latest updates and in-depth analysis of News from India and around the World!\n\n___\nSubscribe To India Today : \nhttp://bit.ly/2vrkGte\n\nMore From This Playlist: \n_\n\nFollow us:\n\nOfficial Website: www.indiatoday.in\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1Z3ymllmxNM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1Z3ymllmxNM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1Z3ymllmxNM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1Z3ymllmxNM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1Z3ymllmxNM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1Z3ymllmxNM"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/Z16jpIsaImOFtVfIAsepDJkrn4Y\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS4yMkNFMjVBNzFDQTZBM0E4",
+      "snippet": {
+        "publishedAt": "2017-09-06T15:03:06.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "To The Point: Is Mamta Scared Of Rising Right Wing In West Bengal?",
+        "description": "Mamata Banerjee government has denied permission to BJP to hold an event which was to be attended by Amit Shah. State BJP general secretary Sayantan Basu claimed that the party had submitted two applications to state government-run Netaji Indoor Stadium to book the hall for September 10 or 12, \n___\nAbout Channel:\n\nIndia Today TV is India's leading English News Channel.\n\nIndia Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more.\n\nStay tuned for latest updates and in-depth analysis of News from India and around the World!\n\n___\nSubscribe To India Today : \nhttp://bit.ly/2vrkGte\n\nMore From This Playlist: \n_\n\nFollow us:\n\nOfficial Website: www.indiatoday.in\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zo9xyKEuu8E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zo9xyKEuu8E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zo9xyKEuu8E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zo9xyKEuu8E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zo9xyKEuu8E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zo9xyKEuu8E"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/YNiBFpYQ4XTzwIDrF9-TM_LzSEE\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS43MkE0RTQyNUQ5RTk1NTg0",
+      "snippet": {
+        "publishedAt": "2017-08-29T15:30:38.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "To The Point: Top 8 Developments From Flooded Mumbai",
+        "description": "The top 8 developments that have come to light as Mumbai is sumberged in water after hours of rain. The PM has urged the Mumbaikars to stay safe as MET department predicts heavy rainfaill for next 48 hours.\n\nAbout Channel:\n\nIndia Today TV is India's leading English News Channel.\n\nIndia Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more.\n\nStay tuned for latest updates and in-depth analysis of News from India and around the World!\n\nSubscribe To India Today : \nhttps://www.youtube.com/channel/UCYPvAwZP8pZhSMW8qs7cVCw\n\nFollow us:\n\nOfficial Website: www.indiatoday.in\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday\n\nSubscribe to our other network channels:\n\nDailyO: \nhttps://www.youtube.com/dailyo\n\nAaj Tak: \nhttps://www.youtube.com/user/aajtaktv\n\nTez:\nhttp://www.youtube.com/user/teztvnews\n\nDilli Aajtak:\nhttp://www.youtube.com/user/DilliAajtak\n\nSoSorry: \nhttps://www.youtube.com/user/sosorrypolitoon",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7BFrRNMa9kc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7BFrRNMa9kc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7BFrRNMa9kc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7BFrRNMa9kc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7BFrRNMa9kc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7BFrRNMa9kc"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/eoJ1fkaaQbrcoEPO7-OfXlWL0gI\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS5BMDcyOTk4NUIwNjkzRkY4",
+      "snippet": {
+        "publishedAt": "2017-08-29T02:47:42.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "Gurmeet Singh Actually Gets 20 Yrs Imprisonment, 10 Years In Each Case",
+        "description": "Rape convict Dera Sacha Sauda chief Gurmeet Ram Rahim Singh was on Monday sentenced to 20 years in jail by a special CBI court.\nCBI Judge Jagdeep Singh pronounced two sentences of 10 years rigorous imprisonment in each of the two cases that date back to 2002.\n\nAbout Channel:\n\nIndia Today TV is India's leading English News Channel.\n\nIndia Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more.\n\nStay tuned for latest updates and in-depth analysis of News from India and around the World!\n\nSubscribe To India Today : \nhttps://www.youtube.com/channel/UCYPvAwZP8pZhSMW8qs7cVCw\n\nFollow us:\n\nOfficial Website: www.indiatoday.in\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday\n\nSubscribe to our other network channels:\n\nDailyO: \nhttps://www.youtube.com/dailyo\n\nAaj Tak: \nhttps://www.youtube.com/user/aajtaktv\n\nTez:\nhttp://www.youtube.com/user/teztvnews\n\nDilli Aajtak:\nhttp://www.youtube.com/user/DilliAajtak\n\nSoSorry: \nhttps://www.youtube.com/user/sosorrypolitoon",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JkaWWctNeTY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JkaWWctNeTY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JkaWWctNeTY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JkaWWctNeTY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JkaWWctNeTY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JkaWWctNeTY"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/5fFujt7miT7wWBpxEw2XK-cEx_M\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS5DQkM5MzAzQ0QzNUJBMDlB",
+      "snippet": {
+        "publishedAt": "2017-08-24T15:53:43.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "Who Let Dera Followers To Hold Haryana & Punjab To Ransom ? | To The Point",
+        "description": "Massive security arrangements have put in place in both Punjab and Haryana ahead of the verdict on godman, Gurmeet Ram Rahim over rape charges. Lakhs of Dera supporters have gathered in Panchkula and Sirsa, the headquarters of Dera Sacha Saud. How can his followers hold everyone to ransom?\n\n\nAbout Channel:\n\nIndia Today TV is India's leading English News Channel.\n\nIndia Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more.\n\nStay tuned for latest updates and in-depth analysis of News from India and around the World!\n\nSubscribe To India Today : \nhttps://www.youtube.com/channel/UCYPvAwZP8pZhSMW8qs7cVCw\n\nFollow us:\n\nOfficial Website: www.indiatoday.in\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday\n\nSubscribe to our other network channels:\n\nDailyO: \nhttps://www.youtube.com/dailyo\n\nAaj Tak: \nhttps://www.youtube.com/user/aajtaktv\n\nTez:\nhttp://www.youtube.com/user/teztvnews\n\nDilli Aajtak:\nhttp://www.youtube.com/user/DilliAajtak\n\nSoSorry: \nhttps://www.youtube.com/user/sosorrypolitoon",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mFkMqvfEI1w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mFkMqvfEI1w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mFkMqvfEI1w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mFkMqvfEI1w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mFkMqvfEI1w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mFkMqvfEI1w"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/1Jo8knKmj9w8pOyIrKh4lBC2iDw\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS5CNTY2N0VCNUMyNjlFN0U5",
+      "snippet": {
+        "publishedAt": "2017-08-23T14:36:26.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "To The Point : After Triple Talaq, Uniform Civil Code Next ?",
+        "description": "After the Supreme Court banned instant 'Triple Talaq', is the Modi government moving for the implementation of Uniform Civil code?  The contrary view says that it will annihilate minority identity in the country.\n\nAbout Channel:\n\nIndia Today TV is India's leading English News Channel.\n\nIndia Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more.\n\nStay tuned for latest updates and in-depth analysis of News from India and around the World!\n\nSubscribe To India Today : \nhttps://www.youtube.com/channel/UCYPvAwZP8pZhSMW8qs7cVCw\n\nFollow us:\n\nOfficial Website: www.indiatoday.in\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday\n\nSubscribe to our other network channels:\n\nDailyO: \nhttps://www.youtube.com/dailyo\n\nAaj Tak: \nhttps://www.youtube.com/user/aajtaktv\n\nTez:\nhttp://www.youtube.com/user/teztvnews\n\nDilli Aajtak:\nhttp://www.youtube.com/user/DilliAajtak\n\nSoSorry: \nhttps://www.youtube.com/user/sosorrypolitoon",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6X_ZO4Ul-3g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6X_ZO4Ul-3g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6X_ZO4Ul-3g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6X_ZO4Ul-3g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6X_ZO4Ul-3g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6X_ZO4Ul-3g"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/CB_JkBkRNDz-2-dVfeChXbvxKlM\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS45NEVEOEUyMjAyOUMzQjVG",
+      "snippet": {
+        "publishedAt": "2017-08-18T15:17:20.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "To The Point: EPS-OPS Merger To Be Announced Shortly",
+        "description": "EPS-OPS merger could be announced by 7:30 pm tonight as the Amma Memorial in Chennai is being decorated for a grand event.\n\nAbout Channel:\n\nIndia Today TV is India's leading English News Channel.\n\nIndia Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more.\n\nStay tuned for latest updates and in-depth analysis of News from India and around the World!\n\nFollow us:\n\nOfficial Website: www.indiatoday.in\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday\n\nSubscribe to our other network channels:\n\nDailyO: \nhttps://www.youtube.com/dailyo\n\nAaj Tak: \nhttps://www.youtube.com/user/aajtaktv\n\nTez:\nhttp://www.youtube.com/user/teztvnews\n\nDilli Aajtak:\nhttp://www.youtube.com/user/DilliAajtak\n\nSoSorry: \nhttps://www.youtube.com/user/sosorrypolitoon",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xa30NZqZeJE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xa30NZqZeJE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xa30NZqZeJE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Xa30NZqZeJE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Xa30NZqZeJE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Xa30NZqZeJE"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/dtl5bCJNEDG6FQA50kJBny1pRc8\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS5ERkFEMTk1N0JBNjU0MzA4",
+      "snippet": {
+        "publishedAt": "2017-08-17T02:35:38.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "To The Point : NIA To Probe Kerala Love Jihad Case",
+        "description": "Supreme Court has given a nod to probe the Kerala Love Jihad Case and also probe the ISIS angle as well as, many men are recruited into such groups using Love Jihad.\n\nAbout Channel:\n\nIndia Today TV is India's leading English News Channel.\n\nIndia Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more.\n\nStay tuned for latest updates and in-depth analysis of News from India and around the World!\n\nFollow us:\n\nOfficial Website: www.indiatoday.in\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday\n\nSubscribe to our other network channels:\n\nDailyO: \nhttps://www.youtube.com/dailyo\n\nAaj Tak: \nhttps://www.youtube.com/user/aajtaktv\n\nTez:\nhttp://www.youtube.com/user/teztvnews\n\nDilli Aajtak:\nhttp://www.youtube.com/user/DilliAajtak\n\nSoSorry: \nhttps://www.youtube.com/user/sosorrypolitoon",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3i0NqW8Ii-U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3i0NqW8Ii-U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3i0NqW8Ii-U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3i0NqW8Ii-U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3i0NqW8Ii-U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3i0NqW8Ii-U"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/XBah63a-1CcWE-9OThZZi4B54Xs\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS4zN0ZDMTNFQzVFRDdDMjBF",
+      "snippet": {
+        "publishedAt": "2017-08-16T02:30:44.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "To The Point : PM Modi's Call For Peace In Jammu & Kashmir",
+        "description": "Hoisting the tricolour at the Red Fort on Independence Day, Prime Minister Narendra Modi made it clear that only love - and not bullets or abuse - can help resolve the problem in Jammu and Kashmir. \"We are committed for the development of Jammu and Kashmir and this is also the resolve of every Indian,\" he said.\nWatch India Today's Anjana Om Kashyap as she discusses the PM's comments on Kashmir - and the reactions to it - with activist and lawyer Shabnam Lone, defence expert GD Bakshi, National Conference leader Devender Singh Rana and BJP spokesperson Nalin Kohli.\n\nAbout Channel:\n\nIndia Today TV is India's leading English News Channel.\n\nIndia Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more.\n\nStay tuned for latest updates and in-depth analysis of News from India and around the World!\n\nFollow us:\n\nOfficial Website: www.indiatoday.in\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday\n\nSubscribe to our other network channels:\n\nDailyO: \nhttps://www.youtube.com/dailyo\n\nAaj Tak: \nhttps://www.youtube.com/user/aajtaktv\n\nTez:\nhttp://www.youtube.com/user/teztvnews\n\nDilli Aajtak:\nhttp://www.youtube.com/user/DilliAajtak\n\nSoSorry: \nhttps://www.youtube.com/user/sosorrypolitoon",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IW4yCmNYutQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IW4yCmNYutQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IW4yCmNYutQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IW4yCmNYutQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IW4yCmNYutQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IW4yCmNYutQ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/naYL8WQPvlaC4DehfI_9xmcmBag\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS4xNUZFM0IwNjRDNjZFRkQ0",
+      "snippet": {
+        "publishedAt": "2017-08-14T15:44:04.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "To The Point: Religion Above Nation?",
+        "description": "SP Leader Mavia Ali said, \"We are Muslims first, Indians later.\" Even though there has been uproar about the UP government imposing videography and recital of Vande Mataram on Madarasas, the SP leader's comments have created even more controversy as he puts religion above the nation.\n\nAbout Channel:\n\nIndia Today TV is India's leading English News Channel.\n\nIndia Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more.\n\nStay tuned for latest updates and in-depth analysis of News from India and around the World!\n\nFollow us:\n\nOfficial Website: www.indiatoday.in\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday\n\nSubscribe to our other network channels:\n\nDailyO: \nhttps://www.youtube.com/dailyo\n\nAaj Tak: \nhttps://www.youtube.com/user/aajtaktv\n\nTez:\nhttp://www.youtube.com/user/teztvnews\n\nDilli Aajtak:\nhttp://www.youtube.com/user/DilliAajtak\n\nSoSorry: \nhttps://www.youtube.com/user/sosorrypolitoon",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ssQ23j-ahGo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ssQ23j-ahGo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ssQ23j-ahGo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ssQ23j-ahGo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ssQ23j-ahGo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ssQ23j-ahGo"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/1OMJlyAdzy9KU897pvXUglf7mdM\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS5BRDUxOTI4N0ZEREU3MEM1",
+      "snippet": {
+        "publishedAt": "2017-08-10T15:07:38.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "To The Point: Minorities Feel Insecure In India Says Former VP Ansari",
+        "description": "Former Vice President Hamid Ansari while stepping down from the position said that minorities feel insecure in the country. He made the statement which said \"Spate of lynching, vigilantism, intolerance show breakdown of Indian values.\"\n\nAbout Channel:\n\nIndia Today TV is India's leading English News Channel.\n\nIndia Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more.\n\nStay tuned for latest updates and in-depth analysis of News from India and around the World!\n\nFollow us:\n\nOfficial Website: www.indiatoday.in\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday\n\nSubscribe to our other network channels:\n\nDailyO: \nhttps://www.youtube.com/dailyo\n\nAaj Tak: \nhttps://www.youtube.com/user/aajtaktv\n\nTez:\nhttp://www.youtube.com/user/teztvnews\n\nDilli Aajtak:\nhttp://www.youtube.com/user/DilliAajtak\n\nSoSorry: \nhttps://www.youtube.com/user/sosorrypolitoon",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iU4Opm_wsU4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iU4Opm_wsU4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iU4Opm_wsU4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iU4Opm_wsU4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iU4Opm_wsU4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iU4Opm_wsU4"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/MtypJu5isG3pYlJy3COsIamwGfk\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS45QTdFNDExQzQ3NzQyOTlC",
+      "snippet": {
+        "publishedAt": "2017-08-09T15:23:39.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "To The Point : Congress Vs RSS Debate Over 'Quit India Movement'",
+        "description": "As a special convention was held inside Parliament today to celebrate the 75th anniversary of the Quit India Movement, Congress chief Sonia Gandhi today lashed out at the RSS for its 'opposition' to the freedom struggle. Sonia Gandhi said, \"Even in that era, we should not forget that there were some who opposed the freedom movement. \n\nAbout Channel:\n\nIndia Today TV is India's leading English News Channel.\n\nIndia Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more.\n\nStay tuned for latest updates and in-depth analysis of News from India and around the World!\n\nFollow us:\n\nOfficial Website: www.indiatoday.in\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday\n\nSubscribe to our other network channels:\n\nDailyO: \nhttps://www.youtube.com/dailyo\n\nAaj Tak: \nhttps://www.youtube.com/user/aajtaktv\n\nTez:\nhttp://www.youtube.com/user/teztvnews\n\nDilli Aajtak:\nhttp://www.youtube.com/user/DilliAajtak\n\nSoSorry: \nhttps://www.youtube.com/user/sosorrypolitoon",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sMYpuVkis1A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sMYpuVkis1A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sMYpuVkis1A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sMYpuVkis1A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sMYpuVkis1A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sMYpuVkis1A"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/JIm1bvXiaAFIy2qvkHNPYA-pFRw\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS5DRjVDNEFDNTg5NUQ1RkNG",
+      "snippet": {
+        "publishedAt": "2017-08-07T16:37:17.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "To The Point:  Who Is Trying To Save Accuse Vikas Barala",
+        "description": "Varnika Kundu, the 29-year-old DJ who was chased on the streets of Chandigarh and nearly kidnapped allegedly by Haryana BJP chief Subhash Barala's son, lashed out today at an outrageous statement questioning why she was out late at night.\n\nAbout Channel:\n\nIndia Today TV is India's leading English News Channel.\n\nIndia Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more.\n\nStay tuned for latest updates and in-depth analysis of News from India and around the World!\n\nFollow us:\n\nOfficial Website: www.indiatoday.in\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday\n\nSubscribe to our other network channels:\n\nDailyO: \nhttps://www.youtube.com/dailyo\n\nAaj Tak: \nhttps://www.youtube.com/user/aajtaktv\n\nTez:\nhttp://www.youtube.com/user/teztvnews\n\nDilli Aajtak:\nhttp://www.youtube.com/user/DilliAajtak\n\nSoSorry: \nhttps://www.youtube.com/user/sosorrypolitoon",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m7DZ5bQYzLI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m7DZ5bQYzLI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m7DZ5bQYzLI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/m7DZ5bQYzLI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/m7DZ5bQYzLI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "m7DZ5bQYzLI"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/LlSYTycBOm1WOSThvHffuMl6wQo\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS43MEQ5RjM3MDJBRjE3NDNB",
+      "snippet": {
+        "publishedAt": "2017-08-04T14:31:01.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "To The Point : Political Fight Over Murders In Kerala Intensifies",
+        "description": "The RSS declared an all out war against CPM government in Kerala over the political killings. RSS leaders, Dattatreya Hosabale has said that CPM government in Kerala was carrying out deliberate political murders of RSS activists which has been denied strongly by the Kerala government. \n\nAbout Channel:\n\nIndia Today TV is India's leading English News Channel.\n\nIndia Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more.\n\nStay tuned for latest updates and in-depth analysis of News from India and around the World!\n\nFollow us:\n\nOfficial Website: www.indiatoday.in\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday\n\nSubscribe to our other network channels:\n\nDailyO: \nhttps://www.youtube.com/dailyo\n\nAaj Tak: \nhttps://www.youtube.com/user/aajtaktv\n\nTez:\nhttp://www.youtube.com/user/teztvnews\n\nDilli Aajtak:\nhttp://www.youtube.com/user/DilliAajtak\n\nSoSorry: \nhttps://www.youtube.com/user/sosorrypolitoon",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ky-7WEUtdhE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ky-7WEUtdhE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ky-7WEUtdhE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ky-7WEUtdhE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ky-7WEUtdhE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ky-7WEUtdhE"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/rpWBSXrprwDGktRm5MfR0ameG5E\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS4wOUExQjQ1QTZENTBBRjdE",
+      "snippet": {
+        "publishedAt": "2017-08-02T14:56:53.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "To The Point : Dattatreya Hosabale Exclusive Interview On Kerala RSS-CPM Wars",
+        "description": "Dattatreya Hosabale, Joint General Secretary of the RSS in an exclusive interview speaks to India Today's Managing Editor, Rahul Kanwal on the CPM-RSS rivalry and political killing in Kerala. Recently a RSS worker Rajesh was hacked to death in Thiruvananthapuram.\n\nAbout Channel:\n\nIndia Today TV is India's leading English News Channel.\n\nIndia Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more.\n\nStay tuned for latest updates and in-depth analysis of News from India and around the World!\n\nFollow us:\n\nOfficial Website: www.indiatoday.in\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday\n\nSubscribe to our other network channels:\n\nDailyO: \nhttps://www.youtube.com/dailyo\n\nAaj Tak: \nhttps://www.youtube.com/user/aajtaktv\n\nTez:\nhttp://www.youtube.com/user/teztvnews\n\nDilli Aajtak:\nhttp://www.youtube.com/user/DilliAajtak\n\nSoSorry: \nhttps://www.youtube.com/user/sosorrypolitoon",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/37iEq4L_jBs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/37iEq4L_jBs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/37iEq4L_jBs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/37iEq4L_jBs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/37iEq4L_jBs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "37iEq4L_jBs"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/NHB8ie6mqr2ZkgmhKLayz2yeKXw\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS41QkQ1MDFGQjMwMEU0MjND",
+      "snippet": {
+        "publishedAt": "2017-08-01T15:00:11.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "To The Point : AIADMK To Join Modi Cabinet After Reshuffle ?",
+        "description": "This episode of AIADMK discuss on speculations on AIADMK joining the Modi cabinet after the reshuffle. Recently Bihar Chief Minister, Nitish Kumar has joined the NDA breaking the grand alliance with Congress and RJD in the state.\n\nAbout Channel:\n\nIndia Today TV is India's leading English News Channel.\n\nIndia Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more.\n\nStay tuned for latest updates and in-depth analysis of News from India and around the World!\n\nFollow us:\n\nOfficial Website: www.indiatoday.in\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday\n\nSubscribe to our other network channels:\n\nDailyO: \nhttps://www.youtube.com/dailyo\n\nAaj Tak: \nhttps://www.youtube.com/user/aajtaktv\n\nTez:\nhttp://www.youtube.com/user/teztvnews\n\nDilli Aajtak:\nhttp://www.youtube.com/user/DilliAajtak\n\nSoSorry: \nhttps://www.youtube.com/user/sosorrypolitoon",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oE167CBTGJc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oE167CBTGJc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oE167CBTGJc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oE167CBTGJc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oE167CBTGJc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oE167CBTGJc"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/kgjoGDhgtJkALt5DjwANSr8Tma8\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS41RDlDNjkxMDgxRTI5QUJB",
+      "snippet": {
+        "publishedAt": "2017-07-31T15:31:24.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "To The Point : Centre Vs J&K Govt Over Shutting Down Of Cross Border Trade",
+        "description": "The Modi government has confirmed that the NIA has recommended shutting down of cross border LoC trade. Meanwhile J&K Chief Minister, Mehbooba Mufti is up in arms against the shutting down of cross border trade. What is the way forward ?\n\nAbout Channel:\n\nIndia Today TV is India's leading English News Channel.\n\nIndia Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more.\n\nStay tuned for latest updates and in-depth analysis of News from India and around the World!\n\nFollow us:\n\nOfficial Website: www.indiatoday.in\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday\n\nSubscribe to our other network channels:\n\nDailyO: \nhttps://www.youtube.com/dailyo\n\nAaj Tak: \nhttps://www.youtube.com/user/aajtaktv\n\nTez:\nhttp://www.youtube.com/user/teztvnews\n\nDilli Aajtak:\nhttp://www.youtube.com/user/DilliAajtak\n\nSoSorry: \nhttps://www.youtube.com/user/sosorrypolitoon",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Edi_7m_62Wo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Edi_7m_62Wo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Edi_7m_62Wo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Edi_7m_62Wo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Edi_7m_62Wo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Edi_7m_62Wo"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/_md_LR6VGmrG-e0-bpc4_ReK2RQ\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS45MDQ2MjlBRTY2REU1QjNF",
+      "snippet": {
+        "publishedAt": "2017-07-28T15:57:35.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "To The Point: Ahmed Patel's Rajya Sabha Election In Jeopardy As MLAs Jump Ship",
+        "description": "Congress Leader Sonia Gandhi's political aid Ahmed Patel's Rajya Sabha is in jeopardy as 6 MLAs have resigned from Congress and joined BJP.\n\nAbout Channel:\n\nIndia Today TV is India's leading English News Channel.\n\nIndia Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more.\n\nStay tuned for latest updates and in-depth analysis of News from India and around the World!\n\nFollow us:\n\nOfficial Website: www.indiatoday.in\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday\n\nSubscribe to our other network channels:\n\nDailyO: \nhttps://www.youtube.com/dailyo\n\nAaj Tak: \nhttps://www.youtube.com/user/aajtaktv\n\nTez:\nhttp://www.youtube.com/user/teztvnews\n\nDilli Aajtak:\nhttp://www.youtube.com/user/DilliAajtak\n\nSoSorry: \nhttps://www.youtube.com/user/sosorrypolitoon",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BYBzZmyZpug/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BYBzZmyZpug/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BYBzZmyZpug/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BYBzZmyZpug/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BYBzZmyZpug/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BYBzZmyZpug"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/ah9TuV6rUFYnsiVmt24ZjGgtHkg\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS4wMTdGNzg0NjM1RjQ5OEM3",
+      "snippet": {
+        "publishedAt": "2017-07-27T14:44:43.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "To The Point: BJP's Master-plan For 2019",
+        "description": "BJP has taken over the Hind Land and broken the Bihar grand alliance and taken over the state too. BJP has tattered oppositions plans for 2019 and is successfully implementing its master plan for 2019 elections.\n\nAbout Channel:\n\nIndia Today TV is India's leading English News Channel.\n\nIndia Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more.\n\nStay tuned for latest updates and in-depth analysis of News from India and around the World!\n\nFollow us:\n\nOfficial Website: www.indiatoday.in\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday\n\nSubscribe to our other network channels:\n\nDailyO: \nhttps://www.youtube.com/dailyo\n\nAaj Tak: \nhttps://www.youtube.com/user/aajtaktv\n\nTez:\nhttp://www.youtube.com/user/teztvnews\n\nDilli Aajtak:\nhttp://www.youtube.com/user/DilliAajtak\n\nSoSorry: \nhttps://www.youtube.com/user/sosorrypolitoon",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Or9jJq6Ohww/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Or9jJq6Ohww/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Or9jJq6Ohww/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Or9jJq6Ohww/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Or9jJq6Ohww/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Or9jJq6Ohww"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/bIXj8m55WcGQYJdllnXe-aK334Q\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS45RDQ2MDcyMjdGMzM3NzM3",
+      "snippet": {
+        "publishedAt": "2017-07-25T14:38:17.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "#HurriyatTapes : Has Time Come For Hurriyat Conference To Be Banned ? | To The Point",
+        "description": "7 Separatists arrested by NIA in connection with Hurriyat Tapes exposed by India Today were produced in the Patiala house court. The India Today sting has caught separatists on camera admitting to receiving fund from Pakistan to create unrest in Jammu & Kashmir. \n\nAbout Channel:\n\nIndia Today TV is India's leading English News Channel.\n\nIndia Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more.\n\nStay tuned for latest updates and in-depth analysis of News from India and around the World!\n\nFollow us:\n\nOfficial Website: www.indiatoday.in\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday\n\nSubscribe to our other network channels:\n\nDailyO: \nhttps://www.youtube.com/dailyo\n\nAaj Tak: \nhttps://www.youtube.com/user/aajtaktv\n\nTez:\nhttp://www.youtube.com/user/teztvnews\n\nDilli Aajtak:\nhttp://www.youtube.com/user/DilliAajtak\n\nSoSorry: \nhttps://www.youtube.com/user/sosorrypolitoon",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y0Aytr1zhQk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y0Aytr1zhQk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y0Aytr1zhQk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/y0Aytr1zhQk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/y0Aytr1zhQk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "y0Aytr1zhQk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/deDB40nTR7_NcOjqRRbUoA0ZUUI\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS4xMTREODNEQkFEMTQwNjg4",
+      "snippet": {
+        "publishedAt": "2017-07-24T15:07:15.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "To The Point: Iraqi And Indian Governments Make Contradicting Statements On Missing Indians",
+        "description": "The governments of India and Iraq have made contradicting statements regarding the 39 missing Indians in Iraq. While the Iraq government has announced that they have no information about the people, on the other hand, the Indian government claims that the whereabouts of the citizens are known and they are safe. The prison where the Indian government has claimed to have kept the missing people had been razed to the ground by ISIS long ago.\n\n\nAbout Channel:\n\nIndia Today TV is India's leading English News Channel.\n\nIndia Today YouTube channel offers latest news videos on Politics, Business, Cricket, Bollywood, Lifestyle, Auto, Technology, Travel, Entertainment and a lot more.\n\nStay tuned for latest updates and in-depth analysis of News from India and around the World!\n\nFollow us:\n\nOfficial Website: www.indiatoday.in\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday\n\nSubscribe to our other network channels:\n\nDailyO: \nhttps://www.youtube.com/dailyo\n\nAaj Tak: \nhttps://www.youtube.com/user/aajtaktv\n\nTez:\nhttp://www.youtube.com/user/teztvnews\n\nDilli Aajtak:\nhttp://www.youtube.com/user/DilliAajtak\n\nSoSorry: \nhttps://www.youtube.com/user/sosorrypolitoon",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/em2GCV9Y2P8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/em2GCV9Y2P8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/em2GCV9Y2P8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/em2GCV9Y2P8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/em2GCV9Y2P8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "em2GCV9Y2P8"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/qAlOkBJzeG0T1DbyhroKx6noCYU\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS5DNkE4NUQwQzFFQjY0RDdE",
+      "snippet": {
+        "publishedAt": "2017-07-20T14:53:32.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "Chinese Media Says Hindu Nationalism May Push India Into War With China  | To The Point",
+        "description": "Chinese state owned media has provoked India attacking Prime Minister, Narendra Modi using the communal card saying that the Hindu nationalism may push India into war with China. Meanwhile the bilateral meeting between special representatives on border talks of India and China has been ruled out after Beijing said it was not keen on dialogue with New Delhi until the latter withdrew troops from Doklam.\n\nIndia Today Television marks the entry of the nation’s most credible name in journalism - India Today into news television. Powered by a future-ready look and backed with the 40 year legacy of the India Today brand, the channel addresses the news consumption habits of an evolved digital-savvy audience while staying true to the journalistic principles of the India Today Group. \nWith a paradigm shift in terms of television workflows and technology, the channel sets a new benchmark with a differentiated look. Innovative content formats and multiple news updates on the TV screen give immediacy and choice to the news viewer.\n\nFollow us\nSubscribe to our channel: https://www.youtube.com/channel/UCYPvAwZP8pZhSMW8qs7cVCw?sub_confirmation=1\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday\n\nSubscribe to our other network channels:\nAaj Tak: https://www.youtube.com/user/aajtaktv\nTez: http://www.youtube.com/user/teztvnews\nDilli Aajtak: http://www.youtube.com/user/DilliAajtak\nSoSorry: https://www.youtube.com/user/sosorrypolitoon",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W6I-idkF6JA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W6I-idkF6JA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W6I-idkF6JA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/W6I-idkF6JA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/W6I-idkF6JA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "W6I-idkF6JA"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/slZu8wA16l6quwgL7929Zq-3wzY\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS40RTQ1MjA1QTlDODdDMEY1",
+      "snippet": {
+        "publishedAt": "2017-07-19T15:31:17.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "To The Point : BJP Exposes Congress Dossier To Disrupt Parliament",
+        "description": "Politics over a 40-page dossier prepared by the Congress to corner the Narendra Modi government over mob lynching and other incidents of violence targeting Dalits and minorities threatens to dominate the ongoing monsoon session of Parliament. High-level sources have told India Today that the powerful All India Congress Committee's research department has prepared the dossier to disrupt Parliament by focusing on \"minorities and mosquitoes\", the latter referring to the increasing instances of the Zika virus that gripped Gujarat a few months ago.\n\nIndia Today Television marks the entry of the nation’s most credible name in journalism - India Today into news television. Powered by a future-ready look and backed with the 40 year legacy of the India Today brand, the channel addresses the news consumption habits of an evolved digital-savvy audience while staying true to the journalistic principles of the India Today Group. \nWith a paradigm shift in terms of television workflows and technology, the channel sets a new benchmark with a differentiated look. Innovative content formats and multiple news updates on the TV screen give immediacy and choice to the news viewer.\n\nFollow us\nSubscribe to our channel: https://www.youtube.com/channel/UCYPvAwZP8pZhSMW8qs7cVCw?sub_confirmation=1\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday\n\nSubscribe to our other network channels:\nAaj Tak: https://www.youtube.com/user/aajtaktv\nTez: http://www.youtube.com/user/teztvnews\nDilli Aajtak: http://www.youtube.com/user/DilliAajtak\nSoSorry: https://www.youtube.com/user/sosorrypolitoon",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mgYmxBTDTY8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mgYmxBTDTY8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mgYmxBTDTY8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mgYmxBTDTY8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mgYmxBTDTY8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mgYmxBTDTY8"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/ocA972W44jWOlWJtR3QwJ_9uKyc\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS5EMTRDQ0Q0MTYyRTM1N0I4",
+      "snippet": {
+        "publishedAt": "2017-07-19T03:37:31.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "To The Point : Nawazuddin Siddiqui Alleges Racism In Bollywood",
+        "description": "Watch a special debate on the craze for white skin in Bollywood after actor Nawazuddin Siddiqui faced racism. He alleged that he was discriminated for being black.\n\nIndia Today Television marks the entry of the nation’s most credible name in journalism - India Today into news television. Powered by a future-ready look and backed with the 40 year legacy of the India Today brand, the channel addresses the news consumption habits of an evolved digital-savvy audience while staying true to the journalistic principles of the India Today Group. \nWith a paradigm shift in terms of television workflows and technology, the channel sets a new benchmark with a differentiated look. Innovative content formats and multiple news updates on the TV screen give immediacy and choice to the news viewer.\n\nFollow us\nSubscribe to our channel: https://www.youtube.com/channel/UCYPvAwZP8pZhSMW8qs7cVCw?sub_confirmation=1\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday\n\nSubscribe to our other network channels:\nAaj Tak: https://www.youtube.com/user/aajtaktv\nTez: http://www.youtube.com/user/teztvnews\nDilli Aajtak: http://www.youtube.com/user/DilliAajtak\nSoSorry: https://www.youtube.com/user/sosorrypolitoon",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CHVAjZbc148/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CHVAjZbc148/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CHVAjZbc148/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CHVAjZbc148/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CHVAjZbc148/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CHVAjZbc148"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/IboRCJNLggtfyCDZDD8kMDzQMus\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS5CQTIyN0QxODFBODIxM0Qx",
+      "snippet": {
+        "publishedAt": "2017-07-17T15:30:22.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "To The Point | Indu Sarkar Row : Madhur Bhandarkar  Vs Sagarika Ghose",
+        "description": "This episode of 'To The Point' discuss the issue of Congress standing up in arms against filmmaker, Madhur Bhandarkar's upcoming movie, 'Indu Sarkar' which is set on the backdrop of emergency times. Madhur Bhandarkar, currently in the eye of a storm over his forthcoming film on the Emergency and Indira Gandhi, has questioned how Congress can get to decide the kind of movies he makes.\n\nIndia Today Television marks the entry of the nation’s most credible name in journalism - India Today into news television. Powered by a future-ready look and backed with the 40 year legacy of the India Today brand, the channel addresses the news consumption habits of an evolved digital-savvy audience while staying true to the journalistic principles of the India Today Group. \nWith a paradigm shift in terms of television workflows and technology, the channel sets a new benchmark with a differentiated look. Innovative content formats and multiple news updates on the TV screen give immediacy and choice to the news viewer.\n\nFollow us\nSubscribe to our channel: https://www.youtube.com/channel/UCYPvAwZP8pZhSMW8qs7cVCw?sub_confirmation=1\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday\n\nSubscribe to our other network channels:\nAaj Tak: https://www.youtube.com/user/aajtaktv\nTez: http://www.youtube.com/user/teztvnews\nDilli Aajtak: http://www.youtube.com/user/DilliAajtak\nSoSorry: https://www.youtube.com/user/sosorrypolitoon",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7lXO930C-Cc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7lXO930C-Cc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7lXO930C-Cc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7lXO930C-Cc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7lXO930C-Cc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7lXO930C-Cc"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/gSHkX9WIrcZ5RJScKk50syC9AeA\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS5CQUZGNEQ2RTc0NDhGODJF",
+      "snippet": {
+        "publishedAt": "2017-07-14T15:43:53.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "To The Point: Attack Foiled On Biggest Assembly",
+        "description": "150 gms of explosive powder was found under the seat of a minister during a live session in UP Vidhan Sabha. Such a big security lapse shows the condition of law and order in Uttar Pradesh.\n\nIndia Today Television marks the entry of the nation’s most credible name in journalism - India Today into news television. Powered by a future-ready look and backed with the 40 year legacy of the India Today brand, the channel addresses the news consumption habits of an evolved digital-savvy audience while staying true to the journalistic principles of the India Today Group. \nWith a paradigm shift in terms of television workflows and technology, the channel sets a new benchmark with a differentiated look. Innovative content formats and multiple news updates on the TV screen give immediacy and choice to the news viewer.\n\nFollow us\nSubscribe to our channel: https://www.youtube.com/channel/UCYPvAwZP8pZhSMW8qs7cVCw?sub_confirmation=1\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday\n\nSubscribe to our other network channels:\nAaj Tak: https://www.youtube.com/user/aajtaktv\nTez: http://www.youtube.com/user/teztvnews\nDilli Aajtak: http://www.youtube.com/user/DilliAajtak\nSoSorry: https://www.youtube.com/user/sosorrypolitoon",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rtn1rtK5rsk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rtn1rtK5rsk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rtn1rtK5rsk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rtn1rtK5rsk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rtn1rtK5rsk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rtn1rtK5rsk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/tzRJsJ5T1hfPk5S-2GjkM3IBCm4\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS44MjdDQUY2RDQ0ODMzNENE",
+      "snippet": {
+        "publishedAt": "2017-07-13T15:12:31.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "To The Point: Money Buying Sasikala Jail Comforts?",
+        "description": "To debate on the Sasikala Briberygate issue, we have - T. R. Kakkar, G. Ramachandran, C. Rajsekaran and R. Kannan.\n\nIndia Today Television marks the entry of the nation’s most credible name in journalism - India Today into news television. Powered by a future-ready look and backed with the 40 year legacy of the India Today brand, the channel addresses the news consumption habits of an evolved digital-savvy audience while staying true to the journalistic principles of the India Today Group. \nWith a paradigm shift in terms of television workflows and technology, the channel sets a new benchmark with a differentiated look. Innovative content formats and multiple news updates on the TV screen give immediacy and choice to the news viewer.\n\nFollow us\nSubscribe to our channel: https://www.youtube.com/channel/UCYPvAwZP8pZhSMW8qs7cVCw?sub_confirmation=1\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday\n\nSubscribe to our other network channels:\nAaj Tak: https://www.youtube.com/user/aajtaktv\nTez: http://www.youtube.com/user/teztvnews\nDilli Aajtak: http://www.youtube.com/user/DilliAajtak\nSoSorry: https://www.youtube.com/user/sosorrypolitoon",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QlGW1OyHYH8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QlGW1OyHYH8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QlGW1OyHYH8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QlGW1OyHYH8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QlGW1OyHYH8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QlGW1OyHYH8"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/PgZp-43RPTrVkERVALHEQ3W2Rxo\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS5FNTQxMzY3RjA1OTJCODkw",
+      "snippet": {
+        "publishedAt": "2017-07-12T16:30:04.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "To The Point: Tejaswi Yadav Breaks Silence On Corruption Charges",
+        "description": "Tejaswi Yadav has finally broken silence on the CBI probe over corruption charges and has denied any chances of resignation.\n\nIndia Today Television marks the entry of the nation’s most credible name in journalism - India Today into news television. Powered by a future-ready look and backed with the 40 year legacy of the India Today brand, the channel addresses the news consumption habits of an evolved digital-savvy audience while staying true to the journalistic principles of the India Today Group. \nWith a paradigm shift in terms of television workflows and technology, the channel sets a new benchmark with a differentiated look. Innovative content formats and multiple news updates on the TV screen give immediacy and choice to the news viewer.\n\nFollow us\nSubscribe to our channel: https://www.youtube.com/channel/UCYPvAwZP8pZhSMW8qs7cVCw?sub_confirmation=1\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday\n\nSubscribe to our other network channels:\nAaj Tak: https://www.youtube.com/user/aajtaktv\nTez: http://www.youtube.com/user/teztvnews\nDilli Aajtak: http://www.youtube.com/user/DilliAajtak\nSoSorry: https://www.youtube.com/user/sosorrypolitoon",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/81bq6YxbsXo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/81bq6YxbsXo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/81bq6YxbsXo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/81bq6YxbsXo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/81bq6YxbsXo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "81bq6YxbsXo"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/ukCgI6pm2dFCnl8ldlAxm8k0fq8\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS4yQTI4QjI0NUE0ODA2MzRE",
+      "snippet": {
+        "publishedAt": "2017-07-11T15:25:49.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "To The Point: Terror Shames Kashmir",
+        "description": "7 killed as Lashkar-e-taiba terrorists opened fire on a bus carrying pilgrims from Amarnath Yatra. Watch the debate as India Today's panel discusses the cowardly attack by militants in Kashmir.\n\nIndia Today Television marks the entry of the nation’s most credible name in journalism - India Today into news television. Powered by a future-ready look and backed with the 40 year legacy of the India Today brand, the channel addresses the news consumption habits of an evolved digital-savvy audience while staying true to the journalistic principles of the India Today Group. \nWith a paradigm shift in terms of television workflows and technology, the channel sets a new benchmark with a differentiated look. Innovative content formats and multiple news updates on the TV screen give immediacy and choice to the news viewer.\n\nFollow us\nSubscribe to our channel: https://www.youtube.com/channel/UCYPvAwZP8pZhSMW8qs7cVCw?sub_confirmation=1\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday\n\nSubscribe to our other network channels:\nAaj Tak: https://www.youtube.com/user/aajtaktv\nTez: http://www.youtube.com/user/teztvnews\nDilli Aajtak: http://www.youtube.com/user/DilliAajtak\nSoSorry: https://www.youtube.com/user/sosorrypolitoon",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XNqn9-ZG-1E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XNqn9-ZG-1E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XNqn9-ZG-1E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XNqn9-ZG-1E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XNqn9-ZG-1E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XNqn9-ZG-1E"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/GwBSiScSPsShw5A4OPFcLaLfXCc\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS40QzQ5QzRDOEI3Q0I1QTY2",
+      "snippet": {
+        "publishedAt": "2017-07-10T15:09:00.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "To The Point: Stone Pelter To Be Rewarded",
+        "description": "A stone pelter was used as a human shield by an Army Party to rescue an election officials team. Now the State Human Rights Commission has asked the state government to pay a compensation of Rs 10 lakhs to Farooq Ahmed Dar who was the alleged leader of the stone pelters.\n\nIndia Today Television marks the entry of the nation’s most credible name in journalism - India Today into news television. Powered by a future-ready look and backed with the 40 year legacy of the India Today brand, the channel addresses the news consumption habits of an evolved digital-savvy audience while staying true to the journalistic principles of the India Today Group. \nWith a paradigm shift in terms of television workflows and technology, the channel sets a new benchmark with a differentiated look. Innovative content formats and multiple news updates on the TV screen give immediacy and choice to the news viewer.\n\nFollow us\nSubscribe to our channel: https://www.youtube.com/channel/UCYPvAwZP8pZhSMW8qs7cVCw?sub_confirmation=1\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday\n\nSubscribe to our other network channels:\nAaj Tak: https://www.youtube.com/user/aajtaktv\nTez: http://www.youtube.com/user/teztvnews\nDilli Aajtak: http://www.youtube.com/user/DilliAajtak\nSoSorry: https://www.youtube.com/user/sosorrypolitoon",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NuUeJC7khWI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NuUeJC7khWI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NuUeJC7khWI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NuUeJC7khWI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NuUeJC7khWI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NuUeJC7khWI"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/UKo3xEIn8oRinjASLMktB0i2ck0\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS5DOUVFNkQ5Njg2MUZBODdD",
+      "snippet": {
+        "publishedAt": "2017-07-07T17:01:54.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "To The Point: Bengal's Basrihat On The Boil",
+        "description": "It has almost been a week since violence erupted in Basirhat after an alleged blasphemous Facebook post by a teenager. Section 144 has been imposed and ministers have flocked near the area playing opportunistic politics.\n\nIndia Today Television marks the entry of the nation’s most credible name in journalism - India Today into news television. Powered by a future-ready look and backed with the 40 year legacy of the India Today brand, the channel addresses the news consumption habits of an evolved digital-savvy audience while staying true to the journalistic principles of the India Today Group. \nWith a paradigm shift in terms of television workflows and technology, the channel sets a new benchmark with a differentiated look. Innovative content formats and multiple news updates on the TV screen give immediacy and choice to the news viewer.\n\nFollow us\nSubscribe to our channel: https://www.youtube.com/channel/UCYPvAwZP8pZhSMW8qs7cVCw?sub_confirmation=1\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday\n\nSubscribe to our other network channels:\nAaj Tak: https://www.youtube.com/user/aajtaktv\nTez: http://www.youtube.com/user/teztvnews\nDilli Aajtak: http://www.youtube.com/user/DilliAajtak\nSoSorry: https://www.youtube.com/user/sosorrypolitoon",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KggXBwkWbRk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KggXBwkWbRk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KggXBwkWbRk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KggXBwkWbRk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KggXBwkWbRk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KggXBwkWbRk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/kvjtUqTF49RIA-BA7XKQM25-JuM\"",
+      "id": "UExQUEt3Q0N1ZVFfREV5Zm1CWlNWX25ZMkNkcUI3b1F5MS45RjlCREFDQ0FCMzA2MTFD",
+      "snippet": {
+        "publishedAt": "2017-07-06T15:40:49.000Z",
+        "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+        "title": "China Deploys Submarine In Indian Ocean Region Even As India-China Standoff Continues",
+        "description": "Wading through the Indian Ocean now is a Yuan class - conventional diesel electric - submarine which is better that aging Indian Sub.\n\n\n\nIndia Today Television marks the entry of the nation’s most credible name in journalism - India Today into news television. Powered by a future-ready look and backed with the 40 year legacy of the India Today brand, the channel addresses the news consumption habits of an evolved digital-savvy audience while staying true to the journalistic principles of the India Today Group. \nWith a paradigm shift in terms of television workflows and technology, the channel sets a new benchmark with a differentiated look. Innovative content formats and multiple news updates on the TV screen give immediacy and choice to the news viewer.\n\nFollow us\nSubscribe to our channel: https://www.youtube.com/channel/UCYPvAwZP8pZhSMW8qs7cVCw?sub_confirmation=1\nTwitter: https://twitter.com/IndiaToday\nFacebook: https://www.facebook.com/IndiaToday\n\nSubscribe to our other network channels:\nAaj Tak: https://www.youtube.com/user/aajtaktv\nTez: http://www.youtube.com/user/teztvnews\nDilli Aajtak: http://www.youtube.com/user/DilliAajtak\nSoSorry: https://www.youtube.com/user/sosorrypolitoon",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hL5-JTZq9UM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hL5-JTZq9UM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hL5-JTZq9UM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hL5-JTZq9UM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hL5-JTZq9UM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India Today",
+        "playlistId": "PLPPKwCCueQ_DEyfmBZSV_nY2CdqB7oQy1",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hL5-JTZq9UM"
+        }
+      }
+    }
+  ]
+}

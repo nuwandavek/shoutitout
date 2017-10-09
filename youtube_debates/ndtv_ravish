@@ -1,0 +1,1761 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/YahUB4khkCgSx2-8dEOvCBWZ0UI\"",
+  "nextPageToken": "CDIQAA",
+  "pageInfo": {
+    "totalResults": 454,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/fHrJTkU4qabanD30kd0AwodL6II\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi4zMThCQUQwNDExRUYyQ0JC",
+      "snippet": {
+        "publishedAt": "2017-10-06T18:32:52.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Only Thing ‘Oxford’ about Patna University is the Architecture?",
+        "description": "Today's Prime Time is fourth in our series highlighting the lackadaisical approach given by various state governments towards higher education in their respective states. Ravish Kumar says that given the crumbling infrastructure, absence of research facilities and lack of lecturers for several subjects, Patna University remains 'Oxford' only in terms of architecture. The university was established in 1917 by the British Raj. (Audio in Hindi)\n\nWatch full video: https://khabar.ndtv.com/video/show/prime-time/teachers-problem-in-patna-university-469444?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JdTgkp53pWg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JdTgkp53pWg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JdTgkp53pWg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JdTgkp53pWg"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/LwyCTLvSEKuR4qrIEESVmVuIPwI\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi42ODk4NkI3NjJGOTQ4N0ZC",
+      "snippet": {
+        "publishedAt": "2017-10-04T20:19:52.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Government Colleges Exist for Namesake in India?",
+        "description": "In the second of our series highlighting the gross neglect suffered by higher education institutes in terms of their faculty strength. Arvind Verma of Rajasthan University and College Teachers Association (RUCTA) tells us how several colleges in Rajasthan are grossly understaffed that students do not get the necessary training and guidance they are supposed to get in institutes of higher learning. (Audio in Hindi)\n\nWatch full video: https://khabar.ndtv.com/video/show/prime-time/who-care-farmers-469261?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MQyXq0ZUIME/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MQyXq0ZUIME/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MQyXq0ZUIME/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MQyXq0ZUIME"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/7tiyxQgxlhn0tZZkw0YrBYG7l18\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi5BMzBEMTVGOTUyMTAzQUYy",
+      "snippet": {
+        "publishedAt": "2017-10-03T19:11:47.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Colleges Callous Towards Filling of Vacancies for Faculty?",
+        "description": "Prime Time presents a special report on the conditions in which contractual faculty from different parts institutions are forced to live in due to the paltry sums being paid to them as salaries. With such low salaries the lecturers cannot even afford to buy books to refer to and teach their students. In addition, several posts remain vacant in educational institutions thereby causing added burden to the teaching staff employed there. (Audio in Hindi)\nWatch full video: https://khabar.ndtv.com/video/show/prime-time/prime-time-on-adhoc-teachers-with-ravish-kumar-469179?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pBsHCZLqyLc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pBsHCZLqyLc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pBsHCZLqyLc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pBsHCZLqyLc"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/E6kFLjgc0fx4VvENSyrCWTTVlxk\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi4wNjYzMUQ3MTFFN0VFNkJB",
+      "snippet": {
+        "publishedAt": "2017-09-27T19:09:15.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Prime Time with Ravish: In Conversation With Delhi's Oldest Durga Puja Committee",
+        "description": "Members of Delhi's oldest Durga Puja committee talk to Ravish Kumar about the specialty of Puja organised by them at Kashmere Gate. \"I reside in Tagore Park and till date I have never attended the Puja being held in my mohalla (neighbourhood) because I don't get the time(amidst making arrangements for the event at Kashmere Gate)\", says Samarendra Bose, former president of Delhi Durga Puja Charitable and Cultural Samiti which has been organising festivals for over a hundred years. (Audio in Hindi)\n\nWatch full video: https://khabar.ndtv.com/video/show/prime-time/oldest-durga-pooja-in-delhi-468735?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lq-0eDFK2zo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lq-0eDFK2zo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lq-0eDFK2zo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lq-0eDFK2zo"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/E6yZQZ1S2thRs2OeGq-_gq0OJ_8\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi5FRDk1QjRGODIxREU4QzZC",
+      "snippet": {
+        "publishedAt": "2017-09-27T05:58:28.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Condition of Rohingya Refugees More Deplorable Than Shown in Media: Khalsa Aid",
+        "description": "Volunteers of Khalsa Aid organisation who had gone to Bangladesh to aid Rohingya refugees there share what they witnessed there. Amarpreet Singh, director of Khalsa Aid India says that more than food, water was scarce in the region to the point that they had to serve ten refugees with one bottle of water. (Audio in Hindi)\n\nWatch full video: https://khabar.ndtv.com/video/show/prime-time/khalasa-aid-is-a-example-of-humanity-468648?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: https://khabar.ndtv.com/videos?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/unabWVUS3oo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/unabWVUS3oo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/unabWVUS3oo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "unabWVUS3oo"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/yd-9b4lnCpj9XPKwYJJou2YgDNU\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi5FNDUyQjI4QzZEODc2QjBC",
+      "snippet": {
+        "publishedAt": "2017-09-26T10:04:41.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "BHU VC Speaks to Ravish Kumar About Campus Protests",
+        "description": "Banaras Hindu University (BHU) Vice-Chancellor Girish Chandra Tripathi talks to Ravish Kumar about the ongoing protests and chaos at the university. Prof Tripathi insists that the protests and chaos were instigated by 'outsiders' and also refutes allegations of lathi-charge by police on protesting students. \n\nStudents had been protesting since Thursday over a first-year student's charge that she was molested by three men in bikes within the campus. They contend that the university administration, instead of ensuring women's safety in the campus, restricted their movement and went for victim-shaming. (Audio in Hindi)\n\nWatch full video: https://khabar.ndtv.com/video/show/prime-time/poor-security-arrangement-in-bhu-468552?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hzdsOIWnhXU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hzdsOIWnhXU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hzdsOIWnhXU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hzdsOIWnhXU"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/3-YIbn13vmF0Al4y1tqRcj8A7mg\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi5BMDRGQkU0ODcwREVDRDQ2",
+      "snippet": {
+        "publishedAt": "2017-09-21T18:57:27.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Prime Time with Ravish || How GST has Impacted Livelihoods of Rag-pickers",
+        "description": "Prime Time today visits some of the slums in north Delhi where a large number of people are engaged in rag-picking as a vocation to find out how GST has impacted their earnings. Many of the rag-pickers say that owing to GST, the buyers of products to be recycled have begun taking plastics and other items are far lesser price than before. Factories that recycle goods find it difficult to keep the prices of their products low. (Audio in Hindi)\n\nWatch full video: https://khabar.ndtv.com/video/show/prime-time/negative-impact-of-gst-in-the-market-468278?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yl2rZRm4LCE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yl2rZRm4LCE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yl2rZRm4LCE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yl2rZRm4LCE"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/3Hco6_s3hOMqOOpWumxHHGvxO8o\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi40RjgyQ0E1RjFBNkIyMkY0",
+      "snippet": {
+        "publishedAt": "2017-09-20T19:15:48.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Why are Traders Unhappy With GST?",
+        "description": "On Prime Time, a special report on the impact of GST on small traders in Delhi. Also on the program, we discuss with traders and a legal expert about the laxities in the effective implementation of GST and whether businessmen have the necessary clarity on the same. (Audio in Hindi)\n\nWatch full video: https://khabar.ndtv.com/video/show/prime-time/prime-time-with-ravish-kumar-on-gst-and-noteban-468205?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/anSLzK-XeDQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/anSLzK-XeDQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/anSLzK-XeDQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "anSLzK-XeDQ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/-itaOwXwJpE7NWpevqKdbHAYTWE\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi4zRTkwOENEMUFBRTMwM0Ey",
+      "snippet": {
+        "publishedAt": "2017-09-19T19:18:37.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "In UN Speech, Trump Warns US May Have To 'Totally Destroy' North Korea",
+        "description": "President Donald Trump on Tuesday warned the United Nations that the world faces \"great peril\" from gathering threats posed by rogue regimes with powerful weapons and terrorists with expanding reach across the globe, issuing a call to fellow leaders to join the United States in the fight to defeat them.\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/64rC1eSiwLk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/64rC1eSiwLk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/64rC1eSiwLk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "64rC1eSiwLk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/n7_wnZzwSaYGx4rd5Ue0pAjXz90\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi42NjdFNjM1MEI2Rjg4OUE4",
+      "snippet": {
+        "publishedAt": "2017-09-19T19:18:37.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Prime Time with Ravish - Lawyers on Why They Challenged Rohingya Deportation in SC",
+        "description": "Top lawyers who are challenging the Centre's move to deport Rohingyas from India in the Supreme Court tell us on Prime Time why they do not see any threats in giving asylum to Rohingyas. The petitioners say that India has a history of welcoming asylum seekers and that there is no credible evidence of Rohingyas being engaged in terrorist activities.  (Audio in Hindi)\n\nWatch full video: https://khabar.ndtv.com/video/show/prime-time/prime-time-with-ravish-kumar-on-rohingya-issue-468104?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C5vi8ZRxZI0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C5vi8ZRxZI0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C5vi8ZRxZI0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "C5vi8ZRxZI0"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/KbTrYXJLp10_P8nIJO38aqSHZUc\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi44RTgyMzZDOUE4MjVGNjE0",
+      "snippet": {
+        "publishedAt": "2017-09-19T19:18:37.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "The Reality Of Rohingyas",
+        "description": "We take a look at the paranoia, scaremongering and evasion of responsibility surrounding Rohingya Muslims. Today, Myanmar's leader Aung San Suu Kyi, a Nobel laureate, was meant to finally respond - with humanity - to the growing international condemnation of her government's actions against the Rohingyas. Instead, she appeared to toe the line of Myanmar's military junta, by refusing to criticise the Army - and downplayed the extent of atrocity against Rohingyas.\n\nWatch full video: http://www.ndtv.com/video/shows/reality-check/the-reality-of-rohingyas-468106?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2QsEpO-WuOg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2QsEpO-WuOg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2QsEpO-WuOg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2QsEpO-WuOg"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/5ts4ny_a669ebj9ZZ754JBElopM\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi4wQzgyQUM5RURBOTJGQUU1",
+      "snippet": {
+        "publishedAt": "2017-09-19T19:18:37.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Shift To Electric, Hybrid Cars By 2030: Possible?",
+        "description": "When do we in India get real about moving away from petrol and diesel-powered vehicles to electric-powered ones? The government had announced that 2030 was the target. But since then, Minister Nitin Gadkari seems to have softened his position somewhat, stating that it was not the intention of the government to bankrupt any car company. So where does that leave us? On The Buck Stops Here, some of the biggest names in the auto industry, Bollywood star Gul Panag who drives an electric car herself, and environment experts discuss the dream to go green and whether it is the auto industry that is essentially the stumbling block.\n\nWatch full video: http://www.ndtv.com/video/news/the-buck-stops-here/shift-to-electric-hybrid-cars-by-2030-possible-468110?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gj2ItdlsVf0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gj2ItdlsVf0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gj2ItdlsVf0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Gj2ItdlsVf0"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/Arh4K_nGL4uK3HzYIG_RG9u-cS8\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi4zMkRGRDQyQjUwQ0ExRkYw",
+      "snippet": {
+        "publishedAt": "2017-09-18T18:36:36.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Retail Fuel Prices Continue to Rise Despite Low Global Oil Prices",
+        "description": "On Prime Time, we ask experts whether the price of retail fuel is linked to the global crude oil prices and whether government can afford to reduce taxes on petroleum. Will rising price of petrol and diesel increase agricultural input costs, thereby leading to food inflation? Will farmers bear the brunt of the rising fuel prices if their MSP is not increased? \nWatch full video: https://khabar.ndtv.com/video/show/prime-time/people-bothered-with-the-rising-price-of-petrol-diesel-468005?yt\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3QGQa7gTK3Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3QGQa7gTK3Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3QGQa7gTK3Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3QGQa7gTK3Q"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/VSTYIPlShg2MQTUWOUT5ZunWd3s\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi5BNzU5MEUxQTE1NDlGQ0U3",
+      "snippet": {
+        "publishedAt": "2017-09-15T19:16:53.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "How to Bring Public Sector Banks Out of Crisis?",
+        "description": "On Prime Time, a discussion on what is ailing India's public sector banks and what the government should do to revive them. Are banks doing enough to recover bad loans from corporates? Does the Centre have enough funds to bailout banks that are on the brink of collapse? (Audio in Hindi)\n\nWatch full video: https://khabar.ndtv.com/video/show/prime-time/how-to-improve-the-condition-of-banks-467821?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h0VRpkhBQQo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h0VRpkhBQQo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h0VRpkhBQQo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "h0VRpkhBQQo"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/g5MEiTUJAmEovIMDPI4H83T-gd0\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi5DMzk1OUY4QTk4QUMwQTEw",
+      "snippet": {
+        "publishedAt": "2017-09-14T17:26:22.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "प्राइम टाइम: बुलेट ट्रेन का सपना कितना पास, कितना दूर?",
+        "description": "बुलेट ट्रेन के समर्थन और विरोध में दिए जाने वाले कई तर्कों में समस्या है. अगर हम वाकई इतने गंभीर थे तो शिलान्यास से पहले इस पर चर्चा करते कि एक ट्रैक पर सवा लाख करोड़ ख़र्च कर रहे हैं जबकि काकोदकर कमेटी ने कहा था कि मौजूदा रेल पटरियों के पूरे ढांचे को ठीक करने के लिए एक लाख करोड़ चाहिए. इस ज़रूरी काम के लिए पैसा नहीं आ सका. 2022 में चलने वाली यह बुलेट ट्रेन भारत के प्रधानमंत्री नरेंद्र मोदी और जापान के प्रधानमंत्री शिंज़ो आबे की दोस्ती की मिसाल है. 350 किमी प्रति घंटे की रफ्तार के कारण अहमदाबाद से कोई ढाई तीन घंटे में मुंबई पहुंच जाएगी. मीडिया रिपोर्ट में अनुमानित भाड़े का रेंज 3000 से 5000 रुपया बताया जा रहा है.\n\nWatch full show: http://www.ndtv.com/video/shows/prime-time/how-close-and-how-far-is-the-bullet-train-s-dream-467733?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8DRwVCO58wg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8DRwVCO58wg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8DRwVCO58wg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8DRwVCO58wg"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/Ukc575GVPvocAleQpHtNJdPK_sI\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi5EOEExNjIwNkNFOTBBQTVC",
+      "snippet": {
+        "publishedAt": "2017-09-12T19:33:07.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "प्राइम टाइम: राजस्थान के सीकर से किसान आंदोलन",
+        "description": "1 सितंबर से राजस्थान के सीकर में किसानों का अनिश्चितकालीन आंदोलन चल रहा है. यहां से बीकानेर, चुरू, झुंझुनू, गंगानगर का रास्ता जाता है जो इस आंदोलन के कारण बंद हो चुका है. सीकर से शुरू हुआ यह आंदोलन अब राजस्थान के 14 ज़िलों में फैल गया है. सीकर में रोज़ सभाएं हो रही हैं, रात को सांस्कृतिक कार्यक्रम भी हो रहा है. दस सितंबर को ज़िले के प्रभारी मंत्री से सीकर सक्रिट हाउट में बातचीत हुई मगर असफल रही. उसके बाद किसानों ने चक्का जाम का फैसला किया.\n\nWatch full show: http://www.ndtv.com/video/shows/prime-time/prime-time-with-ravish-kumar-on-farmer-issue-467536?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-YKPfooJMM8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-YKPfooJMM8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-YKPfooJMM8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-YKPfooJMM8"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/AXSWGuT1o1LLufHCO1AfFQF0DQo\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi4wMjJBNDBBNjdEMTg4Q0Y2",
+      "snippet": {
+        "publishedAt": "2017-09-11T18:38:04.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "प्राइम टाइम: आखिर स्‍वास्‍थ्‍य क्‍यों नहीं है बड़ा मुद्दा?",
+        "description": "बुनियादी मुद्दों पर चर्चा न हो इसके लिए सबसे अच्छा टॉपिक है हिन्दू मुस्लिम. कोई भी ऐसा विषय हो जिसकी बहस दो समुदायों के बीच दुराव पैदा करती है ऐसी बहसों से मीडिया का स्पेस भरा हुआ है. वर्ना आप इस बात से सिहर उठते कि आखिर क्या बात है कि शहर दर शहर, अस्पताल दर अस्‍पताल इतनी मौतें हो रही हैं. इन मौतों को आप सरकारों की पार्टी के हिसाब से मत देखिये. इस हिसाब से देखिये कि ज़माने से स्वास्थ्य व्यवस्था की जो उपेक्षा की गई है, वो अब खुद से सतह पर आने लगी है. गोरखपुर तो कब का पीछे छूट गया है. जमशेदपुर, रांची, फर्रूख़ाबाद, इटावा होते हुए नासिक पहुंच गया है. नेताओं के भाषणों को ग़ौर से सुनिये आपको किसी भी भाषण में बच्चों की हो रही मौत या जर्जर हो चुकी स्वास्थ्य व्यवस्था को लेकर बेचैनी नज़र नहीं आएगी.\n\nWatch full show: http://www.ndtv.com/video/shows/prime-time/why-health-not-become-the-big-issue-in-our-country-467457?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mVdooeHuU7o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mVdooeHuU7o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mVdooeHuU7o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mVdooeHuU7o"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/tBr-OCwGT9dUYsOtDbhhPJwQDL0\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi43REU2ODY1MzU3ODlENEND",
+      "snippet": {
+        "publishedAt": "2017-09-08T18:14:12.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "प्राइम टाइम: लोकतंत्र का साथी गुरुद्वारा बंगला साहिब",
+        "description": "टीवी की बहस और सोशल मीडिया की अफवाहों के बीच धर्म की एक ऐसी छवि बना दी गई है, जिससे लगता ही नहीं कि यहां इंसानियत का कोई तत्व बचा होगा. और उस छवि में भी तमाम तरह की जो जानकारियों की विविधता है उसे खत्म किया जा रहा है. एक ही तरह की बात, एक ही तरह के प्रतीक धर्म का चेहरा बनते जा रहे हैं. एक हिंसक तस्वीर के अलावा अगर आप दूसरी तस्वीर भी देखना चाहें, दूसरे धर्मों की विविधता देखना चाहें तो आपकों बहुत कुछ हिंदुस्तान के बारे में जानने को मिलेगा. ऐसा ही एक उदाहरण गुरुद्वारा बंगाला साहिब में देखा जा सकता है.\n\nWatch full show: http://www.ndtv.com/video/shows/prime-time/gurudwara-bangla-sahib-a-friend-of-democracy-467260?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jeLC3eklz-g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jeLC3eklz-g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jeLC3eklz-g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jeLC3eklz-g"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/hIAZkxzT0pnreAUqDu4y_6zfJHA\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi5FNUQ0Q0YwODdFNDQ1RjUy",
+      "snippet": {
+        "publishedAt": "2017-09-06T18:22:23.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Prime Time: Journalists, Activists Protest Against Gauri Lankesh's Murder",
+        "description": "Widespread protests and condemnation erupted across the country over the brutal murder of senior journalist and staunch critic of the Hindutva politics Gauri Lankesh, who was killed on the doorsteps of her west Bengaluru house by an unidentified assailant. (Audio in Hindi)\n\nWatch full show: http://www.ndtv.com/video/shows/prime-time/prime-time-gauri-lankesh-murder-case-467117?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PnZMNtwjG50/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PnZMNtwjG50/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PnZMNtwjG50/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PnZMNtwjG50"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/HGkeCfIaid2q21YNIiqn_2-_8KU\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi42OTk4MDYzN0M4MTU5NzU3",
+      "snippet": {
+        "publishedAt": "2017-09-05T18:30:21.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Prime Time: Human Rights Violation of Rohingya Muslims in Myanmar",
+        "description": "A total of 87,000 mostly Rohingya refugees have arrived in Bangladesh since violence erupted in neighbouring Myanmar on August 25, the United Nations said Monday, amid growing international criticism of Aung San Suu Kyi. Thousands of the stateless Muslim minority have fled the mainly Buddhist nation and poured over the border since the latest round of fighting broke out, piling pressure on the already overcrowded camps in Bangladesh. (Audio in Hindi)\n\nWatch full show: http://www.ndtv.com/video/shows/prime-time/human-rights-of-rohingya-muslims-in-myanmar-467042?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AUZPLzRD32U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AUZPLzRD32U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AUZPLzRD32U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AUZPLzRD32U"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/SSq6FEvgH8wQfj--zhSqr49u1yk\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi43MDRBOUFFNjQxQ0MyNERB",
+      "snippet": {
+        "publishedAt": "2017-09-01T18:15:31.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "प्राइम टाइम: क्यों अस्पताल में हो रही है बच्चों की मौत?",
+        "description": "गोरखपुर के बीआरडी अस्तपाल में बच्चों के मरने की घटना से एक बात साबित हो गई. 12 अगस्त को 48 घंटे में 30 बच्चों की मौत के बाद हम सबने ख़ूब  बहस की, चर्चा की, मुख्यमंत्री से लेकर सरकार को घेरा, फिर चुटकुले बनाए और उसके बाद सब नॉर्मल हो गया. इसके अलावा और भी कई अस्पतालों में बच्चों की मौत हुई है.\n\nWatch full show: http://www.ndtv.com/video/shows/prime-time/prime-time-with-ravish-kumar-on-child-death-issue-466750?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HLetPZWVWMY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HLetPZWVWMY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HLetPZWVWMY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HLetPZWVWMY"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/gz_gDIEXrAbosUM4BbPv0EGq6Bw\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi5DMTAzN0FDQTlEQzZBRTNF",
+      "snippet": {
+        "publishedAt": "2017-08-31T18:05:18.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "प्राइम टाइम: नोटबंदी पर सरकार के दावे कितने सही निकले",
+        "description": "भारतीय रिज़र्व बैंक को 8 महीने लग गए यह बताने में नोटबंदी के बाद उसके खजाने में 99 फीसदी नोट वापस आ गए हैं. रिज़र्व बैंक को बताने में देरी क्यों हो रही थी. यही नहीं 14 दिसंबर 2016 को रिज़र्व बैंक ने ही बयान दिया कि 80 फीसदी नोट वापस आ गए हैं यानी 12 लाख 44 हज़ार करोड़ मूल्य के पांच सौ और हज़ार के नोट वापस आ गए हैं. \n\nWatch full show: http://www.ndtv.com/video/shows/prime-time/how-accurate-the-government-claims-on-noteban-466660?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\n Subscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\n\nLike us on Facebook: https://www.facebook.com/ndtv\n\nFollow us on Twitter: https://twitter.com/ndtv\n\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\n\nWatch more videos: https://khabar.ndtv.com/videos?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oHjnkiKvv3k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oHjnkiKvv3k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oHjnkiKvv3k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oHjnkiKvv3k"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/3f1Biqt7qFfGi4rYJ0sq6EiQjRc\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi44QzRDRDAyQTFFQzhENzMz",
+      "snippet": {
+        "publishedAt": "2017-08-24T19:25:34.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Implications of Supreme Court Ruling on Right to Privacy",
+        "description": "Prime Time: On the show we discuss the Supreme Court's ruling stating that privacy is a fundamental right. Lawyer Mishi Choudhary and Dr Faizan Mustafa, Vice Chancellor of NALSAR University of Law talk to us about the implications of the judgement and how it impacts other aspects of privacy such as gay rights and also on new laws that are drafted by governments.  (Audio in Hindi)\n\nWatch full video: https://khabar.ndtv.com/video/show/prime-time/right-to-privacy-is-our-fundamental-right-466104?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XCjYjG-_DLM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XCjYjG-_DLM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XCjYjG-_DLM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XCjYjG-_DLM"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/IapfK-KtXCqkef63daYbIrSwEk8\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi45ODgxOEREMUY2RjgwODM4",
+      "snippet": {
+        "publishedAt": "2017-08-23T19:21:06.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Is Negligence and Apathy the Cause of Derailments of Indian Trains?",
+        "description": "Prime Time tries to understand why Indian trains often get derailed leading to the deaths of dozens of passengers. Are adequate measures not being put in place to ensure safety of railway passengers? Are railway lines suffering gross neglect and little supervision? Former Member (Engineering), Railway Board talks to us about the safety shortcomings in the Indian Railways and whether enough has been done to both mordernise as well as ensure safety in the railway network. (Audio in Hindi)\n\nWatch full video: https://khabar.ndtv.com/video/show/prime-time/prime-time-changing-ministers-is-the-solution-of-train-accidents-466025?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eB-b2wLiwNw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eB-b2wLiwNw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eB-b2wLiwNw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eB-b2wLiwNw"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/grMOVVqfnYdI1X7wiQVbwJMu8Ec\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi45NDY0RkQ0QkY2MzNCOERB",
+      "snippet": {
+        "publishedAt": "2017-08-22T19:32:07.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Supreme Court Verdict on Triple Talaq Welcomed by Most Political Parties",
+        "description": "Prime Time discusses the implications of the Supreme Court ruling on triple talaq or 'talaq-e-biddat' saying it violated Articles 14 and 21 of the Indian Constitution. Is the verdict truly a victory for women's rights or is there more to be done to safeguard the rights of women? Will the Muslim Law Board now take steps to bring about reformation in Muslim personal laws?  (Audio in Hindi)\n\nWatch full video: \nhttps://khabar.ndtv.com/video/show/prime-time/all-parties-welcome-the-verdict-on-triple-talaq-465938?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DSCSOMfwcjU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DSCSOMfwcjU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DSCSOMfwcjU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DSCSOMfwcjU"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/X2Chz7QrTQar0GT-szv9hoKFXio\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi5FRjUyQ0E2Mjc1QTg3NENC",
+      "snippet": {
+        "publishedAt": "2017-08-21T19:19:51.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Bihar Floods: Could Preventive Measures Have Saved Lives, and Belongings of Millions?",
+        "description": "On Prime Time, we take stock of the flood situation across the country and review how administration's lackadaisical attitude towards safeguarding the lives and properties of people has caused excessive damage across the country. Rather than disaster relief, should state governments not work on disaster prevention? Is the damage caused to the hutments and belongings of the poor not fit to be counted while analyzing economic damage caused by floods? (Audio in Hindi)\n\nWatch full video: https://khabar.ndtv.com/video/show/prime-time/prime-time-silt-in-rivers-during-floods-465866?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KqCk2jcBBAI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KqCk2jcBBAI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KqCk2jcBBAI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KqCk2jcBBAI"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/wNC8NK6ed529v5DmWlp9cmT7Pv8\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi5DRTdDRERFQTdFMzdCQzY3",
+      "snippet": {
+        "publishedAt": "2017-08-18T19:33:24.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Railway Apprentices From Across the Country Protest at Jantar Mantar",
+        "description": "On Prime Time, Ravish Kumar talks to several protesting Railway Apprentices to understand their grievances regarding the recruitment rules reportedly announced by the Indian Railways. According to the protesters, they were all supposed to have been absorbed by the railways but as of now only 20% of those who have been given training shall be inducted as employees.  (Audio in Hindi)\n\nWatch full video: https://khabar.ndtv.com/video/show/prime-time/prime-time-hindu-muslim-discussion-more-than-employment-in-media-465680?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1az2_74B_ys/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1az2_74B_ys/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1az2_74B_ys/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1az2_74B_ys"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/q2GtwJ-pY4KW9YJxF0BoVnTBnUw\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi5GOUNCNzE3MTRGRUE3MjY5",
+      "snippet": {
+        "publishedAt": "2017-08-16T19:19:18.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Demystifying the Politics Surrounding Article 35A",
+        "description": "On Prime Time, we discuss the provisions of Article 35A and why political parties are strongly opposed to talks of its abrogation. The Supreme Court is currently hearing a petition challenging the Constitutional validity of Article 35A which accords special rights and privileges to the citizens belonging to Jammu and Kashmir.  (Audio in Hindi)\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_Bw1G3smNBY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_Bw1G3smNBY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_Bw1G3smNBY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_Bw1G3smNBY"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/ZcsaKx8fa2nVwXhPzPj5-mlo8HM\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi43MDZDRDAzQTY4MTg4RUNB",
+      "snippet": {
+        "publishedAt": "2017-08-16T19:19:19.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Demystifying the Politics Surrounding Article 35A",
+        "description": "On Prime Time, we discuss the provisions of Article 35A and why political parties are strongly opposed to talks of its abrogation. The Supreme Court is currently hearing a petition challenging the Constitutional validity of Article 35A which accords special rights and privileges to the citizens belonging to Jammu and Kashmir.  (Audio in Hindi)\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_Bw1G3smNBY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_Bw1G3smNBY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_Bw1G3smNBY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_Bw1G3smNBY"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/qo81moGp0DsSRZgzoVsxLkxRYHk\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi4yRDBGQTZGNkIwQjRCRDI1",
+      "snippet": {
+        "publishedAt": "2017-08-14T20:03:31.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Are Human Lives Worthless to Our Administration?",
+        "description": "Prime Time presents to you a ground report of the events that led to the deaths of dozens of children in BRD Medical College and Hospital in Gorakhpur. Looking at how the entire administration including senior officer level personnel as well as those in the ministry gave blatant disregard to payment demands by the oxygen vendor, it appears as though human life matters very little to our government and administration. We also take a look at the sorry state of affairs in government healthcare setup in various parts of the country as reported by NRHM.  (Audio in Hindi)\n\nWatch full video: https://khabar.ndtv.com/video/show/prime-time/our-whole-health-system-is-sick-465340?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JeKUH2jTTlY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JeKUH2jTTlY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JeKUH2jTTlY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JeKUH2jTTlY"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/OJKIf1qfkm6scvlMGj5KbXkQLXs\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi45QzgzRjYzM0NGOEI2MzdG",
+      "snippet": {
+        "publishedAt": "2017-08-11T19:29:07.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "What the Sanitation Workers Want From You",
+        "description": "In the second episode of our series in which we hear the voices of people employed as sanitation workers, we find out horrific details of conditions in which they work and the apathy they are subject to both by their employers as well as by the government. Dr Ashish Mittal, a social worker who joins us on the program says that due to constant exposure to toxic fumes and various infectious germs, the life expectancies of even those who don't suffer mishaps are lower than people employed in other professions.  (Audio in Hindi)\n\nWatch full video: https://khabar.ndtv.com/video/show/prime-time/during-sewers-cleaning-around-100-sweepers-died-yearly-465134?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Yf8oX6ZWAho/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Yf8oX6ZWAho/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Yf8oX6ZWAho/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Yf8oX6ZWAho"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/XVFpyMveQ2ghZlGhT2EsDbGjz_k\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi5DMDQzQ0Y1OUU5Qjk1NjE1",
+      "snippet": {
+        "publishedAt": "2017-08-10T18:45:06.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Sanitation Workers' Deaths: Why Do We Still Clean Sewers By Hands?",
+        "description": "There are some frontlines within our country today where sons of the soil lay down their lives in the service of the nation. They are not called martyrs nor do they get the kind of compensation their families deserve. Calling them sons of the soil does not solve their problems; leave aside the mangle of casteism that you find once you get down inside the 20-feet deep sewer. Ravish Kumar talks about sanitation workers and the hard lives they lead. (Audio in Hindi)\n\nWatch full video: https://khabar.ndtv.com/video/show/prime-time/why-does-sanitation-worker-go-into-sewer-465034?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FiE9Hsdlhz4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FiE9Hsdlhz4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FiE9Hsdlhz4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FiE9Hsdlhz4"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/H0wirTERv3nSEBHjH6pURLrcNkY\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi5EODk5RTI0RkMzQ0M2NTA0",
+      "snippet": {
+        "publishedAt": "2017-08-09T19:37:59.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Political Parties Fight to Claim Credit for India's Independence Struggle",
+        "description": "The 75th Anniversary of Quit India Movement by Mahatma Gandhi turned to be a Congress vs BJP war-of-words following Congress President Sonia Gandhi's jibe at the BJP alleging that some of its members were from 'organisations' that 'collaborated' with the British. On Prime Time today, Ravish Kumar talks to Dr Hilal Ahmed, Senior Fellow at CSDS about the Quit India Movement and whether the present day political parties can really claim credit Gandhi's role in the Independence struggle. Is Sonia Gandhi right in saying that the Congress had more to do with India's freedom struggle than the Hindu organisations?  (Audio in Hindi)\n\nWatch full video: https://khabar.ndtv.com/video/show/prime-time/quit-india-movement-464936?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bXpAX5NcVKk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bXpAX5NcVKk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bXpAX5NcVKk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bXpAX5NcVKk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/qNkLJYkN86x9wfEYTaMJBoPcGsk\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi4yMUY5NzI2NUIwRDIyQUM4",
+      "snippet": {
+        "publishedAt": "2017-08-08T18:42:46.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Govt to Withdraw Support for Minority Status of Jamia Millia Islamia",
+        "description": "On Prime Time, a discussion on minority institutions in the country and the special privileges (if any) enjoyed by them over the other institutions. A year after the Centre declared that it doesn't consider AMU as a minority institution; it is set to file an affidavit in court stating that it is not consider Jamia Millia Islamia as a minority institution. Dr. Faizan Mustafa, Vice-Chancellor of NALSAR University of Law, Hyderabad however says that articles 29 and 30 of the constitution grants special rights to minorities on culture and education. Depriving institutions of minority status he thinks can come in the way of opportunities available for people belonging to minority communities. (Audio in Hindi)\n\nWatch full video: https://khabar.ndtv.com/video/show/prime-time/other-community-have-also-minority-institutions-464857?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QOEKl6aVVaQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QOEKl6aVVaQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QOEKl6aVVaQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QOEKl6aVVaQ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/a063waX7hEmcKNQzza77VgfUO78\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi5EREVFRjRENjQ3OTBFOTU3",
+      "snippet": {
+        "publishedAt": "2017-08-08T12:05:38.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Case Against Haryana Politician's Son Watered Down by Police?",
+        "description": "On Prime Time, we speak to Varnika Kundu and her father and former IAS officer Virender Kundu about the harrowing experience that Ms Kundu had to undergo in escaping her stalkers. While Kundu alleges that her stalkers had kept following her for several kilometers and had tried to forcibly drag her out of the car before the police rescued her, they have only been booked under bailable sections of the IPC. One of the men, Vikas Barala is the son of Subhash Barala – Haryana state unit chief of the BJP. Ms Kundu has also been subject to reprisals from social media trolls as well as from BJP leaders who questioned her intent to have been travelling 'alone at night'. (Audio in Hindi)\n\nWatch full video: https://khabar.ndtv.com/video/show/prime-time/prime-time-question-on-night-out-of-girls-464784?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xO36K4_XECk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xO36K4_XECk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xO36K4_XECk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xO36K4_XECk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/dRYtZvsoVgy-pTeUF4v-nFrgsro\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi5CMERDMzBCRkNCQzdENkU2",
+      "snippet": {
+        "publishedAt": "2017-08-04T19:30:54.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "'Hair Chopping' Rumour Creates Panic, Leads to Death of Agra Woman",
+        "description": "Today on Prime Time, we play an earlier episode about 'Monkey Man' – a rumour that spread like fire across NCR and the surrounding regions creating panic and fear among residents. In a similar fashion, a rumour about some mysterious person cutting off the hair locks of women when they are asleep emanated from Bikaner and has now spread to Haryana, Delhi, and Uttar Pradesh. Several people have begun reporting that their hair was cut off during sleep by some person or 'spirit'. Ravish Kumar discusses this ongoing panic mongering caused in the context of how fake news can create chaos when there are no checks to prevent it from spreading. A 60-year-old woman was allegedly lynched to death in Agra district on suspicion of being a witch amidst the ongoing rumours about the 'hair thief'. (Audio in Hindi)\n\nWatch full video: \nhttps://khabar.ndtv.com/video/show/prime-time/prime-time-monkey-man-to-braid-chopping-464603?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kLRl176DkoA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kLRl176DkoA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kLRl176DkoA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kLRl176DkoA"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/gDOOZVXPGxaR8Cit-l8MJomiHNk\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi5FRjIwODg5RjRFMzgwNzQ2",
+      "snippet": {
+        "publishedAt": "2017-08-03T19:44:50.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "'India Becoming the Graveyard of Languages'",
+        "description": "Dr Ganesh Naryandas Devy, literary scholar and cultural activist who headed the People's Linguistic Survey of India – a government study between 2010 and 2013, says that India is becoming the graveyard of languages. Dr Devy says that owing to migration of natives from different parts of the country towards urban locations for livelihood, their own languages are slowly dying out. On Prime Time, Dr Devy tells us a lot about languages, how they evolve and why languages should be preserved. (Audio in Hindi)\n\nWatch full video: https://khabar.ndtv.com/video/show/prime-time/prime-time-death-of-indian-languages-464501?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eXk22BomCQ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eXk22BomCQ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eXk22BomCQ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eXk22BomCQ4"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/xfwmaw4iJcUwbOGWrlzq73cJaqQ\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi4yMEU5RUIyMDEyN0JFRkVG",
+      "snippet": {
+        "publishedAt": "2017-07-31T19:28:22.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Communal Politics Played by Central Parties on Kerala's Political Killings?",
+        "description": "On Prime Time, we analyse the pattern of killings that have been happening in Kerala since decades, particularly in Kannur district. What is the reason for such brutality in the political arena in the state? Is caste or religion also playing a role in the violence? Is the media wrongly interpreting the violence in Kerala as associated with caste or religion? Dr Ruchi Chaturvedi of Cape Town University tells us more about Kerala's political violence and why caste or religion should not be linked with the killings. (Audio in Hindi)\n\nWatch full video: https://khabar.ndtv.com/video/show/prime-time/how-will-the-politics-of-revenge-end-in-kerala-464216?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n \nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oisxF9BxxR8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oisxF9BxxR8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oisxF9BxxR8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oisxF9BxxR8"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/z9Aoknm9wwO13vnfegQRTpDZRQA\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi43MDA1N0U1MEJGRjdDNzUx",
+      "snippet": {
+        "publishedAt": "2017-07-27T19:40:37.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Nitish's U-Turn Reflects Weak Unity of Mahagathbandhan?",
+        "description": "Prime Time today discusses the Bihar political puzzle and about how equations kept changing before the 2014 Lok Sabha elections till today. Were the corruption cases against RJD's Tejashwi Yadav the only reason for the Nitish's breakup from the grand alliance? Are opposition parties insincere towards the formation of the 'anti-BJP' alliances? Did Nitish Kumar choose to go for an ally who is easier to handle than the RJD? We ask. (Audio in Hindi)\n\nWatch full video: https://khabar.ndtv.com/video/show/prime-time/who-betrayed-whom-in-bihar-463939?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PDij83DK3Ko/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PDij83DK3Ko/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PDij83DK3Ko/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PDij83DK3Ko"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/3-u8LwLgNnSCUfIQe9hggaB8zls\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi41MjUwREU3MjgyNjI1ODZC",
+      "snippet": {
+        "publishedAt": "2017-07-27T12:07:07.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Was Mahagathbandhan Breakup Only Waiting to Happen?",
+        "description": "On Prime Time, we discuss the sudden decision of Nitish Kumar to resign from the post of chief minister of Bihar following the corruption allegations against the deputy chief minister Tejashwi Yadav. Was Nitish Kumar not aware of the corruption charges against the Yadav clan before he formed an alliance with them? Was the grand alliance a failure waiting to break apart? (Audio in Hindi)\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-cliBr8pg1g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-cliBr8pg1g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-cliBr8pg1g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-cliBr8pg1g"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/L8jpdvSRL3RgKgzog2INTCG_CTk\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi4yRjhERkY5NDUyQUYyMjY1",
+      "snippet": {
+        "publishedAt": "2017-07-24T19:48:11.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "CAG Report Points Out Shortcomings in Government Schemes",
+        "description": "Prime Time today discusses with former DG in the CAG about the reports presented by the CAG in Parliament recently about why several government departments fail to function in a structured manner to deliver government services to citizens. From the CAG audit reports tabled in Parliament on Friday, several shortcomings were pointed out in welfare schemes, railways, defence, and health among others in the country. (Audio in Hindi)\n\nWatch full video: https://khabar.ndtv.com/video/show/prime-time/prime-time-implementation-of-cag-reoort-463666?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n \nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UM98bWslF88/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UM98bWslF88/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UM98bWslF88/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UM98bWslF88"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/etmPTeUw5iHhQWdtYLTcbHJNDJ0\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi41NUFGRTY5NEJCMUM2OTJF",
+      "snippet": {
+        "publishedAt": "2017-07-21T19:11:57.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Crumbling Infrastructure, Lack of Teachers in Govt Schools in India",
+        "description": "Prime Time: NDTV visits some of the rural schools in Madhya Pradesh where we find that buildings are rickety and some of the schools do not even have enough rooms to accommodate all the students that they are often taught in common rooms. Though some of the schools are equipped with computers and lab equipment, the students say that they have never used them because their school doesn't have electricity. Teachers are compelled to teach subjects that they do not have the expertise in or students study on their own if the school does not have a qualified teacher for that subject. (Audio in Hindi)\n\nWatch full video: https://khabar.ndtv.com/video/show/prime-time/prime-time-government-school-education-system-463432?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n \nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mgwKMVvoZHM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mgwKMVvoZHM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mgwKMVvoZHM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mgwKMVvoZHM"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/ij1eRlv-Fw-nqVaC4hgalO7Ls3c\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi5BNDEyODI2QzIyNkJCRTMx",
+      "snippet": {
+        "publishedAt": "2017-07-19T18:15:06.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Does Our Constitution Guarantee Right to Privacy of Individuals?",
+        "description": "On Prime Time, we analyse our laws regarding privacy of an individual and whether our constitution provides enough safeguards to privacy of citizens.  A nine-judge constitution bench headed by Chief Justice JS Khehar noted that the right to privacy is 'not an absolute' right and that the State may have some power to put 'reasonable restrictions' on privacy rights. The bench was hearing arguments regarding right to privacy in the context of several cases by petitioners who were challenging aspects of Aadhaar. (Audio in Hindi)\n\nWatch full video: https://khabar.ndtv.com/video/show/prime-time/prime-time-privacy-is-fundamental-right-or-not-463262?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jJzdHix-47c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jJzdHix-47c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jJzdHix-47c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jJzdHix-47c"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/uOTtrU30UERGajwRepV8ycTvMr8\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi4wRUE3MkE2QzM5M0M3RUMx",
+      "snippet": {
+        "publishedAt": "2017-07-17T19:23:14.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Swachh Bharat Campaign Does Nothing for 'Swacchta' Workers?",
+        "description": "On Prime Time, a discussion on how states as well as the Centre do little or nothing to ensure safety of workers who are hired for cleaning sewers and drains. Even though the laws prohibit manual scavenging, workers are often hired by households and building owners to engage in cleaning of septic tanks without the use of safety equipment or protective gears. Four workers died of asphyxiation while cleaning a rain water harvesting tank that was filled with sewage in Delhi's Ghitorni area. (Audio in Hindi)\n\nWatch full video: https://khabar.ndtv.com/video/show/prime-time/sweepers-problem-in-india-463070?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9P5ikEjvG4M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9P5ikEjvG4M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9P5ikEjvG4M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9P5ikEjvG4M"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/AZv7b2kRFZ6njhL74nUtnMjhMqg\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi44MThCMzZFNDc2RTk1MEY2",
+      "snippet": {
+        "publishedAt": "2017-07-14T19:32:20.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Fake News Causing Mass Hysteria: Case Study of Monkey Man",
+        "description": "Today in our series on prime time about fake news, we take a look at a strange case of 'monkey man' that was spreading terror throughout Delhi and NCR. During mid-2001, reports of a mysterious 'monkey man' spread fear and panic among residents of Delhi and the neighbouring districts. While several claimed to have actually seen a monkey like figure that attacked them, policemen who were assigned for nightlong patrolling never spotted a creature the creature that was described. A committee comprising of experts from National Institute of Human Behaviour (NIHB) and Central Forensic Laboratory (CFL) came to the conclusion that rumour mongering and 'imagination' was leading to people believing in the so-called 'monkey man'. (Audio in Hindi)\n\nWatch full video: https://khabar.ndtv.com/video/show/prime-time/from-paid-news-to-fake-news-462861?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ukAt2KnAPJg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ukAt2KnAPJg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ukAt2KnAPJg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ukAt2KnAPJg"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/JmjEDk7upnuU7RqN0XepQG8ykXo\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi5CODAzNTc5NEFERjkzMDQ0",
+      "snippet": {
+        "publishedAt": "2017-07-11T19:06:48.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Social Media Takes on 'Not In My Name' Protesters Over Amarnath Attack",
+        "description": "On Prime Time, a review of the security lapses that led to the terrorist attack on Amarnath pilgrims leaving 7 dead and several injured in Kashmir. Right-wing groups on social media lambasted the 'Not In My Name' protesters alleging they didn't voice their protest against the attack. On the show we also speak to some of the activists who had also organised 'Not In My Name' protest against mob killings and are holding vigil at Jantar Mantar to mourn those who died in the terror attack. (Audio in Hindi)\n\nWatch full video: https://khabar.ndtv.com/video/show/prime-time/terror-attack-on-amarnath-pilgrims-462571?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QPZy5WrKl1U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QPZy5WrKl1U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QPZy5WrKl1U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QPZy5WrKl1U"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/0-JEHdn6lFgamC7yJmfOYBVK8-A\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi41MEQ4OTVBOTREQTQwQjlD",
+      "snippet": {
+        "publishedAt": "2017-07-11T13:13:42.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "How Fake News Flourished Before Internet Age",
+        "description": "On Prime Time, a discussion on fake news and how social media is a platform for rumour-mongering. Did fake news exist before the age of internet and social media? How did the concept of propaganda and fake news originate? Kolkata police arrested one person for allegedly having shared a screengrab from a movie and passing it off as an image of violence in Bengal. (Audio in Hindi)\n\nWatch full show: https://khabar.ndtv.com/video/show/prime-time/do-you-understand-fake-news-462484?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OYZGgItqI28/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OYZGgItqI28/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OYZGgItqI28/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OYZGgItqI28"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/ayjctBmpb3v5ST1609vh0Z0gdZM\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi45QUQwMENBQjdFNjZDQjE4",
+      "snippet": {
+        "publishedAt": "2017-07-07T17:47:32.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Drug, Alcohol and Substance Abuse a Way of Life Among Seemapuri Minors",
+        "description": "As we tour through Seemapuri – a congested slum in north-east Delhi, we find that drug and substance abuse are a way of life here. At every corner we find children injecting drugs into their veins or inhaling intoxicating substances. Some of the youth we spoke to say that relapse is very common owing to the easy availability of addiction causing drugs at extremely cheap rates. Children in this slum earn money for buying drugs by picking trash and selling them to scrap dealers. Some engage in crimes to fund their needs for drugs.  (Audio in Hindi)\n\nWatch full video: https://khabar.ndtv.com/video/show/prime-time/growing-network-of-drugs-smuggling-462281?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fVUd8J4E2MM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fVUd8J4E2MM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fVUd8J4E2MM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fVUd8J4E2MM"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/0-wnyxY91zrMnsyktoTLdzdnW3I\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi5GMUYyNkE2QjczNDk4RDY4",
+      "snippet": {
+        "publishedAt": "2017-07-06T20:10:04.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Should India Adopt a Different Approach Towards the Sikkim Standoff?",
+        "description": "On Prime Time, we review the ongoing tension between India and China over the Doklam trijunction between India, China and Bhutan. Should India take a different approach towards the issue and try to solve the matter peacefully rather than engaging in military buildup? Given the tense atmosphere, should India as well as China maintain restraint in their discourse? We discuss.  \nWatch full video: https://khabar.ndtv.com/video/show/prime-time/why-is-china-concerned-about-bhutan-462192?yt\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LNR4cQmacCE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LNR4cQmacCE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LNR4cQmacCE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LNR4cQmacCE"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/4mUWVwSnZbd6Cc6O9fyhfyfXoZc\"",
+      "id": "UExZU2ZZVmRyT1p2Z3Jaa0wtQU1QM1M5VWpQcXBBSWtBMi4yQzM1RUZENURBMEYyMTE3",
+      "snippet": {
+        "publishedAt": "2017-07-05T18:31:30.000Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "Facebook Post Triggers Communal Riots in West Bengal",
+        "description": "An alleged Facebook post that was offensive to Muslims has led to large scale violence, arson and communal tension in Basirhat town in West Bengal. Prime Time today discusses how social media posts lead to violence and rioting and asks whether political parties are contributing to escalating tensions instead of helping curb the tension. While chief minister Mamata Banerjee has blamed the BJP for the violence, the BJP on the other hand says that the situation is a fallout of Ms Banerjee's 'Muslim appeasement'. (Audio in Hindi)\n\nWatch full video: https://khabar.ndtv.com/video/show/prime-time/why-communal-tension-in-bengal-462085?yt\n\n\n\nNDTV is one of the leaders in the production and broadcasting of un-biased and comprehensive news and entertainment programmes in India and abroad. NDTV delivers reliable information across all platforms: TV, Internet and Mobile.\n\nSubscribe for more videos: https://www.youtube.com/user/ndtv?sub_confirmation=1\nLike us on Facebook: https://www.facebook.com/ndtv\nFollow us on Twitter: https://twitter.com/ndtv\nDownload the NDTV Apps: http://www.ndtv.com/page/apps\nWatch more videos: http://www.ndtv.com/video?yt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S5Q6VCopfhw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S5Q6VCopfhw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S5Q6VCopfhw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "playlistId": "PLYSfYVdrOZvgrZkL-AMP3S9UjPqpAIkA2",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "S5Q6VCopfhw"
+        }
+      }
+    }
+  ]
+}

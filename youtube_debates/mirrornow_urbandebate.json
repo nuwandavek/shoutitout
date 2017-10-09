@@ -1,0 +1,2211 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/cMRkkCm37Cr3cxzuA8P9ZRGnK80\"",
+  "nextPageToken": "CDIQAA",
+  "pageInfo": {
+    "totalResults": 595,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/WWArCRa9DE-zGpf1t30pGaYAqVk\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy41RjE3Q0ExQjdGMzgyQzI2",
+      "snippet": {
+        "publishedAt": "2017-10-04T10:21:38.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "Will Fuel Get Even More Cheaper? I The Urban Debate WIth Faye D'Souza",
+        "description": "MEGA MIRROR NOW IMPACT : The government has cut the excise duty on fuel, petrol and diesel. The price will be reduced by Rs.2 .\n\nFor More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TbeP41LRSj0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TbeP41LRSj0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TbeP41LRSj0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TbeP41LRSj0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TbeP41LRSj0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "TbeP41LRSj0",
+        "videoPublishedAt": "2017-10-04T10:21:36.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/iOsYJFyMtRv2QQkrl3eQ_DvYmbs\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy4zNTdEQTVCRjZENkIyOUYx",
+      "snippet": {
+        "publishedAt": "2017-10-04T07:25:04.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "Elderly Couple Killed By Civil Negligence? I The Urban Debate With Faye D'Souza",
+        "description": "A bus ran into a bike in Bengaluru. The couple has slowed down the vehicle in order to avoid the mishap, but still lost their lives.\nWas the BBMP waiting for a death to repair the pothole? #NoValueForLife\n\nFor More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3o0zJNGs5Wg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3o0zJNGs5Wg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3o0zJNGs5Wg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3o0zJNGs5Wg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3o0zJNGs5Wg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "3o0zJNGs5Wg",
+        "videoPublishedAt": "2017-10-04T07:24:56.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/j2D-0SX2UgkC9yvAQpL8Z_ZJn04\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy4wQjIyQzlCRTVCNTlGOEJB",
+      "snippet": {
+        "publishedAt": "2017-10-03T14:36:58.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "Who Killed Gauri Lankesh? I The Urban Debate With Faye D'Souza",
+        "description": "For More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i4HBCGj-_h4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i4HBCGj-_h4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i4HBCGj-_h4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i4HBCGj-_h4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "i4HBCGj-_h4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "i4HBCGj-_h4",
+        "videoPublishedAt": "2017-10-03T15:14:18.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/TQPbh3Ggjk2y9ELLc55Zo_Tql_Q\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy41ODBCRjAwRTA0NzE1QzhG",
+      "snippet": {
+        "publishedAt": "2017-10-03T07:08:01.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "BHU Violence : No Answers Yet, No Actions Yet I The Urban Debate With Faye D'Souza",
+        "description": "BHU Clash : The students are being targeted for raising safety issues. 14 students were identified. The police are yet to find leads in the molestation case of the student. \n\n\nFor More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SNGW_Ie_DiQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SNGW_Ie_DiQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SNGW_Ie_DiQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SNGW_Ie_DiQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SNGW_Ie_DiQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "SNGW_Ie_DiQ",
+        "videoPublishedAt": "2017-10-03T07:08:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/GS-wYg5wpiCETyuW8f1zaTQgSqQ\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy5BQzNCNjI4N0FGNzJGNUE2",
+      "snippet": {
+        "publishedAt": "2017-09-30T11:00:42.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "Mumbai Stampede - Did The Authorities Ignore Warnings? - The Urban Debate With Faye D'Souza",
+        "description": "For More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zBrbD3qvybM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zBrbD3qvybM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zBrbD3qvybM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zBrbD3qvybM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zBrbD3qvybM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "zBrbD3qvybM",
+        "videoPublishedAt": "2017-09-30T11:00:59.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/sCQwfMPKe2b8m0CVaPevOP3tJPg\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy43RTBBRTdGQURDNjA2MzhB",
+      "snippet": {
+        "publishedAt": "2017-09-30T10:50:24.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "Mumbai Stampede - Netas Let Citizens Die - The Urban Debate With Faye D'Souza",
+        "description": "For More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mNlmVq_LRf8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mNlmVq_LRf8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mNlmVq_LRf8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mNlmVq_LRf8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mNlmVq_LRf8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "mNlmVq_LRf8",
+        "videoPublishedAt": "2017-09-30T10:50:22.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/tK_Ckh-ESddyowZh4uKBK55bx1c\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy5EMzZFRUVFMzVBMzM3QzVD",
+      "snippet": {
+        "publishedAt": "2017-09-29T08:17:01.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "Petrol Home Delivery, Smart Move Or Diversion Tactic? I The Urban Debate With Faye D'Souza",
+        "description": "\"Using the technological advancements in the IT & Telecom Sector we will soon be starting online home delivery of Diesel & Petrol,\" tweeted Pradhan.\n\nFor More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8F4hEjeyjW8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8F4hEjeyjW8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8F4hEjeyjW8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8F4hEjeyjW8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8F4hEjeyjW8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "8F4hEjeyjW8",
+        "videoPublishedAt": "2017-09-29T08:16:53.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/5kgraWfEBFG9gKRSSBBYvi3j_84\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy5GRDYxMEFCQTk0N0NBM0FE",
+      "snippet": {
+        "publishedAt": "2017-09-28T08:24:40.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "Government Measures Have Put Indian Economy In Doldrums? I The Urban Debate",
+        "description": "Former finance minister Yashwant Sinha has said that the Indian economy is in pain and has termed demonetization as a complete failure. The prices of the basic necessities are rising tremendously. \nHow will the middle class people survive? \n\nFor More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ynBvLOqtH7c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ynBvLOqtH7c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ynBvLOqtH7c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ynBvLOqtH7c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ynBvLOqtH7c"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ynBvLOqtH7c",
+        "videoPublishedAt": "2017-09-28T08:24:32.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/MeJP42ElwITAkB8SrsOXKb-IQ14\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy40QUQ2RjZCMUVCNUM5MzI0",
+      "snippet": {
+        "publishedAt": "2017-09-28T08:02:42.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "Government Calls Out  A War On Tobacco I The Urban Debate With Faye D'Souza",
+        "description": "The government might soon change the licensing process of the cigarette and the tobacco shops. The shops selling tobacco will now require a license to sell them. And if they the license they will not be able to sell anything else.\n\nFor More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0P4J9fz6aRs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0P4J9fz6aRs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0P4J9fz6aRs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0P4J9fz6aRs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0P4J9fz6aRs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "0P4J9fz6aRs",
+        "videoPublishedAt": "2017-09-28T08:02:33.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/5m_hkk63DuOzi5AcAS2xQjveilA\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy5DQzUxMUZGMjZGRkYyRTA3",
+      "snippet": {
+        "publishedAt": "2017-09-27T07:50:05.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "Should Women Scream ' NO' To Avoid Rape? I The Urban Debate With Faye D'souza",
+        "description": "Mahmood Farooqui the director of Peepli Live was acquitted of rape by the Delhi HC. \nDelhi HC on Mahmood Farooqui Case : \"Feeble No May Mean Yes\"\nFaye D'Souza, Executive Editor: \"The law needs to define the meaning of 'Consent' properly.\"\n#NoMeansNO\n\nFor More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v7N-878d9BQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v7N-878d9BQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v7N-878d9BQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/v7N-878d9BQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "v7N-878d9BQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "v7N-878d9BQ",
+        "videoPublishedAt": "2017-09-27T07:50:04.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/UbzL8uO1rBfaqZgEMXYKiAoirOQ\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy41MUM2OURBNTJGNzcwRTc5",
+      "snippet": {
+        "publishedAt": "2017-09-27T07:31:03.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "The Battle For Gender Justice I The  Urban Debate With Faye D'Souza",
+        "description": "Faye D'Souza: \"Women will continue to ask for their rights irrespective of who's in power. It's in your best interest if you are running the state, city, country, to consider the power of women when we come together.\"\n #BHUClash\n\nFor More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h8pqEGeP4Xs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h8pqEGeP4Xs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h8pqEGeP4Xs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/h8pqEGeP4Xs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "h8pqEGeP4Xs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "h8pqEGeP4Xs",
+        "videoPublishedAt": "2017-09-27T07:30:55.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/MLyAlhQyHeldDl_p_9NwuUqCDdk\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy5BNDM3NEM2NUI3RTE5QUYy",
+      "snippet": {
+        "publishedAt": "2017-09-26T07:18:39.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "Banaras Hindu University Boils, Only Demand Is Security I The Urban Debate With Faye D'Souza",
+        "description": "Isn't safety of students a concern of Uttar Pradesh government or has government completely washed its hands off the safety of its citizens? \n#BHUClash\n\nFor More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hULt6m8PId8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hULt6m8PId8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hULt6m8PId8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hULt6m8PId8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hULt6m8PId8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "hULt6m8PId8",
+        "videoPublishedAt": "2017-09-26T07:18:32.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/kbnZ8UcJpp5vWFkozWyZ08OaTMg\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy44NDkwMTAxQzBCQzI4RjZG",
+      "snippet": {
+        "publishedAt": "2017-09-26T07:17:00.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "Health Care Completely Ignored In India? I The Urban Debate With Faye D'Souza",
+        "description": "Faye D'Souza: \"Let's promise to read all letters, email, fineprint from banks as they bury details as they can bring some justice to system\". \n#InsuranceForAll\n\nFor More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Oizouo-HEoY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Oizouo-HEoY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Oizouo-HEoY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Oizouo-HEoY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Oizouo-HEoY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Oizouo-HEoY",
+        "videoPublishedAt": "2017-09-26T07:16:53.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/IlVNLlkViMwkTFr1TOtjymKCxI8\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy43MkY4RkQwRjY3MEQ5MzVB",
+      "snippet": {
+        "publishedAt": "2017-09-23T11:22:10.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "GST Railroaded By Poor Implementation? I The Urban Debate With Faye D'Souza",
+        "description": "It has been three months that the GST has been implemented, still there is confusion in the minds of people. The implementation of GST was a good reform, but has it failed because of the poor implementation plans? \n\nIs Govt aware that few businesses  are not registered Under #GST are duping consumers by charging GST? How can the transition be made better?\n\n\nFor More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-sIgDbvxvrA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-sIgDbvxvrA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-sIgDbvxvrA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-sIgDbvxvrA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-sIgDbvxvrA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "-sIgDbvxvrA",
+        "videoPublishedAt": "2017-09-23T11:22:07.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/GZWxHGZF9kdozP9xu8e87HyNgA4\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy5FNEM4OThENjlGNTBCMTlG",
+      "snippet": {
+        "publishedAt": "2017-09-23T11:08:04.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "Shiv Sena GoondaGiri Strikes Again, Meat Ban During Navratri I The Urban Debate With Faye D'Souza",
+        "description": "The Shiv Sena workers forced to shut down all the meat shops in Gurugram. \nFaye D'Souza: ''We will not be a superpower of the future if we don’t learn to live together, work together and love each other.''\n#MobGoondagardi #TheUrbanDebate\n\nFor More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7L45jl-7IW0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7L45jl-7IW0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7L45jl-7IW0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7L45jl-7IW0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7L45jl-7IW0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "7L45jl-7IW0",
+        "videoPublishedAt": "2017-09-23T11:08:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/6RtiQhfzUk6oTmQubLS86p_Dj-Q\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy5GQ0E5OTk1MzM0OEMzOENE",
+      "snippet": {
+        "publishedAt": "2017-09-22T08:39:03.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "Sakshi Maharaj At It again, Inter Religion Love Not Okay? I The Urban Debate With Faye D'Souza",
+        "description": "Known for not mincing his words, the BJP leader said everyone ignores them but when rape occurs people demand action by the police. Sakshi Maharaj  : \"Couples displaying affection in public should be jailed\".\n\nFor More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_Zt7tVL5WJA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_Zt7tVL5WJA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_Zt7tVL5WJA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_Zt7tVL5WJA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_Zt7tVL5WJA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "_Zt7tVL5WJA",
+        "videoPublishedAt": "2017-09-22T08:39:02.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/5h-EaYwii_c7bSaQbHEkuhll4EI\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy40QTRDMjY0RTNGMzVENTk5",
+      "snippet": {
+        "publishedAt": "2017-09-21T09:20:22.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "Gurugram School Investigation : Will CBI Summon the Pintos? I The Urban Debate With Faye D'Souza",
+        "description": "The government has come up with a new twist in the Gurugram murder case. Says that the Pintos are running away and not cooperating with the police in the investigation. Who is sheilding the Pintos?\n\n\nFor More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3StY6I6lp38/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3StY6I6lp38/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3StY6I6lp38/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3StY6I6lp38/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3StY6I6lp38"
+        }
+      },
+      "contentDetails": {
+        "videoId": "3StY6I6lp38",
+        "videoPublishedAt": "2017-09-21T09:20:21.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/mSWGEs8-2-A9wCGshYeRyYEKZbU\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy5ENDc4RDE2ODFDREYyQUUw",
+      "snippet": {
+        "publishedAt": "2017-09-21T08:13:52.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "Delhi Boy Killed For Protesting Public Smoking I The Urban Debate With Faye D'Souza",
+        "description": "There has been a tremendous rise in the number of crimes in Delhi. A 21yr old boy was killed over a petty argument. The accused of was let off bail. The family of the victim demand justice. \n\nFor More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gJcY-4xaCQw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gJcY-4xaCQw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gJcY-4xaCQw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gJcY-4xaCQw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gJcY-4xaCQw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "gJcY-4xaCQw",
+        "videoPublishedAt": "2017-09-21T08:13:51.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/WOqRhSHzL7brk6EcEiVynji-ZvY\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy4xRTVDQkE0OURCOTZEMEY0",
+      "snippet": {
+        "publishedAt": "2017-09-19T07:22:35.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "Fuel Price Hike : Should We Have GST On Petrol? I The Urban Debate With Faye D'Souza",
+        "description": "The Government Of India has provided with a solution for the fuel price hike. The fuels will be considered under GST. Is this an appropriate solution for the middle class who are affected the most by the price hike? \n\nFaye D'Souza : \"Can center bring fuel under GST?\" #FuelPriceHike\n\nFor More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Spx1Tuv6-30/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Spx1Tuv6-30/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Spx1Tuv6-30/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Spx1Tuv6-30/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Spx1Tuv6-30"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Spx1Tuv6-30",
+        "videoPublishedAt": "2017-09-19T07:22:27.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/NWcX7BjZzuHYaHI_t3l1MPEtw8s\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy5BMjIxMjQ4MTYyMzQwNEYw",
+      "snippet": {
+        "publishedAt": "2017-09-19T07:10:27.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "Loan Waivers Just On Paper? Farmers Cry Out For Help I The Urban Debate With Faye D'Souza",
+        "description": "U.P. farmers dealt with a cruel waiver joke. In Maharashtra, loans are yet to be written off. And in Tamil Nadu, pleas are not even being heard. Is this how a nation should treat those who grow our food? #SaveOurFarmers\n\nFor More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NFV-14M5yS4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NFV-14M5yS4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NFV-14M5yS4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NFV-14M5yS4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NFV-14M5yS4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "NFV-14M5yS4",
+        "videoPublishedAt": "2017-09-19T07:10:19.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/Kvw4ERCrjK8AQST2tB4mOwS-SOY\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy4xMDNGNzQzRDY3MkUwODNC",
+      "snippet": {
+        "publishedAt": "2017-09-17T12:05:18.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "After Pradhyumn's Case, Should The Govt Make Our Schools Safer? - The Urban Debate With Faye DSouza",
+        "description": "For More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_iPbPrFtbOU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_iPbPrFtbOU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_iPbPrFtbOU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_iPbPrFtbOU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_iPbPrFtbOU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "_iPbPrFtbOU",
+        "videoPublishedAt": "2017-09-17T12:05:27.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/nWAjDj_Jlo0BAeQRRG7pJH2bVYo\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy5FQTRFNDMxRTY3NUZEODEz",
+      "snippet": {
+        "publishedAt": "2017-09-15T14:40:51.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "Is India Ready For Bullet Train? I The Urban Debate With Faye D'Souza",
+        "description": "While the BulletTrain is a big leap for India, what the country demands are small, significant steps to secure rail safety.\nFaye D'Souza, Executive Editor: \"No.of people dying everyday in Indian railways is epidemic. Nobody cares enough. PM Modi, we need your attention.\" \n\n\nFor More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7715uuvAiaM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7715uuvAiaM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7715uuvAiaM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7715uuvAiaM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7715uuvAiaM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "7715uuvAiaM",
+        "videoPublishedAt": "2017-09-15T15:07:09.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/hTkRqYXSKZZmQoHFYL9nrMftvAg\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy45NjlCRTc1MjgwOEVFNUJC",
+      "snippet": {
+        "publishedAt": "2017-09-15T12:09:23.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "Farmers Cry Out For Help I The Urban Debate With Faye D'Souza",
+        "description": "There has been a tremendous rise in the number of suicide cases in our country. The injustice towards the farmers is increasing on a drastic scale. Faye D'Souza raises a voice against this issue and demands answer from the government. \n\nFor More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CZ4KO17_E4k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CZ4KO17_E4k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CZ4KO17_E4k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CZ4KO17_E4k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CZ4KO17_E4k"
+        }
+      },
+      "contentDetails": {
+        "videoId": "CZ4KO17_E4k",
+        "videoPublishedAt": "2017-09-15T12:09:15.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/7nVMpi8qC_sQvBnL4VUDQshdHOg\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy5DRTQ1Q0M2QjNFNkU3MDhG",
+      "snippet": {
+        "publishedAt": "2017-09-14T10:08:21.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "Fuel Price Hike, Middle Class Worried I The Urban Debate With Faye D'Souza",
+        "description": "There has been a tremendous price hike in the last few months. The middle class is affected the most by this price hike. The Government of India is stating that the price hike is because of the rise in price of the crude oil.\n\n\nFor More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2tMk38m0zak/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2tMk38m0zak/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2tMk38m0zak/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2tMk38m0zak/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2tMk38m0zak"
+        }
+      },
+      "contentDetails": {
+        "videoId": "2tMk38m0zak",
+        "videoPublishedAt": "2017-09-14T10:08:12.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/a-dRg3EPB3AvCS50kV7eIZl-L2U\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy42NTAwM0MyRkY0N0E1NkQw",
+      "snippet": {
+        "publishedAt": "2017-09-14T08:59:54.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "SC Paves Way For Faster Divorces I The Urban Debate With Faye D'Souza",
+        "description": "The Supreme Court has shown the way forward into the Indian Divorce Laws. They have waved off the rule of waiting for 6 month period as per the Hindu Marriage Act.  \n\nFor More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1SaQZcHjQ0I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1SaQZcHjQ0I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1SaQZcHjQ0I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1SaQZcHjQ0I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1SaQZcHjQ0I"
+        }
+      },
+      "contentDetails": {
+        "videoId": "1SaQZcHjQ0I",
+        "videoPublishedAt": "2017-09-14T09:32:46.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/Vl44n_EA9eyK4Z7U_vCl-_bIEP4\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy5DNzIxODM3Rjg5MDVDMURE",
+      "snippet": {
+        "publishedAt": "2017-09-14T08:36:45.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "Parents Fight For The Safety Of Their Children I The Urban Debate",
+        "description": "Taking all the recent events into consideration where the schools have become killing grounds, furious parents of children demand proper justice and assurance for the safety of their children. \n\nFor More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WZ5jHQ2wPtg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WZ5jHQ2wPtg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WZ5jHQ2wPtg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WZ5jHQ2wPtg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WZ5jHQ2wPtg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "WZ5jHQ2wPtg",
+        "videoPublishedAt": "2017-09-13T09:35:50.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/oS2k6TgJQAjKXD_adtW277dRbG4\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy4zM0RDMjc1NUJCOTk3QTc4",
+      "snippet": {
+        "publishedAt": "2017-09-13T11:57:22.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "India Wants Justice For Gauri Lankesh I The Urban Debate",
+        "description": "Thousands come together demanding justice for senior veteran Gauri Lankesh. The government has offered reward to those who help in finding a clue to reach the murderer.\n\nFor More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TjA5WVtLJ6c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TjA5WVtLJ6c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TjA5WVtLJ6c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TjA5WVtLJ6c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TjA5WVtLJ6c"
+        }
+      },
+      "contentDetails": {
+        "videoId": "TjA5WVtLJ6c",
+        "videoPublishedAt": "2017-09-13T11:57:13.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/deZAeY7suXaI4d29Jqg3yuCt_2s\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy4yNkEyQjg1MjMxRjZEMThC",
+      "snippet": {
+        "publishedAt": "2017-09-13T11:54:09.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "Ghatkopar Building Collapse : Designer Aghale Had No Architecture Degree",
+        "description": "The ghatkopar building collapse claimed a lot of lives because of mere corruption. The architect who had designed the building had no degree and had taken money for changing the structural plans of the building.\n\nFor More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j5sXxjSRsWI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j5sXxjSRsWI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j5sXxjSRsWI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/j5sXxjSRsWI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "j5sXxjSRsWI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "j5sXxjSRsWI",
+        "videoPublishedAt": "2017-09-13T11:54:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/v28jhVe7Vp6AhTVBEUNMtgIJREg\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy40RTg2QTYzQzU0QkNFMDdB",
+      "snippet": {
+        "publishedAt": "2017-09-12T12:38:51.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "Horror In Schools Across India, What Will Wake Up The Government? I The Urban Debate",
+        "description": "For More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0fmgS4nnURU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0fmgS4nnURU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0fmgS4nnURU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0fmgS4nnURU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0fmgS4nnURU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "0fmgS4nnURU",
+        "videoPublishedAt": "2017-09-12T12:38:41.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/RcJdZUjqwCXjTndyw21wpQRiXog\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy5FQzgxQkIyOEMzRUYwN0VC",
+      "snippet": {
+        "publishedAt": "2017-09-12T10:58:53.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "Why Can't The Schools Protect Children? I The Urban Debate",
+        "description": "Mirror NOW's continuous coverage on the Gurugram School Investigation. Four lapses found in the investigation conducted. \nThe school of horrors are being exposed all over the country.\nHow many schools follow complete safety precautions for its students?\n\nFor More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1c2TTMuJQ0c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1c2TTMuJQ0c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1c2TTMuJQ0c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1c2TTMuJQ0c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1c2TTMuJQ0c"
+        }
+      },
+      "contentDetails": {
+        "videoId": "1c2TTMuJQ0c",
+        "videoPublishedAt": "2017-09-12T10:59:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/lZxKpIKHfU9cxb8Lr6BCSUMcPq8\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy4wRTMyNkVDNDQxQzA2MkZC",
+      "snippet": {
+        "publishedAt": "2017-09-09T11:06:41.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "Gauri Lankesh Case : State police Still Clueless I The Urban Debate",
+        "description": "72 hours passed since the Gauri Lankesh murder. The State police is still clueless about the murderer. The Home Minister has announced Rs.10 lakh reward for tip off whoever comes front with a clue for finding the major culprit behind the murder.\n\nFor More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ACS1auS6l4A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ACS1auS6l4A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ACS1auS6l4A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ACS1auS6l4A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ACS1auS6l4A"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ACS1auS6l4A",
+        "videoPublishedAt": "2017-09-09T11:06:39.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/OE1ry1vXp5v2D2hQtFLmSSwNav4\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy5FNTQ3RDFEREI3QzUzOUJC",
+      "snippet": {
+        "publishedAt": "2017-09-09T09:41:59.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "Are Your Children Safe At School? I The Urban Debate",
+        "description": "Body of a 7 year old was found in a pool of blood inside the washroom of Ryan International School in Gurugram. Father of the child calls it murder and said that the school must be held accountable for his death.\n\nFor More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GFDEnvmtluo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GFDEnvmtluo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GFDEnvmtluo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GFDEnvmtluo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GFDEnvmtluo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "GFDEnvmtluo",
+        "videoPublishedAt": "2017-09-09T09:41:57.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/YBImBRJ0POrTiHSKW74rCTslW5U\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy5BRjNGOEYwNzI0NUNDMzJE",
+      "snippet": {
+        "publishedAt": "2017-09-08T15:12:33.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "Will All States Make The Child Lock Sticker Mandatory? I The Urban Debate With Faye D''Souza",
+        "description": "Delhi has become the first state to make the child lock stickers compulsory. Will all the other states take this major safety step for women? \n\nFor More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/awtInUI6AeI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/awtInUI6AeI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/awtInUI6AeI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/awtInUI6AeI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "awtInUI6AeI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "awtInUI6AeI",
+        "videoPublishedAt": "2017-09-09T05:36:36.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/mMgM8RgqyXD6La9_ZEpYiSmLGq4\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy44MjlEMzMwNUQ1OTJFNTFE",
+      "snippet": {
+        "publishedAt": "2017-09-08T07:09:18.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "SC Grants Termination Of Pregnancy, Approves The Abortion Plea I The Urban Debate With Faye D'Souza",
+        "description": "Faye D'Souza, Executive Editor: \"How will you save your daughters if you don't prioritize their rights? #RightToAbortion \n\nFor More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qV8nwkymInk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qV8nwkymInk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qV8nwkymInk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qV8nwkymInk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qV8nwkymInk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "qV8nwkymInk",
+        "videoPublishedAt": "2017-09-08T07:09:04.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/AmgjTeESnPExOvrT_eNN2jLSo2c\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy4zNEExNDdDRjNCMkE3QzFF",
+      "snippet": {
+        "publishedAt": "2017-09-07T14:01:35.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "Gauri Lankesh : Another Right Wing Supressed? I The Urban Debate With Faye D'Souza (Part 2)",
+        "description": "Gauri Lankesh : A journalist who never silenced the harsh reality.\nHer voice might have been silenced, but her death and her legacy will not be forgotten. \n\nFor More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zhEoJMu6krQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zhEoJMu6krQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zhEoJMu6krQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zhEoJMu6krQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zhEoJMu6krQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "zhEoJMu6krQ",
+        "videoPublishedAt": "2017-09-07T14:01:28.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/J_nblaK-9QI0RVD1QDNxmCUVzZ4\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy42RDY4MUYzQUUzNjI0QkQw",
+      "snippet": {
+        "publishedAt": "2017-09-07T10:00:59.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "Gauri Lankesh : Another Free Thinker Silenced? I The Urban Debate With Faye D'Souza (Part 1)",
+        "description": "Gauri Lankesh : A journalist who never silenced the harsh reality.\nHer voice might have been silenced, but her death and her legacy will not be forgotten. \nFaye D'Souza, Executive Editor: \"10 yrs ago, did we identify ourselves right or left wingers? We were just citizens. We are all equal in the eye of our Constitution\". #MurderOfDemocracy\n\nFor More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pNTbyOcssZM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pNTbyOcssZM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pNTbyOcssZM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pNTbyOcssZM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pNTbyOcssZM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "pNTbyOcssZM",
+        "videoPublishedAt": "2017-09-07T10:00:36.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/sYjXw8PsZyVBFo-hMKiHegFawjc\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy5EOEQwNjk3Qzg3MDUwODA2",
+      "snippet": {
+        "publishedAt": "2017-09-07T08:26:13.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "Gauri Lankesh Unites Nation In Grief I The Urban Debate With Faye D'Souza",
+        "description": "The nation pays tribute to senior activist and journalist Gauri Lankesh. People all over the nation protest and demand justice.\nBritish Paedophile Murray Ward unmasked and remanded 14 day judicial custody.\n\nFor More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/txov92n9lms/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/txov92n9lms/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/txov92n9lms/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/txov92n9lms/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "txov92n9lms"
+        }
+      },
+      "contentDetails": {
+        "videoId": "txov92n9lms",
+        "videoPublishedAt": "2017-09-07T08:25:44.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/c9PeO9eGfKmK-ql6jBytk0Z4k9U\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy43NEQ2OTM1MTY3ODBGQjYz",
+      "snippet": {
+        "publishedAt": "2017-09-06T07:55:51.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "Uttar Pradesh's Horror Hospitals, Farrukhabad Tragedy I The Urban Debate With Faye D'Souza",
+        "description": "No lessons learnt from the Gorakhpur Massacre?\nThe Uttar Pradesh's  Farrukhabad relives the nightmare. 49 children have died in the past 30 days. \nOnce again killer negligence to be blamed?\n\n\nFor More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6a9_UTVPZ9g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6a9_UTVPZ9g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6a9_UTVPZ9g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6a9_UTVPZ9g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6a9_UTVPZ9g"
+        }
+      },
+      "contentDetails": {
+        "videoId": "6a9_UTVPZ9g",
+        "videoPublishedAt": "2017-09-06T07:55:38.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/dOzYjUw811ryPOUgcV4QnRO-FiI\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy45RjFFRDA0ODEyRjNBMDYy",
+      "snippet": {
+        "publishedAt": "2017-09-05T07:34:10.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "The Urban Debate With Faye D'Souza I Demonetisation, Failure or Success?",
+        "description": "For More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VQomnpxlD6U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VQomnpxlD6U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VQomnpxlD6U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VQomnpxlD6U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VQomnpxlD6U"
+        }
+      },
+      "contentDetails": {
+        "videoId": "VQomnpxlD6U",
+        "videoPublishedAt": "2017-09-05T07:50:18.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/WYDQMZb2Aroqb9aP3LyDSGUxYBE\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy5FNkMxMDc0MzI3QzBFRTU2",
+      "snippet": {
+        "publishedAt": "2017-09-05T06:57:05.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "Aspiring Medical Student's Death Sparks a Chorus - The Urban Debate With Faye D'Souza",
+        "description": "For More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H8jhyJ0hpXI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H8jhyJ0hpXI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H8jhyJ0hpXI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/H8jhyJ0hpXI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "H8jhyJ0hpXI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "H8jhyJ0hpXI",
+        "videoPublishedAt": "2017-09-05T07:07:27.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/s7K02Td18hadgg1JJJqxKqynyJ4\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy45MDgyNjY2MzMwMEFGRDI5",
+      "snippet": {
+        "publishedAt": "2017-09-04T15:33:14.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "LPG Price Hiked Again - How Should Citizens Deal With It? - The Urban Debate With Faye DSouza",
+        "description": "For More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8vVLYpKErnM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8vVLYpKErnM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8vVLYpKErnM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8vVLYpKErnM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8vVLYpKErnM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "8vVLYpKErnM",
+        "videoPublishedAt": "2017-09-04T11:12:58.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/9M-UQnzxr_Ar8COKAJtuj0RBXqY\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy4yRTZCRTM0NURFNzhFNUZB",
+      "snippet": {
+        "publishedAt": "2017-09-04T12:00:22.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "Should The Governments Be Prosecuted For Criminal Negligence? - The Urban Debate With Faye DSouza",
+        "description": "For More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Cql7zxcxojY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Cql7zxcxojY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Cql7zxcxojY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Cql7zxcxojY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Cql7zxcxojY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Cql7zxcxojY",
+        "videoPublishedAt": "2017-09-04T12:03:43.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/uIb_wAMSpzCVPW4flVy6uIWnxuo\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy4yRTVFMEFEOEExQkE2MTA2",
+      "snippet": {
+        "publishedAt": "2017-09-01T11:00:50.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "Demonetisation Rebuttal – The Urban Debate With Faye D'Souza (August 30)",
+        "description": "After almost a year, the Reserve Bank of India (RBI) has released its demonetisation data, which shows that all but 1.34 per cent of the old Rs 1,000 notes have come back into the banking system post demonetisation. To discuss this, MIRROR NOW caught up with Shaina NC: National Spokesperson, BJP; Mohammad Khan: National Spokesperson, Congress; Clyde Crasto: Spokesperson: NCP; Santosh Mehrotra :Senior Economist; Chandrashekhar Naini: Senior Expert in Economics & Finance; Kamal Mitra Chenoy: Activist and  Academic; Dhruv Rathee: Social Activist & Youtuber. Take a look.\n\nLink: http://www.mirrornow.in/shows/the-urban-debate/18454\n\nFor More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Slx-bBl53tQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Slx-bBl53tQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Slx-bBl53tQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Slx-bBl53tQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Slx-bBl53tQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Slx-bBl53tQ",
+        "videoPublishedAt": "2017-08-31T12:47:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/4aUnbNOoAXmBBqXDiqLO2TvFjRs\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy5BRjY5MUE1RTNBRkREQzFC",
+      "snippet": {
+        "publishedAt": "2017-09-01T11:00:43.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "Mumbai deluge – The Urban Debate With Faye D'Souza (August 30)",
+        "description": "Mumbai has witnessed record rainfall over the past two days and people have been updating the downpour on twitter in real time. The Indian Meteorological department has also issued a warning of intermittent showers to very heavy rainfall in the city and suburbs in Mumbai. To discuss this, MIRROR NOW caught up with Aarti Sathe: Spokesperson, BJP; Sanjay Tatkare, NCP; Rishi Aggrawal :Environmentalist; I.C Sisodia:Former  Chief Vigilance Officer,Special Duty,BMC; Ketan Goradia- Civil Engineer, Member Accident Committee, Central Railway; Sandeep Deshpande: Spokesperson, MNS; Dr.Arvind Srivastava:Senior Scientist , IMD(India Meteorological Department). Take a look.\n\nLink: http://www.timesnownews.com/mirrornow/shows/the-urban-debate/18454/episode/mumbai-sinks-30th-august/2017-08-30-51090\n\nFor More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WbBCIEpK_8w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WbBCIEpK_8w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WbBCIEpK_8w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WbBCIEpK_8w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WbBCIEpK_8w"
+        }
+      },
+      "contentDetails": {
+        "videoId": "WbBCIEpK_8w",
+        "videoPublishedAt": "2017-08-31T12:45:48.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/67qmGLDBmpGKMvsu2Y4OW5OeD2o\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy5GNzQ2Q0EzRDA2RDU0OUU3",
+      "snippet": {
+        "publishedAt": "2017-09-01T09:52:37.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "Citizens Demand Petrol Tax Relief I The Urban Debate With Faye D'Souza (31st August)",
+        "description": "Faye D'Souza, Executive Editor: 'You are paying far more for fuel. This is daylight robbery'. \nThe petrol price hiked by Rs. 4-5 per litre in a month. The fuel price rise volatility hits the citizens of the country.The middle class people are affected the most by the petrol price hike in the last few months. \n\nFor More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2ZifdnJjepI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2ZifdnJjepI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2ZifdnJjepI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2ZifdnJjepI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2ZifdnJjepI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "2ZifdnJjepI",
+        "videoPublishedAt": "2017-09-01T09:52:32.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/jkbqewnWqgf_UST2CWHY5tFKEuo\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy4yNkE5QUNGQTVDQzc4NEZB",
+      "snippet": {
+        "publishedAt": "2017-09-01T08:46:55.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "Civic Body Fails Mumbai Again I The Urban Debate With Faye D'Souza (31st August)",
+        "description": "Mumbai deluge toll still rising. Doctor's body recovered after 36 hours. The incident occured because of the negligence of the BMC.\nShouldn't the BMC  take responsibility of everything that has happened?\n\nFaye D'Souza to Sanju Verma of BJP : 'This is not one of those kind of shows on other channels where we shout on each other.' #NoValueForLife\n\nFor More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CRGGwN0wDbA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CRGGwN0wDbA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CRGGwN0wDbA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CRGGwN0wDbA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CRGGwN0wDbA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "CRGGwN0wDbA",
+        "videoPublishedAt": "2017-09-01T08:46:47.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/rPOWyPY-rX3KvVSu_djtjnlHhGY\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy42NTU3MUQxMEE0NTMxREEy",
+      "snippet": {
+        "publishedAt": "2017-08-30T14:03:49.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "Mumbai sinks – The Urban Debate With Faye D'Souza (August 29)",
+        "description": "Mumbai has witnessed record heavy rainfall over the past two days and the Indian Meteorological department has issued a warning of intermittent showers to very heavy rainfall in the city and suburbs in Mumbai. To discuss this, MIRROR NOW caught up with Vishwas Pathak: Spokesperson: BJP; Clyde Klaster: Spokesperson: NCP; Amish Tripathi: Author; Mandar Phanse: Senior journalist. Take a look.\n\nLink: http://www.timesnownews.com/mirrornow/shows/the-urban-debate/18454\n\nFor More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_DlVb18OqXc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_DlVb18OqXc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_DlVb18OqXc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_DlVb18OqXc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_DlVb18OqXc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "_DlVb18OqXc",
+        "videoPublishedAt": "2017-08-30T14:40:09.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/ikdYls_ikQ9y5EF-Vd2tlpFW0rc\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy43RUQ0OENDRUFGNjEwNTlD",
+      "snippet": {
+        "publishedAt": "2017-08-30T13:58:20.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "The Aadhaar Debate – The Urban Debate With Faye D'Souza (August 28)",
+        "description": "The Income Tax department on Monday clarified that the August 31 deadline imposed by the Central government to link your Aadhaar identity to your PAN card will not be extended. To discuss this, MIRROR NOW caught up with Arvind Gupta: BJP; Sanjay Jha: Spokesperson: Congress; Pawan Duggal: Lawyer and cyber-security expert; Rifat Jawed: Janata Ka Reporter; Sharad Pratap: Advocate; Ritesh Bhatia: Cyber security expert. Take a look.\n\nLink: http://www.mirrornow.in/shows/the-urban-debate/18454\n\nFor More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PEX8r7jregs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PEX8r7jregs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PEX8r7jregs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PEX8r7jregs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PEX8r7jregs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "PEX8r7jregs",
+        "videoPublishedAt": "2017-08-30T14:30:03.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/CvRSTzT3ORqvBC57chweV8eczws\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy4wQTUyMDI4MTNCQkM2RkZF",
+      "snippet": {
+        "publishedAt": "2017-08-28T14:09:53.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "Govt let Dera goons run amok – The Urban Debate (August 26)",
+        "description": "Punjab and Haryana Court on Saturday slammed the Manohar Lal Khattar government for the chaos recorded yesterday in Panchkula and Sirsa. \"You let Panchkula burn for political benefits,\" said the court to the Haryana government. To discuss this, MIRROR NOW caught up with Renu Bhatia: Haryana BJP Spokesperson; Charan Singh Sapra: Congress Spokesperson; Soli Sorabjee: Former AG of India; KL Gupta: Former DGP of UP; Dhanraj Vanjari: Former ACP of Mumbai; Amit Khemka: Senior SC lawyer; Rifat Jawed: Founder of Janata Ka Reporter. Take a look.\n\nLink: http://www.timesnownews.com/mirrornow/shows/the-urban-debate/18454\n\nFor More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0BqAxBX0F2E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0BqAxBX0F2E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0BqAxBX0F2E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0BqAxBX0F2E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0BqAxBX0F2E"
+        }
+      },
+      "contentDetails": {
+        "videoId": "0BqAxBX0F2E",
+        "videoPublishedAt": "2017-08-28T14:09:43.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/tY-RPP8lD4tyGKjkYfNwcGJJC0c\"",
+      "id": "UExxTzhCYlpIVGYwV0FQVkZ6R3R4OUFsc3JmanF5M0lWQy45NzlEQTJENUEyOUE3REFG",
+      "snippet": {
+        "publishedAt": "2017-08-26T11:36:58.000Z",
+        "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+        "title": "Hope for LGBTQ community – The Urban Debate (August 24)",
+        "description": "As a nine-judge bench of the Supreme Court of India on Thursday said that right to privacy is a fundamental right guaranteed under Article 21 of the constitution of India, political analysts have speculated how this historic ruling can have a considerable impact on the Aadhaar validity case in addition to the case on Section 377 and the DNA profiling bill. To discuss this, MIRROR NOW caught up with Mr Anand Grover: Senior SC advocate; Kailash Vasudev: Senior SC advocate; Vishwajit Bhattacharya: Former Solicitor General; Prasanna S: Delhi-based lawyer; Aman Sinha: BJP Spokesperson; Dhriv Rathi: Social activist and Youtuber; Harish Iyer: LGBTQ activist. Take a look.\n\nLink: http://www.timesnownews.com/mirrornow/shows/the-urban-debate/18454/episode/right-to-privacy-a-fundamental-right-24th-august/2017-08-24-50990\n\n\nFor More Updates: http://www.mirrornow.in\nLike us on Facebook: https://www.facebook.com/MirrorNow\nFollow us on Twitter: https://twitter.com/MirrorNow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3k0k5Fxrb04/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3k0k5Fxrb04/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3k0k5Fxrb04/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3k0k5Fxrb04/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mirror Now",
+        "playlistId": "PLqO8BbZHTf0WAPVFzGtx9Alsrfjqy3IVC",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3k0k5Fxrb04"
+        }
+      },
+      "contentDetails": {
+        "videoId": "3k0k5Fxrb04",
+        "videoPublishedAt": "2017-08-26T11:36:46.000Z"
+      }
+    }
+  ]
+}

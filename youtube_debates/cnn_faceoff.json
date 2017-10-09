@@ -1,0 +1,2328 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/fDQTXXW078p6KneARG-JP7eV640\"",
+  "nextPageToken": "CDIQAA",
+  "pageInfo": {
+    "totalResults": 148,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/M_SkOFpz7JH8NcDoqAPnXXJWQgA\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy4zMkY2MjA3RDJERTkxNjkz",
+      "snippet": {
+        "publishedAt": "2017-10-03T18:28:10.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Pak Terror Strikes Kashmir Again | Face Off@9 With Zakka Jacob | CNN-News18",
+        "description": "Three suicide attackers carrying a massive arsenal of guns and explosives broke into a Border Security Force (BSF) camp near the Srinagar airport before dawn today and opened fire, killing one soldier. All three terrorists were killed after nearly 10 hours of gunbattle. Flights were suspended at the Srinagar airport for over five hours and long delays through the day were anticipated. Pakistan-based terror group Jaish e Mohammed's \"Afzal Guru squad\" has claimed the attack. \n\nWatch the day's top stories in Face Off@9 With Zakka Jacob.\n\nAbout Channel:\nCNN-News18 (formerly known as CNN-IBN) has been the world’s window to India and India's window to the world. The channel has been a ‘thought leader’ and has pioneered several path-breaking initiatives that include CNN-News18 Indian of the Year, Real Heroes, The Citizen Journalist Show, India Positive, State of the Nation (channel’s flagship bi-annual poll) to name a few. During the last 9 years, the channel has won over 197 awards and accolades at the prestigious Asian Television Awards, Ramnath Goenka Excellence in Journalism Awards, Indian Television Academy Awards, News Television Awards and Indian Telly Awards, making it India’s Most Awarded English News Channel. CNN-IBN's news portal IBNLive.com has now changed to News18.com\n\nSubscribe our channel for latest news updates: https://goo.gl/rgjh7Q\nFollow Us On:\nFacebook: https://www.facebook.com/cnnnews18/\nTwitter: https://twitter.com/cnnnews18\nGoogleplus: https://plus.google.com/u/0/+cnnnews18\nWebsite: http://www.news18.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oR7UfQ19o_w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oR7UfQ19o_w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oR7UfQ19o_w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oR7UfQ19o_w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oR7UfQ19o_w"
+        }
+      },
+      "contentDetails": {
+        "videoId": "oR7UfQ19o_w",
+        "videoPublishedAt": "2017-10-03T18:27:59.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/MYtUhts78E7nRSMjU4hQ46CcXfM\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy5DNUEzOUFFNkIyOUUzOTRC",
+      "snippet": {
+        "publishedAt": "2017-10-01T16:26:52.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Watch: Face Off@9 With Maha Siddiqui",
+        "description": "Watch the day's top stories in Face Off@9 With Maha Siddiqui.\n\n\nCNN-News18 (formerly known as CNN-IBN) has been the world’s window to India and India's window to the world. The channel has been a ‘thought leader’ and has pioneered several path-breaking initiatives that include CNN-News18 Indian of the Year, Real Heroes, The Citizen Journalist Show, India Positive, State of the Nation (channel’s flagship bi-annual poll) to name a few. During the last 9 years, the channel has won over 197 awards and accolades at the prestigious Asian Television Awards, Ramnath Goenka Excellence in Journalism Awards, Indian Television Academy Awards, News Television Awards and Indian Telly Awards, making it India’s Most Awarded English News Channel. CNN-IBN's news portal IBNLive.com has now changed to News18.com\n\nSubscribe our channel for latest news updates: https://goo.gl/rgjh7Q\nFollow Us On:\nFacebook: https://www.facebook.com/cnnnews18/\nTwitter: https://twitter.com/cnnnews18\nGoogleplus: https://plus.google.com/u/0/+cnnnews18\nWebsite: http://www.news18.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eoYGoDGn4yw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eoYGoDGn4yw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eoYGoDGn4yw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eoYGoDGn4yw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eoYGoDGn4yw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eoYGoDGn4yw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "eoYGoDGn4yw",
+        "videoPublishedAt": "2017-10-01T16:31:13.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/s16kG3RzOZDMAgPxibmrvYFfPAc\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy4xRjE1NzQ4MjRCMUNFRDdB",
+      "snippet": {
+        "publishedAt": "2017-09-30T16:47:54.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Watch: Face Off@9 With Marya Shakil",
+        "description": "Watch the day's top stories in Face Off@9 With Marya Shakil.\n\n\nCNN-News18 (formerly known as CNN-IBN) has been the world’s window to India and India's window to the world. The channel has been a ‘thought leader’ and has pioneered several path-breaking initiatives that include CNN-News18 Indian of the Year, Real Heroes, The Citizen Journalist Show, India Positive, State of the Nation (channel’s flagship bi-annual poll) to name a few. During the last 9 years, the channel has won over 197 awards and accolades at the prestigious Asian Television Awards, Ramnath Goenka Excellence in Journalism Awards, Indian Television Academy Awards, News Television Awards and Indian Telly Awards, making it India’s Most Awarded English News Channel. CNN-IBN's news portal IBNLive.com has now changed to News18.com\n\nSubscribe our channel for latest news updates: https://goo.gl/rgjh7Q\nFollow Us On:\nFacebook: https://www.facebook.com/cnnnews18/\nTwitter: https://twitter.com/cnnnews18\nGoogleplus: https://plus.google.com/u/0/+cnnnews18\nWebsite: http://www.news18.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ukW108p98FY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ukW108p98FY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ukW108p98FY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ukW108p98FY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ukW108p98FY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ukW108p98FY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ukW108p98FY",
+        "videoPublishedAt": "2017-09-30T16:55:16.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/FLVF6-tGBoQH2DldH3ND2exefpk\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy5EQTdFNDU3M0Y3MTM1QjlG",
+      "snippet": {
+        "publishedAt": "2017-09-29T17:03:29.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Mumbai's Black Friday | Face Off@9 With Zakka Jacob | CNN-News18",
+        "description": "A massive crowd of morning commuters stampedes on the stairwell of a narrow footbridge linking two railways stations in Mumbai, leaving at least 22 people dead and more than 30 injured as onlookers watch victims stumbling, falling and piling up along the railings.\n\nWatch the day's top stories in Face Off@9 With Zakka Jacob.\n\nAbout Channel:\nCNN-News18 (formerly known as CNN-IBN) has been the world’s window to India and India's window to the world. The channel has been a ‘thought leader’ and has pioneered several path-breaking initiatives that include CNN-News18 Indian of the Year, Real Heroes, The Citizen Journalist Show, India Positive, State of the Nation (channel’s flagship bi-annual poll) to name a few. During the last 9 years, the channel has won over 197 awards and accolades at the prestigious Asian Television Awards, Ramnath Goenka Excellence in Journalism Awards, Indian Television Academy Awards, News Television Awards and Indian Telly Awards, making it India’s Most Awarded English News Channel. CNN-IBN's news portal IBNLive.com has now changed to News18.com\n\nSubscribe our channel for latest news updates: https://goo.gl/rgjh7Q\nFollow Us On:\nFacebook: https://www.facebook.com/cnnnews18/\nTwitter: https://twitter.com/cnnnews18\nGoogleplus: https://plus.google.com/u/0/+cnnnews18\nWebsite: http://www.news18.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZQDxs0YC1nM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZQDxs0YC1nM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZQDxs0YC1nM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZQDxs0YC1nM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZQDxs0YC1nM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ZQDxs0YC1nM",
+        "videoPublishedAt": "2017-09-29T17:19:18.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/TmPy-HDDlHXCVhd8KmNEVlJtPqc\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy4wNjIzRDA1OTQ2M0UyODEw",
+      "snippet": {
+        "publishedAt": "2017-09-28T17:29:21.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "BSF Jawan Ramzan Shot Dead by Terrorists | Politicians Ignore | Face Off@9 with Maha Siddiqui",
+        "description": "Watch the day's top stories in Face Off@9 With Maha Siddiqui.\n\nBSF Jawan Ramzan Parray Dragged Out of Home, Shot Dead by Terrorists in J&K's Bandipore\nThe terrorists also fired indiscriminately at the family, injuring the jawan’s father, two brothers and an aunt.\nJ&K Netas abandon Kashmiriyat as bravehearts die, even though they condemn but ignore ramzan's family.\nBorder Security Force jawan Ramzan Parray was shot dead and four of his family members were injured in an attack by terrorists in Bandipore district of Jammu and Kashmir on Wednesday. \nAccording to sources, the 33-year-old had just returned home to Hajin town of Bandipore for a vacation a few days ago. He was dragged out of his home and shot dead, officials said, adding that it looks to be a targeted killing. \nJammu and Kashmir DGP, SP Vaid, told News18 that there were 3-4 terrorists who barged into the home of the BSF jawan. He said their attempt was to take Parray away, but they shot him multiple times at close range when he resisted. He died on the spot. \nThe terrorists also fired indiscriminately at the family, injuring the jawan’s father, two brothers and an aunt. The DGP said that the jawan’s father was with a faction of the Hurriyat and this could be a revenge attack. \nPolice said that the injured family members have been taken to a hospital. The condition of the jawan’s aunt was stated to be serious, while that of the three others was stable.\nIG Police, Muneer Khan, said that a manhunt has been launched to nab the terrorists. The entire area has been cordoned off and is being searched, he said. \nThe modus operandi followed by terrorists in the killing of Parray is very similar to the one in the murder of Lt. Ummer Fayaz in May this year, suggesting a concerted plan of targeted killings. Just like Fayaz, Parray too was a local who had joined the security forces and had recently returned home. \nThe bullet-ridden body of Army Lieutenant, Ummer Fayaz, was found at Herman Chowk of Jammu and Kashmir’s Shopian district. The 24-year-old had gone to Shopian to attend the wedding function of a relative. He was abducted by terrorists from his home and shot dead.\n\nCNN-News18 (formerly known as CNN-IBN) has been the world’s window to India and India's window to the world. The channel has been a ‘thought leader’ and has pioneered several path-breaking initiatives that include CNN-News18 Indian of the Year, Real Heroes, The Citizen Journalist Show, India Positive, State of the Nation (channel’s flagship bi-annual poll) to name a few. During the last 9 years, the channel has won over 197 awards and accolades at the prestigious Asian Television Awards, Ramnath Goenka Excellence in Journalism Awards, Indian Television Academy Awards, News Television Awards and Indian Telly Awards, making it India’s Most Awarded English News Channel. CNN-IBN's news portal IBNLive.com has now changed to News18.com\n\nSubscribe our channel for latest news updates: https://goo.gl/rgjh7Q\nFollow Us On:\nFacebook: https://www.facebook.com/cnnnews18/\nTwitter: https://twitter.com/cnnnews18\nGoogleplus: https://plus.google.com/u/0/+cnnnews18\nWebsite: http://www.news18.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dIvVgF2SPnY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dIvVgF2SPnY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dIvVgF2SPnY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dIvVgF2SPnY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dIvVgF2SPnY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dIvVgF2SPnY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "dIvVgF2SPnY",
+        "videoPublishedAt": "2017-09-28T17:29:09.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/C5Kb2kRzq7xAW98_-YR-Nvjb_tQ\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy4wQjA4QkVEQ0RFREIzMjFC",
+      "snippet": {
+        "publishedAt": "2017-09-28T17:29:19.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "BSF Jawan Ramzan Shot Dead by Terrorists | Politicians Ignore | Face Off@9 with Maha Siddiqui",
+        "description": "Watch the day's top stories in Face Off@9 With Maha Siddiqui.\n\nBSF Jawan Ramzan Parray Dragged Out of Home, Shot Dead by Terrorists in J&K's Bandipore\nThe terrorists also fired indiscriminately at the family, injuring the jawan’s father, two brothers and an aunt.\nJ&K Netas abandon Kashmiriyat as bravehearts die, even though they condemn but ignore ramzan's family.\nBorder Security Force jawan Ramzan Parray was shot dead and four of his family members were injured in an attack by terrorists in Bandipore district of Jammu and Kashmir on Wednesday. \nAccording to sources, the 33-year-old had just returned home to Hajin town of Bandipore for a vacation a few days ago. He was dragged out of his home and shot dead, officials said, adding that it looks to be a targeted killing. \nJammu and Kashmir DGP, SP Vaid, told News18 that there were 3-4 terrorists who barged into the home of the BSF jawan. He said their attempt was to take Parray away, but they shot him multiple times at close range when he resisted. He died on the spot. \nThe terrorists also fired indiscriminately at the family, injuring the jawan’s father, two brothers and an aunt. The DGP said that the jawan’s father was with a faction of the Hurriyat and this could be a revenge attack. \nPolice said that the injured family members have been taken to a hospital. The condition of the jawan’s aunt was stated to be serious, while that of the three others was stable.\nIG Police, Muneer Khan, said that a manhunt has been launched to nab the terrorists. The entire area has been cordoned off and is being searched, he said. \nThe modus operandi followed by terrorists in the killing of Parray is very similar to the one in the murder of Lt. Ummer Fayaz in May this year, suggesting a concerted plan of targeted killings. Just like Fayaz, Parray too was a local who had joined the security forces and had recently returned home. \nThe bullet-ridden body of Army Lieutenant, Ummer Fayaz, was found at Herman Chowk of Jammu and Kashmir’s Shopian district. The 24-year-old had gone to Shopian to attend the wedding function of a relative. He was abducted by terrorists from his home and shot dead.\n\nCNN-News18 (formerly known as CNN-IBN) has been the world’s window to India and India's window to the world. The channel has been a ‘thought leader’ and has pioneered several path-breaking initiatives that include CNN-News18 Indian of the Year, Real Heroes, The Citizen Journalist Show, India Positive, State of the Nation (channel’s flagship bi-annual poll) to name a few. During the last 9 years, the channel has won over 197 awards and accolades at the prestigious Asian Television Awards, Ramnath Goenka Excellence in Journalism Awards, Indian Television Academy Awards, News Television Awards and Indian Telly Awards, making it India’s Most Awarded English News Channel. CNN-IBN's news portal IBNLive.com has now changed to News18.com\n\nSubscribe our channel for latest news updates: https://goo.gl/rgjh7Q\nFollow Us On:\nFacebook: https://www.facebook.com/cnnnews18/\nTwitter: https://twitter.com/cnnnews18\nGoogleplus: https://plus.google.com/u/0/+cnnnews18\nWebsite: http://www.news18.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dIvVgF2SPnY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dIvVgF2SPnY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dIvVgF2SPnY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dIvVgF2SPnY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dIvVgF2SPnY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dIvVgF2SPnY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "dIvVgF2SPnY",
+        "videoPublishedAt": "2017-09-28T17:29:09.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/30SDoXJyTim64hRSM_dWG-cpB2k\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy41QTQ4QTIyM0Y1RTBGMUNE",
+      "snippet": {
+        "publishedAt": "2017-09-28T05:29:03.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Yashwant Sinha's Attack On Economy | Face Off@9 With Zakka Jacob | CNN-News18",
+        "description": "A day after senior BJP leader Yashwant Sinha's takedown of Finance Minister Arun Jaitley's handling of the economy, his son and union minister Jayant Sinha has defended the government's economic policies, stating it is undertaking structural reforms that are \"necessary to create a 'New India' and provide good jobs for our billion-strong workforce.\"\n\nWatch the day's top stories in Face Off@9 With Zakka Jacob.\n\nAbout Channel:\nCNN-News18 (formerly known as CNN-IBN) has been the world’s window to India and India's window to the world. The channel has been a ‘thought leader’ and has pioneered several path-breaking initiatives that include CNN-News18 Indian of the Year, Real Heroes, The Citizen Journalist Show, India Positive, State of the Nation (channel’s flagship bi-annual poll) to name a few. During the last 9 years, the channel has won over 197 awards and accolades at the prestigious Asian Television Awards, Ramnath Goenka Excellence in Journalism Awards, Indian Television Academy Awards, News Television Awards and Indian Telly Awards, making it India’s Most Awarded English News Channel. CNN-IBN's news portal IBNLive.com has now changed to News18.com\n\nSubscribe our channel for latest news updates: https://goo.gl/rgjh7Q\nFollow Us On:\nFacebook: https://www.facebook.com/cnnnews18/\nTwitter: https://twitter.com/cnnnews18\nGoogleplus: https://plus.google.com/u/0/+cnnnews18\nWebsite: http://www.news18.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y6PYq3XROzc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y6PYq3XROzc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y6PYq3XROzc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/y6PYq3XROzc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/y6PYq3XROzc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "y6PYq3XROzc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "y6PYq3XROzc",
+        "videoPublishedAt": "2017-09-27T17:24:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/D4vqy1yDdBU_XFRMd01P9SpJXSA\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy5CRjBFOTUzQTE4Mjg3RUJF",
+      "snippet": {
+        "publishedAt": "2017-09-26T17:45:40.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Time for Surgical Strike 2.0? | Face Off@9 With Zakka Jacob | CNN-News18",
+        "description": "Time for Surgical Strike 2.0? | Face Off@9 With Zakka Jacob | CNN-News18\n\nWatch the day's top stories in Face Off@9 With Zakka Jacob.\n\nCNN-News18 (formerly known as CNN-IBN) has been the world’s window to India and India's window to the world. The channel has been a ‘thought leader’ and has pioneered several path-breaking initiatives that include CNN-News18 Indian of the Year, Real Heroes, The Citizen Journalist Show, India Positive, State of the Nation (channel’s flagship bi-annual poll) to name a few. During the last 9 years, the channel has won over 197 awards and accolades at the prestigious Asian Television Awards, Ramnath Goenka Excellence in Journalism Awards, Indian Television Academy Awards, News Television Awards and Indian Telly Awards, making it India’s Most Awarded English News Channel. CNN-IBN's news portal IBNLive.com has now changed to News18.com\n\nSubscribe our channel for latest news updates: https://goo.gl/rgjh7Q\nFollow Us On:\nFacebook: https://www.facebook.com/cnnnews18/\nTwitter: https://twitter.com/cnnnews18\nGoogleplus: https://plus.google.com/u/0/+cnnnews18\nWebsite: http://www.news18.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I2fXipM7tPQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I2fXipM7tPQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I2fXipM7tPQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I2fXipM7tPQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I2fXipM7tPQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "I2fXipM7tPQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "I2fXipM7tPQ",
+        "videoPublishedAt": "2017-09-26T17:45:31.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/PCuTjbn-TK_pjakgL9EQrTcBYI0\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy5ENUI5OTFCQkYxNDUxQjQ3",
+      "snippet": {
+        "publishedAt": "2017-09-25T17:15:48.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Neta Kamal Haasan Reality by Jan 2018 | Face Off@9 With Zakka Jacob | CNN-News18",
+        "description": "Actor Kamal Haasan has said his professional rival Rajinikanth is a \"suitable ally\" of the BJP while he himself is a rationalist, clearly giving a hint on the expected political trajectories of the two Tamil superstars.\n\n\"He seems like a more suitable ally for the saffron party because of his religious beliefs, while I am a rationalist,\" Haasan told CNN-News18's Zakka Jacob in an interview peppered with occasional barbs at the BJP, the ruling party at the Centre.\n\nWatch the day's top stories in Face Off@9 With Zakka Jacob.\n\nAbout Channel:\nCNN-News18 (formerly known as CNN-IBN) has been the world’s window to India and India's window to the world. The channel has been a ‘thought leader’ and has pioneered several path-breaking initiatives that include CNN-News18 Indian of the Year, Real Heroes, The Citizen Journalist Show, India Positive, State of the Nation (channel’s flagship bi-annual poll) to name a few. During the last 9 years, the channel has won over 197 awards and accolades at the prestigious Asian Television Awards, Ramnath Goenka Excellence in Journalism Awards, Indian Television Academy Awards, News Television Awards and Indian Telly Awards, making it India’s Most Awarded English News Channel. CNN-IBN's news portal IBNLive.com has now changed to News18.com\n\nSubscribe our channel for latest news updates: https://goo.gl/rgjh7Q\nFollow Us On:\nFacebook: https://www.facebook.com/cnnnews18/\nTwitter: https://twitter.com/cnnnews18\nGoogleplus: https://plus.google.com/u/0/+cnnnews18\nWebsite: http://www.news18.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nUR3gUFX7ik/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nUR3gUFX7ik/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nUR3gUFX7ik/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nUR3gUFX7ik/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nUR3gUFX7ik"
+        }
+      },
+      "contentDetails": {
+        "videoId": "nUR3gUFX7ik",
+        "videoPublishedAt": "2017-09-25T17:26:41.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/tSejcWSHEenybqviuGbP81u9Mq8\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy5GN0EwRkMxQTJGMTFCNDc1",
+      "snippet": {
+        "publishedAt": "2017-09-25T07:48:05.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Watch: Face Off@9 With Maha Siddiqui",
+        "description": "Watch the day's top stories in Face Off@9 With 9 Maha Siddiqui\n\n\nCNN-News18 (formerly known as CNN-IBN) has been the world’s window to India and India's window to the world. The channel has been a ‘thought leader’ and has pioneered several path-breaking initiatives that include CNN-News18 Indian of the Year, Real Heroes, The Citizen Journalist Show, India Positive, State of the Nation (channel’s flagship bi-annual poll) to name a few. During the last 9 years, the channel has won over 197 awards and accolades at the prestigious Asian Television Awards, Ramnath Goenka Excellence in Journalism Awards, Indian Television Academy Awards, News Television Awards and Indian Telly Awards, making it India’s Most Awarded English News Channel. CNN-IBN's news portal IBNLive.com has now changed to News18.com\n\nSubscribe our channel for latest news updates: https://goo.gl/rgjh7Q\nFollow Us On:\nFacebook: https://www.facebook.com/cnnnews18/\nTwitter: https://twitter.com/cnnnews18\nGoogleplus: https://plus.google.com/u/0/+cnnnews18\nWebsite: http://www.news18.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VnsgeYVcxc4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VnsgeYVcxc4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VnsgeYVcxc4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VnsgeYVcxc4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VnsgeYVcxc4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VnsgeYVcxc4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "VnsgeYVcxc4",
+        "videoPublishedAt": "2017-09-25T07:47:54.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/Cpr7d9Y25QBga1HVV9hu-WbyTBQ\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy43RjdBQTMwNUUwRTA1QkE3",
+      "snippet": {
+        "publishedAt": "2017-09-22T12:15:36.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Pakistan PM Grilled on Terror | Face Off@9 With Zakka Jacob | CNN-News18",
+        "description": "In his first international interview, Pakistan Prime Minister Shahid Khaqan Abbasi has called India an “existential threat”. Speaking to CNN’s Christiane Amanpour, Abbasi, who replaced deposed PM Nawaz Sharif last month, also dismissed his country’s tacit support to terrorists as “difference of opinion”.\n\nAbout Channel:\nCNN-News18 (formerly known as CNN-IBN) has been the world’s window to India and India's window to the world. The channel has been a ‘thought leader’ and has pioneered several path-breaking initiatives that include CNN-News18 Indian of the Year, Real Heroes, The Citizen Journalist Show, India Positive, State of the Nation (channel’s flagship bi-annual poll) to name a few. During the last 9 years, the channel has won over 197 awards and accolades at the prestigious Asian Television Awards, Ramnath Goenka Excellence in Journalism Awards, Indian Television Academy Awards, News Television Awards and Indian Telly Awards, making it India’s Most Awarded English News Channel. CNN-IBN's news portal IBNLive.com has now changed to News18.com\n\nSubscribe our channel for latest news updates: https://goo.gl/rgjh7Q\nFollow Us On:\nFacebook: https://www.facebook.com/cnnnews18/\nTwitter: https://twitter.com/cnnnews18\nGoogleplus: https://plus.google.com/u/0/+cnnnews18\nWebsite: http://www.news18.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LPBk3yi1NHM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LPBk3yi1NHM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LPBk3yi1NHM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LPBk3yi1NHM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LPBk3yi1NHM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LPBk3yi1NHM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "LPBk3yi1NHM",
+        "videoPublishedAt": "2017-09-22T12:15:35.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/f9WDt1I1L_guZdxCU3SkdPI_-uw\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy5CMDk1Q0MxREYyOTVEOTZF",
+      "snippet": {
+        "publishedAt": "2017-09-20T19:06:21.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Dawood-Neta Nexus For Real? | Face Off@9 With Zakka Jacob | CNN-News18",
+        "description": "After arresting Dawood Ibrahim's brother, Iqbal Kaskar on Monday, Thane police is probing the role of two Nationalist Congress Party (NCP) members in the extortion racket operating in Maharashtra.\nA police official told that Kaskar, who has been taken into police custody for eight days, has informed the police about the involvement of members of two political parties, including NCP.\nTwo NCP corporators are already on police radar, and they are likely to be questioned in the case soon.\n\nWatch the day's top stories in Face Off@9 With Zakka Jacob.\n\nAbout Channel:\nCNN-News18 (formerly known as CNN-IBN) has been the world’s window to India and India's window to the world. The channel has been a ‘thought leader’ and has pioneered several path-breaking initiatives that include CNN-News18 Indian of the Year, Real Heroes, The Citizen Journalist Show, India Positive, State of the Nation (channel’s flagship bi-annual poll) to name a few. During the last 9 years, the channel has won over 197 awards and accolades at the prestigious Asian Television Awards, Ramnath Goenka Excellence in Journalism Awards, Indian Television Academy Awards, News Television Awards and Indian Telly Awards, making it India’s Most Awarded English News Channel. CNN-IBN's news portal IBNLive.com has now changed to News18.com\n\nSubscribe our channel for latest news updates: https://goo.gl/rgjh7Q\nFollow Us On:\nFacebook: https://www.facebook.com/cnnnews18/\nTwitter: https://twitter.com/cnnnews18\nGoogleplus: https://plus.google.com/u/0/+cnnnews18\nWebsite: http://www.news18.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0ZWX12FND2g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0ZWX12FND2g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0ZWX12FND2g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0ZWX12FND2g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0ZWX12FND2g"
+        }
+      },
+      "contentDetails": {
+        "videoId": "0ZWX12FND2g",
+        "videoPublishedAt": "2017-09-20T19:06:11.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/wuTiKcN29Phz6kGX6SJyF_CFHjs\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy44NzQ1OTI1OUFFM0NFRTc5",
+      "snippet": {
+        "publishedAt": "2017-09-20T17:52:46.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Private video",
+        "description": "This video is private.",
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nZTqrp1igo8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "nZTqrp1igo8"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/AmmBS2hwm52KZ0Uyg6DZSPuWUsU\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy5DODY2Qzc5Mzc1QkZEQ0NF",
+      "snippet": {
+        "publishedAt": "2017-09-19T17:20:28.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Women's Reservation Bill on Govt Agenda | Face Off@9 With Zakka Jacob | CNN-News18",
+        "description": "Watch the day's top stories in Face Off@9 With Zakka Jacob.\n\nCNN-News18 (formerly known as CNN-IBN) has been the world’s window to India and India's window to the world. The channel has been a ‘thought leader’ and has pioneered several path-breaking initiatives that include CNN-News18 Indian of the Year, Real Heroes, The Citizen Journalist Show, India Positive, State of the Nation (channel’s flagship bi-annual poll) to name a few. During the last 9 years, the channel has won over 197 awards and accolades at the prestigious Asian Television Awards, Ramnath Goenka Excellence in Journalism Awards, Indian Television Academy Awards, News Television Awards and Indian Telly Awards, making it India’s Most Awarded English News Channel. CNN-IBN's news portal IBNLive.com has now changed to News18.com\n\nSubscribe our channel for latest news updates: https://goo.gl/rgjh7Q\nFollow Us On:\nFacebook: https://www.facebook.com/cnnnews18/\nTwitter: https://twitter.com/cnnnews18\nGoogleplus: https://plus.google.com/u/0/+cnnnews18\nWebsite: http://www.news18.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cQPWTV_HAeQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cQPWTV_HAeQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cQPWTV_HAeQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cQPWTV_HAeQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cQPWTV_HAeQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cQPWTV_HAeQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "cQPWTV_HAeQ",
+        "videoPublishedAt": "2017-09-19T17:20:16.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/toWwSpmsxcWFufjgWCDKGoKvC8c\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy40MzEwNkU4RUE0MjhBRjg4",
+      "snippet": {
+        "publishedAt": "2017-09-18T17:59:48.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "AIADMK Power Struggle | Face Off@9 With Zakka Jacob | CNN-News18",
+        "description": "Decisive Turn in AIADMK Power Struggle and much more. Watch the day's top stories in Face Off@9 With Zakka Jacob.\n\nCNN-News18 (formerly known as CNN-IBN) has been the world’s window to India and India's window to the world. The channel has been a ‘thought leader’ and has pioneered several path-breaking initiatives that include CNN-News18 Indian of the Year, Real Heroes, The Citizen Journalist Show, India Positive, State of the Nation (channel’s flagship bi-annual poll) to name a few. During the last 9 years, the channel has won over 197 awards and accolades at the prestigious Asian Television Awards, Ramnath Goenka Excellence in Journalism Awards, Indian Television Academy Awards, News Television Awards and Indian Telly Awards, making it India’s Most Awarded English News Channel. CNN-IBN's news portal IBNLive.com has now changed to News18.com\n\nSubscribe our channel for latest news updates: https://goo.gl/rgjh7Q\nFollow Us On:\nFacebook: https://www.facebook.com/cnnnews18/\nTwitter: https://twitter.com/cnnnews18\nGoogleplus: https://plus.google.com/u/0/+cnnnews18\nWebsite: http://www.news18.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n4Yz9tdVy5A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n4Yz9tdVy5A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n4Yz9tdVy5A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n4Yz9tdVy5A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n4Yz9tdVy5A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "n4Yz9tdVy5A"
+        }
+      },
+      "contentDetails": {
+        "videoId": "n4Yz9tdVy5A",
+        "videoPublishedAt": "2017-09-18T17:59:33.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/S36XOWWN1oxJdZeV0v3hkN4_UBw\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy42RDgxQ0M2OUIwREZCNjZF",
+      "snippet": {
+        "publishedAt": "2017-09-17T17:09:29.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "BJP's Mission Gujarat | Face Off@9 With Marya Shakil | CNN-News18",
+        "description": "Prime Minister Narendra Modi inaugurated 138-metre Sardar Sarovar Dam on the Narmada river on Sunday. Dedicating the dam to the nation on his 67th birthday, PM Modi said at Dabhoi, near the dam, that he would live and die for the dreams of the people of the country. “You know me, I can’t do small things. I don’t think small, don’t do small things. With 1.25 billion people with me, I can’t dream small\".\n\nWatch the day's top stories in Face Off@9 With Marya Shakil\n\nAbout Channel:\nCNN-News18 (formerly known as CNN-IBN) has been the world’s window to India and India's window to the world. The channel has been a ‘thought leader’ and has pioneered several path-breaking initiatives that include CNN-News18 Indian of the Year, Real Heroes, The Citizen Journalist Show, India Positive, State of the Nation (channel’s flagship bi-annual poll) to name a few. During the last 9 years, the channel has won over 197 awards and accolades at the prestigious Asian Television Awards, Ramnath Goenka Excellence in Journalism Awards, Indian Television Academy Awards, News Television Awards and Indian Telly Awards, making it India’s Most Awarded English News Channel. CNN-IBN's news portal IBNLive.com has now changed to News18.com\n\nSubscribe our channel for latest news updates: https://goo.gl/rgjh7Q\nFollow Us On:\nFacebook: https://www.facebook.com/cnnnews18/\nTwitter: https://twitter.com/cnnnews18\nGoogleplus: https://plus.google.com/u/0/+cnnnews18\nWebsite: http://www.news18.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0K1Zz08l7GY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0K1Zz08l7GY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0K1Zz08l7GY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0K1Zz08l7GY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0K1Zz08l7GY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "0K1Zz08l7GY",
+        "videoPublishedAt": "2017-09-17T17:09:08.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/RVFaLKiz0MsVo0KmrbZ2Rrgp09Q\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy40ODU2MTBGM0M5MkIwQzU0",
+      "snippet": {
+        "publishedAt": "2017-09-15T18:11:43.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Rohingya Crisis: Should Security Trump Empathy? | Face Off@9 | CNN-News18",
+        "description": "A Myanmar government committee investigating the Rohingya Muslim minority in Rakhine State said adhering to the rule of law was the best means to resolve the ongoing humanitarian crisis.\n\nAbout Channel:\nCNN-News18 (formerly known as CNN-IBN) has been the world’s window to India and India's window to the world. The channel has been a ‘thought leader’ and has pioneered several path-breaking initiatives that include CNN-News18 Indian of the Year, Real Heroes, The Citizen Journalist Show, India Positive, State of the Nation (channel’s flagship bi-annual poll) to name a few. During the last 9 years, the channel has won over 197 awards and accolades at the prestigious Asian Television Awards, Ramnath Goenka Excellence in Journalism Awards, Indian Television Academy Awards, News Television Awards and Indian Telly Awards, making it India’s Most Awarded English News Channel. CNN-IBN's news portal IBNLive.com has now changed to News18.com\n\nSubscribe our channel for latest news updates: https://goo.gl/rgjh7Q\nFollow Us On:\nFacebook: https://www.facebook.com/cnnnews18/\nTwitter: https://twitter.com/cnnnews18\nGoogleplus: https://plus.google.com/u/0/+cnnnews18\nWebsite: http://www.news18.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MVZAZftDJfE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MVZAZftDJfE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MVZAZftDJfE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MVZAZftDJfE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MVZAZftDJfE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "MVZAZftDJfE",
+        "videoPublishedAt": "2017-09-15T18:11:34.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/ESQ48SSfjH6JA0A3QU36WGP-FCo\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy44REI4QUZDRDI5MDc4Q0NF",
+      "snippet": {
+        "publishedAt": "2017-09-15T17:56:58.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Rohingya Crisis: Compassion Vs Security Debate | Face Off@9 | CNN-News18",
+        "description": "A Myanmar government committee investigating the Rohingya Muslim minority in Rakhine State said adhering to the rule of law was the best means to resolve the ongoing humanitarian crisis.\n\nAbout Channel:\nCNN-News18 (formerly known as CNN-IBN) has been the world’s window to India and India's window to the world. The channel has been a ‘thought leader’ and has pioneered several path-breaking initiatives that include CNN-News18 Indian of the Year, Real Heroes, The Citizen Journalist Show, India Positive, State of the Nation (channel’s flagship bi-annual poll) to name a few. During the last 9 years, the channel has won over 197 awards and accolades at the prestigious Asian Television Awards, Ramnath Goenka Excellence in Journalism Awards, Indian Television Academy Awards, News Television Awards and Indian Telly Awards, making it India’s Most Awarded English News Channel. CNN-IBN's news portal IBNLive.com has now changed to News18.com\n\nSubscribe our channel for latest news updates: https://goo.gl/rgjh7Q\nFollow Us On:\nFacebook: https://www.facebook.com/cnnnews18/\nTwitter: https://twitter.com/cnnnews18\nGoogleplus: https://plus.google.com/u/0/+cnnnews18\nWebsite: http://www.news18.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LHT5kMe3kwQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LHT5kMe3kwQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LHT5kMe3kwQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LHT5kMe3kwQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LHT5kMe3kwQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "LHT5kMe3kwQ",
+        "videoPublishedAt": "2017-09-15T17:56:46.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/W9q55cXYEUR9_DPm93rJPWkmy_0\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy5FQjcyRDZBMEMyNTY3OTdE",
+      "snippet": {
+        "publishedAt": "2017-09-14T18:44:09.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "AIADMK Power Tussle Finale? | Reprieve for EPS-OPS | Face-Off | CNN-News18",
+        "description": "Tamil Nadu Assembly floor test: It is nothing short of a big relief for Tamil Nadu Chief Minister Edappadi K. Palaniswami and his deputy O. Panneerselvam as Madras High Court on Thursday ruled out floor test in the state Assembly till September 20.\n\nAbout Channel:\nCNN-News18 (formerly known as CNN-IBN) has been the world’s window to India and India's window to the world. The channel has been a ‘thought leader’ and has pioneered several path-breaking initiatives that include CNN-News18 Indian of the Year, Real Heroes, The Citizen Journalist Show, India Positive, State of the Nation (channel’s flagship bi-annual poll) to name a few. During the last 9 years, the channel has won over 197 awards and accolades at the prestigious Asian Television Awards, Ramnath Goenka Excellence in Journalism Awards, Indian Television Academy Awards, News Television Awards and Indian Telly Awards, making it India’s Most Awarded English News Channel. CNN-IBN's news portal IBNLive.com has now changed to News18.com\n\nSubscribe our channel for latest news updates: https://goo.gl/rgjh7Q\nFollow Us On:\nFacebook: https://www.facebook.com/cnnnews18/\nTwitter: https://twitter.com/cnnnews18\nGoogleplus: https://plus.google.com/u/0/+cnnnews18\nWebsite: http://www.news18.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jncEvdDjDng/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jncEvdDjDng/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jncEvdDjDng/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jncEvdDjDng/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jncEvdDjDng/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jncEvdDjDng"
+        }
+      },
+      "contentDetails": {
+        "videoId": "jncEvdDjDng",
+        "videoPublishedAt": "2017-09-14T18:44:08.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/Rxp_we9FBzFH6aQuYkKtv36H8zI\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy4wMEMyQTBBOTUwNTM0OUFG",
+      "snippet": {
+        "publishedAt": "2017-09-14T17:20:25.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Watch: Face Off@9 With Zakka Jacob",
+        "description": "Watch the day's top stories in Face Off@9 With Zakka Jacob.\n\n\nCNN-News18 (formerly known as CNN-IBN) has been the world’s window to India and India's window to the world. The channel has been a ‘thought leader’ and has pioneered several path-breaking initiatives that include CNN-News18 Indian of the Year, Real Heroes, The Citizen Journalist Show, India Positive, State of the Nation (channel’s flagship bi-annual poll) to name a few. During the last 9 years, the channel has won over 197 awards and accolades at the prestigious Asian Television Awards, Ramnath Goenka Excellence in Journalism Awards, Indian Television Academy Awards, News Television Awards and Indian Telly Awards, making it India’s Most Awarded English News Channel. CNN-IBN's news portal IBNLive.com has now changed to News18.com\n\nSubscribe our channel for latest news updates: https://goo.gl/rgjh7Q\nFollow Us On:\nFacebook: https://www.facebook.com/cnnnews18/\nTwitter: https://twitter.com/cnnnews18\nGoogleplus: https://plus.google.com/u/0/+cnnnews18\nWebsite: http://www.news18.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C-IZ_YHI-qE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C-IZ_YHI-qE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C-IZ_YHI-qE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C-IZ_YHI-qE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C-IZ_YHI-qE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "C-IZ_YHI-qE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "C-IZ_YHI-qE",
+        "videoPublishedAt": "2017-09-14T17:20:16.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/GyXdU5WczCuZ-wZxouE-cegwwQY\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy44M0Q5MzQ0QTcwQzFDMjc5",
+      "snippet": {
+        "publishedAt": "2017-09-13T18:06:32.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Narendra Modi and Shinzo Abe: Underscoring Old Bonds, Breaking New Ground | Face Off | CNN-News18",
+        "description": "Japanese Prime Minister Shinzo Abe arrived in Ahmedabad on Wednesday afternoon for a two-day visit to attend the annual summit between the two countries.The visit is Abe’s fourth such meeting – and 10th encounter – with Prime Minister Narendra Modi. \n\nAbout Channel:\nCNN-News18 (formerly known as CNN-IBN) has been the world’s window to India and India's window to the world. The channel has been a ‘thought leader’ and has pioneered several path-breaking initiatives that include CNN-News18 Indian of the Year, Real Heroes, The Citizen Journalist Show, India Positive, State of the Nation (channel’s flagship bi-annual poll) to name a few. During the last 9 years, the channel has won over 197 awards and accolades at the prestigious Asian Television Awards, Ramnath Goenka Excellence in Journalism Awards, Indian Television Academy Awards, News Television Awards and Indian Telly Awards, making it India’s Most Awarded English News Channel. CNN-IBN's news portal IBNLive.com has now changed to News18.com\n\nSubscribe our channel for latest news updates: https://goo.gl/rgjh7Q\nFollow Us On:\nFacebook: https://www.facebook.com/cnnnews18/\nTwitter: https://twitter.com/cnnnews18\nGoogleplus: https://plus.google.com/u/0/+cnnnews18\nWebsite: http://www.news18.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8p5BwER7UuY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8p5BwER7UuY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8p5BwER7UuY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8p5BwER7UuY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8p5BwER7UuY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "8p5BwER7UuY",
+        "videoPublishedAt": "2017-09-13T18:06:23.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/meNer13HFeplp923kgWUlDOVByc\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy5EN0U0NTk3NzIwMjUxN0M3",
+      "snippet": {
+        "publishedAt": "2017-09-11T17:32:14.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Watch: Face Off@9 With Zakka Jacob | CNN-News18",
+        "description": "Watch the day's top stories in Face Off@9 With Zakka Jacob.\n\nAbout Channel:\nCNN-News18 (formerly known as CNN-IBN) has been the world’s window to India and India's window to the world. The channel has been a ‘thought leader’ and has pioneered several path-breaking initiatives that include CNN-News18 Indian of the Year, Real Heroes, The Citizen Journalist Show, India Positive, State of the Nation (channel’s flagship bi-annual poll) to name a few. During the last 9 years, the channel has won over 197 awards and accolades at the prestigious Asian Television Awards, Ramnath Goenka Excellence in Journalism Awards, Indian Television Academy Awards, News Television Awards and Indian Telly Awards, making it India’s Most Awarded English News Channel. CNN-IBN's news portal IBNLive.com has now changed to News18.com\n\nSubscribe our channel for latest news updates: https://goo.gl/rgjh7Q\nFollow Us On:\nFacebook: https://www.facebook.com/cnnnews18/\nTwitter: https://twitter.com/cnnnews18\nGoogleplus: https://plus.google.com/u/0/+cnnnews18\nWebsite: http://www.news18.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AW2LxBjz398/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AW2LxBjz398/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AW2LxBjz398/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AW2LxBjz398/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AW2LxBjz398/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AW2LxBjz398"
+        }
+      },
+      "contentDetails": {
+        "videoId": "AW2LxBjz398",
+        "videoPublishedAt": "2017-09-11T17:23:59.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/f2oIMcYbKk6wc-SW2FKiFqKabzs\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy5BQzRBQzNEOTgzNTU2QkZB",
+      "snippet": {
+        "publishedAt": "2017-09-10T17:20:57.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Watch: Face Off@9 With Zakka Jacob",
+        "description": "Watch the day's top stories in Face Off@9 With Zakka Jacob.\n\nCNN-News18 (formerly known as CNN-IBN) has been the world’s window to India and India's window to the world. The channel has been a ‘thought leader’ and has pioneered several path-breaking initiatives that include CNN-News18 Indian of the Year, Real Heroes, The Citizen Journalist Show, India Positive, State of the Nation (channel’s flagship bi-annual poll) to name a few. During the last 9 years, the channel has won over 197 awards and accolades at the prestigious Asian Television Awards, Ramnath Goenka Excellence in Journalism Awards, Indian Television Academy Awards, News Television Awards and Indian Telly Awards, making it India’s Most Awarded English News Channel. CNN-IBN's news portal IBNLive.com has now changed to News18.com\n\nSubscribe our channel for latest news updates: https://goo.gl/rgjh7Q\nFollow Us On:\nFacebook: https://www.facebook.com/cnnnews18/\nTwitter: https://twitter.com/cnnnews18\nGoogleplus: https://plus.google.com/u/0/+cnnnews18\nWebsite: http://www.news18.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zHewpf2eBlU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zHewpf2eBlU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zHewpf2eBlU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zHewpf2eBlU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zHewpf2eBlU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zHewpf2eBlU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "zHewpf2eBlU",
+        "videoPublishedAt": "2017-09-10T17:20:31.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/f9J1v0exZx87QfZtQYKrtn3T0l0\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy4zNEMzQ0FDREY1MkE1RkQ1",
+      "snippet": {
+        "publishedAt": "2017-09-09T18:04:17.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Watch: Face Off@9 With Maha Siddiqui",
+        "description": "Watch the day's top stories in Face Off@9 With Maha Siddiqui.\n\nCNN-News18 (formerly known as CNN-IBN) has been the world’s window to India and India's window to the world. The channel has been a ‘thought leader’ and has pioneered several path-breaking initiatives that include CNN-News18 Indian of the Year, Real Heroes, The Citizen Journalist Show, India Positive, State of the Nation (channel’s flagship bi-annual poll) to name a few. During the last 9 years, the channel has won over 197 awards and accolades at the prestigious Asian Television Awards, Ramnath Goenka Excellence in Journalism Awards, Indian Television Academy Awards, News Television Awards and Indian Telly Awards, making it India’s Most Awarded English News Channel. CNN-IBN's news portal IBNLive.com has now changed to News18.com\n\nSubscribe our channel for latest news updates: https://goo.gl/rgjh7Q\nFollow Us On:\nFacebook: https://www.facebook.com/cnnnews18/\nTwitter: https://twitter.com/cnnnews18\nGoogleplus: https://plus.google.com/u/0/+cnnnews18\nWebsite: http://www.news18.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RBaGYYjNVP8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RBaGYYjNVP8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RBaGYYjNVP8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RBaGYYjNVP8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RBaGYYjNVP8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RBaGYYjNVP8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "RBaGYYjNVP8",
+        "videoPublishedAt": "2017-09-09T18:04:04.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/2_m3kcNaOm-0MrhBy30BmBISekQ\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy45MEI3NjgzMTVFQkZGODYx",
+      "snippet": {
+        "publishedAt": "2017-09-08T18:35:43.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Watch: Face Off@9 With Zakka Jacob | CNN-News18",
+        "description": "CNN-News18 (formerly known as CNN-IBN) has been the world’s window to India and India's window to the world. The channel has been a ‘thought leader’ and has pioneered several path-breaking initiatives that include CNN-News18 Indian of the Year, Real Heroes, The Citizen Journalist Show, India Positive, State of the Nation (channel’s flagship bi-annual poll) to name a few. During the last 9 years, the channel has won over 197 awards and accolades at the prestigious Asian Television Awards, Ramnath Goenka Excellence in Journalism Awards, Indian Television Academy Awards, News Television Awards and Indian Telly Awards, making it India’s Most Awarded English News Channel. CNN-IBN's news portal IBNLive.com has now changed to News18.com\n\nSubscribe our channel for latest news updates: https://goo.gl/rgjh7Q\nFollow Us On:\nWatch the day's top stories in Face Off@9 With Zakka Jacob.\n\nFacebook: https://www.facebook.com/cnnnews18/\nTwitter: https://twitter.com/cnnnews18\nGoogleplus: https://plus.google.com/u/0/+cnnnews18\nWebsite: http://www.news18.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g-zt8oZK4gM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g-zt8oZK4gM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g-zt8oZK4gM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/g-zt8oZK4gM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/g-zt8oZK4gM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "g-zt8oZK4gM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "g-zt8oZK4gM",
+        "videoPublishedAt": "2017-09-08T18:36:39.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/gormAKhO42_PJBhWhZeZepRh6BA\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy5ENjg3MEUyQ0IzODMzQThB",
+      "snippet": {
+        "publishedAt": "2017-09-07T18:42:42.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Watch: Face Off@9 With Zakka Jacob",
+        "description": "Watch the day's top stories in Face Off@9 With Zakka Jacob.\n\n\nCNN-News18 (formerly known as CNN-IBN) has been the world’s window to India and India's window to the world. The channel has been a ‘thought leader’ and has pioneered several path-breaking initiatives that include CNN-News18 Indian of the Year, Real Heroes, The Citizen Journalist Show, India Positive, State of the Nation (channel’s flagship bi-annual poll) to name a few. During the last 9 years, the channel has won over 197 awards and accolades at the prestigious Asian Television Awards, Ramnath Goenka Excellence in Journalism Awards, Indian Television Academy Awards, News Television Awards and Indian Telly Awards, making it India’s Most Awarded English News Channel. CNN-IBN's news portal IBNLive.com has now changed to News18.com\n\nSubscribe our channel for latest news updates: https://goo.gl/rgjh7Q\nFollow Us On:\nWatch the day's top stories in Face Off@9 With Zakka Jacob.\n\nFacebook: https://www.facebook.com/cnnnews18/\nTwitter: https://twitter.com/cnnnews18\nGoogleplus: https://plus.google.com/u/0/+cnnnews18\nWebsite: http://www.news18.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RIGlWItX7qo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RIGlWItX7qo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RIGlWItX7qo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RIGlWItX7qo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RIGlWItX7qo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RIGlWItX7qo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "RIGlWItX7qo",
+        "videoPublishedAt": "2017-09-07T19:06:34.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/lBxQ5QMhOXjqZ0rajWK_geevFWI\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy41MzJFNEYxODEyNzA0QUUx",
+      "snippet": {
+        "publishedAt": "2017-09-06T18:29:58.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Watch: Face Off@9 With Maha Siddiqui",
+        "description": "Watch the day's top stories in Face Off@9 With Maha Siddiqui.\n\n\nCNN-News18 (formerly known as CNN-IBN) has been the world’s window to India and India's window to the world. The channel has been a ‘thought leader’ and has pioneered several path-breaking initiatives that include CNN-News18 Indian of the Year, Real Heroes, The Citizen Journalist Show, India Positive, State of the Nation (channel’s flagship bi-annual poll) to name a few. During the last 9 years, the channel has won over 197 awards and accolades at the prestigious Asian Television Awards, Ramnath Goenka \n\nExcellence in Journalism Awards, Indian Television Academy Awards, News Television Awards and Indian Telly Awards, making it India’s Most Awarded English News Channel. CNN-IBN's news portal IBNLive.com has now changed to News18.com\n\nSubscribe our channel for latest news updates: https://goo.gl/rgjh7Q\nFollow Us On:\nFacebook: https://www.facebook.com/cnnnews18/\nTwitter: https://twitter.com/cnnnews18\nGoogleplus: https://plus.google.com/u/0/+cnnnews18\nWebsite: http://www.news18.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p7vU391XZM4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p7vU391XZM4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p7vU391XZM4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p7vU391XZM4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/p7vU391XZM4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "p7vU391XZM4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "p7vU391XZM4",
+        "videoPublishedAt": "2017-09-06T18:29:31.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/0wOvSmMqbfj9o5276zFl9iSzJ_Q\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy5EODkyNDMzRkJBNkQ2NkMz",
+      "snippet": {
+        "publishedAt": "2017-09-06T02:51:09.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Watch: Face Off@9 With Maha Siddiqui",
+        "description": "Watch the day's top stories in Face Off@9 With Maha Siddiqui.\n\n\n\n\nCNN-News18 (formerly known as CNN-IBN) has been the world’s window to India and India's window to the world. The channel has been a ‘thought leader’ and has pioneered several path-breaking initiatives that include CNN-News18 Indian of the Year, Real Heroes, The Citizen Journalist Show, India Positive, State of the Nation (channel’s flagship bi-annual poll) to name a few. During the last 9 years, the channel has won over 197 awards and accolades at the prestigious Asian Television Awards, Ramnath Goenka Excellence in Journalism Awards, Indian Television Academy Awards, News Television Awards and Indian Telly Awards, making it India’s Most Awarded English News Channel. CNN-IBN's news portal IBNLive.com has now changed to News18.com\n\nSubscribe our channel for latest news updates: https://goo.gl/rgjh7Q\nFollow Us On:\nFacebook: https://www.facebook.com/cnnnews18/\nTwitter: https://twitter.com/cnnnews18\nGoogleplus: https://plus.google.com/u/0/+cnnnews18\nWebsite: http://www.news18.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SsQToHA4WxM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SsQToHA4WxM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SsQToHA4WxM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SsQToHA4WxM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SsQToHA4WxM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SsQToHA4WxM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "SsQToHA4WxM",
+        "videoPublishedAt": "2017-09-06T03:14:47.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/_2THIe-R7GjoyAaLT1jwk1PtRM0\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy5BRUVCN0E0MzEwQzAwNjMy",
+      "snippet": {
+        "publishedAt": "2017-09-05T09:56:11.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Watch: Face Off@9 With Maha Siddiqui",
+        "description": "Watch the day's top stories in Face Off@9 With Maha Siddiqui.\n\n\n\n\nCNN-News18 (formerly known as CNN-IBN) has been the world’s window to India and India's window to the world. The channel has been a ‘thought leader’ and has pioneered several path-breaking initiatives that include CNN-News18 Indian of the Year, Real Heroes, The Citizen Journalist Show, India Positive, State of the Nation (channel’s flagship bi-annual poll) to name a few. During the last 9 years, the channel has won over 197 awards and accolades at the prestigious Asian Television Awards, Ramnath Goenka Excellence in Journalism Awards, Indian Television Academy Awards, News Television Awards and Indian Telly Awards, making it India’s Most Awarded English News Channel. CNN-IBN's news portal IBNLive.com has now changed to News18.com\n\nSubscribe our channel for latest news updates: https://goo.gl/rgjh7Q\nFollow Us On:\nFacebook: https://www.facebook.com/cnnnews18/\nTwitter: https://twitter.com/cnnnews18\nGoogleplus: https://plus.google.com/u/0/+cnnnews18\nWebsite: http://www.news18.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Enkz1g2xCJM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Enkz1g2xCJM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Enkz1g2xCJM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Enkz1g2xCJM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Enkz1g2xCJM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Enkz1g2xCJM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Enkz1g2xCJM",
+        "videoPublishedAt": "2017-09-05T09:55:50.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/x1BEKCfWFl4-IAcTIqch-Og1NkM\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy41NUMwNTVERDNBRDc4REM0",
+      "snippet": {
+        "publishedAt": "2017-09-03T03:25:44.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Watch: Face Off@9 With Bhupendra Chaubey",
+        "description": "Watch the day's top stories in Face Off@9 With Bhupendra Chaubey.\n\n\nCNN-News18 (formerly known as CNN-IBN) has been the world’s window to India and India's window to the world. The channel has been a ‘thought leader’ and has pioneered several path-breaking initiatives that include CNN-News18 Indian of the Year, Real Heroes, The Citizen Journalist Show, India Positive, State of the Nation (channel’s flagship bi-annual poll) to name a few. During the last 9 years, the channel has won over 197 awards and accolades at the prestigious Asian Television Awards, Ramnath Goenka Excellence in Journalism Awards, Indian Television Academy Awards, News Television Awards and Indian Telly Awards, making it India’s Most Awarded English News Channel. CNN-IBN's news portal IBNLive.com has now changed to News18.com\n\nSubscribe our channel for latest news updates: https://goo.gl/rgjh7Q\nFollow Us On:\nFacebook: https://www.facebook.com/cnnnews18/\nTwitter: https://twitter.com/cnnnews18\nGoogleplus: https://plus.google.com/u/0/+cnnnews18\nWebsite: http://www.news18.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HD2r5xh50wY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HD2r5xh50wY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HD2r5xh50wY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HD2r5xh50wY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HD2r5xh50wY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HD2r5xh50wY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "HD2r5xh50wY",
+        "videoPublishedAt": "2017-09-03T03:25:36.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/QfqmI1Y_IicTMl9iaAVDV_XuoLc\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy4wQTI4OEZFRUE0Q0Q3ODQw",
+      "snippet": {
+        "publishedAt": "2017-09-02T06:24:39.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Face Off At 9 - What's The Message Behind The Historic Cabinet Reshuffle? - CNN-News18",
+        "description": "Prime Minister Narendra Modi is going ahead with the most politically significant cabinet reshuffle of his government on Sunday morning, the last one before the general elections. What's the message that PM Modi wants to convey with this reshuffle and will this help achieve Mission 350 for the BJP?\n\nAbout Channel:\nCNN-News18 (formerly known as CNN-IBN) has been the world’s window to India and India's window to the world. The channel has been a ‘thought leader’ and has pioneered several path-breaking initiatives that include CNN-News18 Indian of the Year, Real Heroes, The Citizen Journalist Show, India Positive, State of the Nation (channel’s flagship bi-annual poll) to name a few. During the last 9 years, the channel has won over 197 awards and accolades at the prestigious Asian Television Awards, Ramnath Goenka Excellence in Journalism Awards, Indian Television Academy Awards, News Television Awards and Indian Telly Awards, making it India’s Most Awarded English News Channel. CNN-IBN's news portal IBNLive.com has now changed to News18.com\n\nSubscribe our channel for latest news updates: https://goo.gl/rgjh7Q\nFollow Us On:\nFacebook: https://www.facebook.com/cnnnews18/\nTwitter: https://twitter.com/cnnnews18\nGoogleplus: https://plus.google.com/u/0/+cnnnews18\nWebsite: http://www.news18.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SNrydyrfoUs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SNrydyrfoUs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SNrydyrfoUs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SNrydyrfoUs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SNrydyrfoUs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "SNrydyrfoUs",
+        "videoPublishedAt": "2017-09-02T06:03:13.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/Oygh9tWnEWcVsXukG_HzDzJs7JM\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy4xRDJGOTc4RkUxMzUwMUFG",
+      "snippet": {
+        "publishedAt": "2017-09-02T02:49:46.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Watch: Face Off@9 With Zakka Jacob",
+        "description": "Watch the day's top stories in Face Off@9 With Zakka Jacob.\n\n\nCNN-News18 (formerly known as CNN-IBN) has been the world’s window to India and India's window to the world. The channel has been a ‘thought leader’ and has pioneered several path-breaking initiatives that include CNN-News18 Indian of the Year, Real Heroes, The Citizen Journalist Show, India Positive, State of the Nation (channel’s flagship bi-annual poll) to name a few. During the last 9 years, the channel has won over 197 awards and accolades at the prestigious Asian Television Awards, Ramnath Goenka Excellence in Journalism Awards, Indian Television Academy Awards, News Television Awards and Indian Telly Awards, making it India’s Most Awarded English News Channel. CNN-IBN's news portal IBNLive.com has now changed to News18.com\n\nSubscribe our channel for latest news updates: https://goo.gl/rgjh7Q\nFollow Us On:\nFacebook: https://www.facebook.com/cnnnews18/\nTwitter: https://twitter.com/cnnnews18\nGoogleplus: https://plus.google.com/u/0/+cnnnews18\nWebsite: http://www.news18.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_U6HUYupLUQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_U6HUYupLUQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_U6HUYupLUQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_U6HUYupLUQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_U6HUYupLUQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_U6HUYupLUQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "_U6HUYupLUQ",
+        "videoPublishedAt": "2017-09-02T02:49:36.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/l-zTa6YtSUs7USxkYB1tQPGVEDw\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy4wMDkwRkI3NzExODA2MTFG",
+      "snippet": {
+        "publishedAt": "2017-09-01T06:35:42.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Watch: Face Off@9 With Zakka Jacob",
+        "description": "Watch the day's top stories in Face Off@9 With Zakka Jacob.\n\n\n\nCNN-News18 (formerly known as CNN-IBN) has been the world’s window to India and India's window to the world. The channel has been a ‘thought leader’ and has pioneered several path-breaking initiatives that include CNN-News18 Indian of the Year, Real Heroes, The Citizen Journalist Show, India Positive, State of the Nation (channel’s flagship bi-annual poll) to name a few. During the last 9 years, the channel has won over 197 awards and accolades at the prestigious Asian Television Awards, Ramnath Goenka Excellence in Journalism Awards, Indian Television Academy Awards, News Television Awards and Indian Telly Awards, making it India’s Most Awarded English News Channel. CNN-IBN's news portal IBNLive.com has now changed to News18.com\n\nSubscribe our channel for latest news updates: https://goo.gl/rgjh7Q\nFollow Us On:\nFacebook: https://www.facebook.com/cnnnews18/\nTwitter: https://twitter.com/cnnnews18\nGoogleplus: https://plus.google.com/u/0/+cnnnews18\nWebsite: http://www.news18.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1CGgHoHULb4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1CGgHoHULb4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1CGgHoHULb4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1CGgHoHULb4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1CGgHoHULb4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1CGgHoHULb4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "1CGgHoHULb4",
+        "videoPublishedAt": "2017-09-01T06:35:21.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/oRt3BXLyicUMLLPhG3Zg6f6Ep0o\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy5ERkRDQjY0N0Y0Q0VFOTdC",
+      "snippet": {
+        "publishedAt": "2017-08-30T17:53:53.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Watch: Face Off@9 With Zakka Jacob",
+        "description": "Watch the day's top stories in Face Off@9 With Zakka Jacob.\n\nCNN-News18 (formerly known as CNN-IBN) has been the world’s window to India and India's window to the world. The channel has been a ‘thought leader’ and has pioneered several path-breaking initiatives that include CNN-News18 Indian of the Year, Real Heroes, The Citizen Journalist Show, India Positive, State of the Nation (channel’s flagship bi-annual poll) to name a few. During the last 9 years, the channel has won over 197 awards and accolades at the prestigious Asian Television Awards, Ramnath Goenka Excellence in Journalism Awards, Indian Television Academy Awards, News Television Awards and Indian Telly Awards, making it India’s Most Awarded English News Channel. CNN-IBN's news portal IBNLive.com has now changed to News18.com\n\nSubscribe our channel for latest news updates: https://goo.gl/rgjh7Q\nFollow Us On:\nFacebook: https://www.facebook.com/cnnnews18/\nTwitter: https://twitter.com/cnnnews18\nGoogleplus: https://plus.google.com/u/0/+cnnnews18\nWebsite: http://www.news18.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rqIn62cYyZU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rqIn62cYyZU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rqIn62cYyZU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rqIn62cYyZU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rqIn62cYyZU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rqIn62cYyZU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "rqIn62cYyZU",
+        "videoPublishedAt": "2017-08-30T17:53:39.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/ZbGxdcyLTwsMmugFgyuonLmzVGs\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy5BRDg1NUY1OTY2QzgzOEM0",
+      "snippet": {
+        "publishedAt": "2017-08-30T06:16:09.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Watch: Face Off@9 With Zakka Jacob",
+        "description": "Watch the day's top stories in Face Off@9 With Zakka Jacob.\n\n\n\nCNN-News18 (formerly known as CNN-IBN) has been the world’s window to India and India's window to the world. The channel has been a ‘thought leader’ and has pioneered several path-breaking initiatives that include CNN-News18 Indian of the Year, Real Heroes, The Citizen Journalist Show, India Positive, State of the Nation (channel’s flagship bi-annual poll) to name a few. During the last 9 years, the channel has won over 197 awards and accolades at the prestigious Asian Television Awards, Ramnath Goenka Excellence in Journalism Awards, Indian Television Academy Awards, News Television Awards and Indian Telly Awards, making it India’s Most Awarded English News Channel. CNN-IBN's news portal IBNLive.com has now changed to News18.com\n\nSubscribe our channel for latest news updates: https://goo.gl/rgjh7Q\nFollow Us On:\nFacebook: https://www.facebook.com/cnnnews18/\nTwitter: https://twitter.com/cnnnews18\nGoogleplus: https://plus.google.com/u/0/+cnnnews18\nWebsite: http://www.news18.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8u4w82s-b6o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8u4w82s-b6o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8u4w82s-b6o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8u4w82s-b6o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8u4w82s-b6o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8u4w82s-b6o"
+        }
+      },
+      "contentDetails": {
+        "videoId": "8u4w82s-b6o",
+        "videoPublishedAt": "2017-08-30T05:46:49.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/JOP3NBxM7QA3xdX1LXJMtwKZEG4\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy42NEZDNTU0RTRENDUzRjMz",
+      "snippet": {
+        "publishedAt": "2017-08-29T04:37:59.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Watch: Face Off@9 With Zakka Jacob",
+        "description": "Watch the day's top stories in Face Off@9 With Zakka Jacob.\n\n\n\n\nCNN-News18 (formerly known as CNN-IBN) has been the world’s window to India and India's window to the world. The channel has been a ‘thought leader’ and has pioneered several path-breaking initiatives that include CNN-News18 Indian of the Year, Real Heroes, The Citizen Journalist Show, India Positive, State of the Nation (channel’s flagship bi-annual poll) to name a few. During the last 9 years, the channel has won over 197 awards and accolades at the prestigious Asian Television Awards, Ramnath Goenka Excellence in Journalism Awards, Indian Television Academy Awards, News Television Awards and Indian Telly Awards, making it India’s Most Awarded English News Channel. CNN-IBN's news portal IBNLive.com has now changed to News18.com\n\nSubscribe our channel for latest news updates: https://goo.gl/rgjh7Q\nFollow Us On:\nFacebook: https://www.facebook.com/cnnnews18/\nTwitter: https://twitter.com/cnnnews18\nGoogleplus: https://plus.google.com/u/0/+cnnnews18\nWebsite: http://www.news18.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OgKHuCNGghM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OgKHuCNGghM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OgKHuCNGghM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OgKHuCNGghM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OgKHuCNGghM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OgKHuCNGghM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "OgKHuCNGghM",
+        "videoPublishedAt": "2017-08-29T04:37:38.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/Q0LP3X8Cct93pFco4llK1GTliKo\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy5ENEEyOTIwNkY4NzFGMkQ2",
+      "snippet": {
+        "publishedAt": "2017-08-28T09:12:55.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Watch: Face Off@9 With Marya Shakil",
+        "description": "Watch the day's top stories in Face Off@9 With Marya Shakil. \n\n\n\n\n\nCNN-News18 (formerly known as CNN-IBN) has been the world’s window to India and India's window to the world. The channel has been a ‘thought leader’ and has pioneered several path-breaking initiatives that include CNN-News18 Indian of the Year, Real Heroes, The Citizen Journalist Show, India Positive, State of the Nation (channel’s flagship bi-annual poll) to name a few. During the last 9 years, the channel has won over 197 awards and accolades at the prestigious Asian Television Awards, Ramnath Goenka Excellence in Journalism Awards, Indian Television Academy Awards, News Television Awards and Indian Telly Awards, making it India’s Most Awarded English News Channel. CNN-IBN's news portal IBNLive.com has now changed to News18.com\n\nSubscribe our channel for latest news updates: https://goo.gl/rgjh7Q\nFollow Us On:\nFacebook: https://www.facebook.com/cnnnews18/\nTwitter: https://twitter.com/cnnnews18\nGoogleplus: https://plus.google.com/u/0/+cnnnews18\nWebsite: http://www.news18.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VORX2_yXdwY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VORX2_yXdwY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VORX2_yXdwY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VORX2_yXdwY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VORX2_yXdwY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VORX2_yXdwY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "VORX2_yXdwY",
+        "videoPublishedAt": "2017-08-28T09:12:44.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/EyoHoS2mTkSVJXgUppWfAogyzc0\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy43NjE5NDdDRTdENjQ3RTkw",
+      "snippet": {
+        "publishedAt": "2017-08-27T02:55:50.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Watch: Face Off@9 With Sanket Upadhyay",
+        "description": "Watch the day's top stories in Face Off@9 With Sanket Upadhyay.\n\n\nCNN-News18 (formerly known as CNN-IBN) has been the world’s window to India and India's window to the world. The channel has been a ‘thought leader’ and has pioneered several path-breaking initiatives that include CNN-News18 Indian of the Year, Real Heroes, The Citizen Journalist Show, India Positive, State of the Nation (channel’s flagship bi-annual poll) to name a few. During the last 9 years, the channel has won over 197 awards and accolades at the prestigious Asian Television Awards, Ramnath Goenka Excellence in Journalism Awards, Indian Television Academy Awards, News Television Awards and Indian Telly Awards, making it India’s Most Awarded English News Channel. CNN-IBN's news portal IBNLive.com has now changed to News18.com\n\nSubscribe our channel for latest news updates: https://goo.gl/rgjh7Q\nFollow Us On:\nFacebook: https://www.facebook.com/cnnnews18/\nTwitter: https://twitter.com/cnnnews18\nGoogleplus: https://plus.google.com/u/0/+cnnnews18\nWebsite: http://www.news18.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u72ce7zxHpw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u72ce7zxHpw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u72ce7zxHpw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/u72ce7zxHpw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/u72ce7zxHpw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "u72ce7zxHpw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "u72ce7zxHpw",
+        "videoPublishedAt": "2017-08-27T02:55:38.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/pQmrxigr5K85kQDrrjYKS3foZBo\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy4wRkVBNUY4OTkzN0JCNTA2",
+      "snippet": {
+        "publishedAt": "2017-08-25T06:10:17.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Watch: Face Off@9 With Zakka Jacob",
+        "description": "Watch the day's top stories in Face Off@9 With Zakka Jacob.\n\n\n\n\nCNN-News18 (formerly known as CNN-IBN) has been the world’s window to India and India's window to the world. The channel has been a ‘thought leader’ and has pioneered several path-breaking initiatives that include CNN-News18 Indian of the Year, Real Heroes, The Citizen Journalist Show, India Positive, State of the Nation (channel’s flagship bi-annual poll) to name a few. During the last 9 years, the channel has won over 197 awards and accolades at the prestigious Asian Television Awards, Ramnath Goenka Excellence in Journalism Awards, Indian Television Academy Awards, News Television Awards and Indian Telly Awards, making it India’s Most Awarded English News Channel. CNN-IBN's news portal IBNLive.com has now changed to News18.com\n\nSubscribe our channel for latest news updates: https://goo.gl/rgjh7Q\nFollow Us On:\nFacebook: https://www.facebook.com/cnnnews18/\nTwitter: https://twitter.com/cnnnews18\nGoogleplus: https://plus.google.com/u/0/+cnnnews18\nWebsite: http://www.news18.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bvCjTM9Koa0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bvCjTM9Koa0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bvCjTM9Koa0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bvCjTM9Koa0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bvCjTM9Koa0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bvCjTM9Koa0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "bvCjTM9Koa0",
+        "videoPublishedAt": "2017-08-25T06:10:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/qaheYhigi8qBU9_VMrw8m0599ZM\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy44NjIxNjc5OUQwQkJBODQ5",
+      "snippet": {
+        "publishedAt": "2017-08-24T06:01:39.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Watch: Face Off@9 With Zakka Jacob",
+        "description": "Watch the day's top stories in Face Off@9 With Zakka Jacob.\n\n\n\n\nCNN-News18 (formerly known as CNN-IBN) has been the world’s window to India and India's window to the world. The channel has been a ‘thought leader’ and has pioneered several path-breaking initiatives that include CNN-News18 Indian of the Year, Real Heroes, The Citizen Journalist Show, India Positive, State of the Nation (channel’s flagship bi-annual poll) to name a few. During the last 9 years, the channel has won over 197 awards and accolades at the prestigious Asian Television Awards, Ramnath Goenka Excellence in Journalism Awards, Indian Television Academy Awards, News Television Awards and Indian Telly Awards, making it India’s Most Awarded English News Channel. CNN-IBN's news portal IBNLive.com has now changed to News18.com\n\nSubscribe our channel for latest news updates: https://goo.gl/rgjh7Q\nFollow Us On:\nFacebook: https://www.facebook.com/cnnnews18/\nTwitter: https://twitter.com/cnnnews18\nGoogleplus: https://plus.google.com/u/0/+cnnnews18\nWebsite: http://www.news18.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0e54P0qGEMc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0e54P0qGEMc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0e54P0qGEMc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0e54P0qGEMc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0e54P0qGEMc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "0e54P0qGEMc",
+        "videoPublishedAt": "2017-08-24T06:01:21.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/NdPddn-Ttf9mXyyhfutJy3GtQ9o\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy43RDg3MzJDMTRFMTZFOTAw",
+      "snippet": {
+        "publishedAt": "2017-08-21T18:10:19.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Watch: Face Off@9 With Zakka Jacob",
+        "description": "Watch the day's top stories in Face Off@9 With Zakka Jacob.\n\n\nFor more stories         http://news18.com\n \nConnect with us \n\nFacebook              https://www.facebook.com/cnnnews18\nTwitter                   https://twitter.com/news18\nYouTube               http://www.youtube.com/c/cnnnews18",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ibCfo0djhLM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ibCfo0djhLM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ibCfo0djhLM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ibCfo0djhLM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ibCfo0djhLM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ibCfo0djhLM",
+        "videoPublishedAt": "2017-08-21T18:09:35.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/UP4Z8zQD8rqxz_xekDSwsIf-pqM\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy5BNzdEQzY0REQzQTEyN0U3",
+      "snippet": {
+        "publishedAt": "2017-08-20T17:43:10.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Watch: Face Off@9 With Maha Siddiqui",
+        "description": "Watch the day's top stories in Face Off@9 With Maha Siddiqui.\n\nFor more stories         http://news18.com\n \nConnect with us \n\nFacebook              https://www.facebook.com/cnnnews18\nTwitter                   https://twitter.com/news18\nYouTube               http://www.youtube.com/c/cnnnews18",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GX1rRhiCr8s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GX1rRhiCr8s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GX1rRhiCr8s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GX1rRhiCr8s"
+        }
+      },
+      "contentDetails": {
+        "videoId": "GX1rRhiCr8s",
+        "videoPublishedAt": "2017-08-20T17:42:58.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/9MWAXZBo4IYnXhLjzYsp3l5GKcU\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy5EODgyNjY4MzA3QzY5RTkx",
+      "snippet": {
+        "publishedAt": "2017-08-19T17:38:34.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Watch: Face Off@9 With Marya Shakil",
+        "description": "Watch the day's top stories in Face Off@9 With Marya Shakil.\n\nFor more stories         http://news18.com\n \nConnect with us \n\nFacebook              https://www.facebook.com/cnnnews18\nTwitter                   https://twitter.com/news18\nYouTube               http://www.youtube.com/c/cnnnews18",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cl9Zp3vlgvM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cl9Zp3vlgvM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cl9Zp3vlgvM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cl9Zp3vlgvM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cl9Zp3vlgvM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "cl9Zp3vlgvM",
+        "videoPublishedAt": "2017-08-19T17:38:23.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/kWYGeCMx2EKpz542FUlPozL3UEg\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy4wN0FBRUVFNEVBMTZBQ0Mx",
+      "snippet": {
+        "publishedAt": "2017-08-19T02:57:17.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Watch: Face Off@9 With Zakka Jacob",
+        "description": "Watch the day's top stories in Face Off@9 With Zakka Jacob.\n\nFor more stories         http://news18.com\n \nConnect with us \n\nFacebook              https://www.facebook.com/cnnnews18\nTwitter                   https://twitter.com/news18\nYouTube               http://www.youtube.com/c/cnnnews18",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Et-dFu1OA1w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Et-dFu1OA1w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Et-dFu1OA1w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Et-dFu1OA1w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Et-dFu1OA1w"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Et-dFu1OA1w",
+        "videoPublishedAt": "2017-08-19T02:57:08.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/FSRdlcZ3iIUBOMimbYcscAXUBCk\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy4zNDIxRUJGQThFRTg1QzAy",
+      "snippet": {
+        "publishedAt": "2017-08-18T03:03:02.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Watch: Face Off@9 With Zakka Jacob",
+        "description": "Watch the day's top stories in Face Off@9 With Zakka Jacob.\n\nFor more stories         http://news18.com\n \nConnect with us \n\nFacebook              https://www.facebook.com/cnnnews18\nTwitter                   https://twitter.com/news18\nYouTube               http://www.youtube.com/c/cnnnews18",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ScQu5_subhg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ScQu5_subhg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ScQu5_subhg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ScQu5_subhg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ScQu5_subhg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ScQu5_subhg",
+        "videoPublishedAt": "2017-08-18T03:02:50.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/SuCtDAPcp0r3PYFZwHqXmP9MB1w\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy4yOTZGRTNEQ0ZGNUM5RDgw",
+      "snippet": {
+        "publishedAt": "2017-08-15T17:23:53.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Watch: Face Off@9 With Maha Siddiqui",
+        "description": "Watch the day's top stories in Face Off@9 With Maha Siddiqui.\n\nFor more stories         http://news18.com\n \nConnect with us \n\nFacebook              https://www.facebook.com/cnnnews18\nTwitter                   https://twitter.com/news18\nYouTube               http://www.youtube.com/c/cnnnews18",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CEgy43f7zVw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CEgy43f7zVw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CEgy43f7zVw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CEgy43f7zVw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CEgy43f7zVw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "CEgy43f7zVw",
+        "videoPublishedAt": "2017-08-15T17:23:43.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/eIQyGE6pYfTrQmDuE8CioecE3Kg\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy5CQzUwREI3MzkxQjdBM0E0",
+      "snippet": {
+        "publishedAt": "2017-08-14T18:10:31.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Watch: Face Off@9 With Zakka Jacob",
+        "description": "Watch the day's top stories in Face Off@9 With Zakka Jacob.\n\nFor more stories         http://news18.com\n \nConnect with us \n\nFacebook              https://www.facebook.com/cnnnews18\nTwitter                   https://twitter.com/news18\nYouTube               http://www.youtube.com/c/cnnnews18",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W4jsor1eCp8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W4jsor1eCp8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W4jsor1eCp8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/W4jsor1eCp8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "W4jsor1eCp8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "W4jsor1eCp8",
+        "videoPublishedAt": "2017-08-14T18:10:21.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/S0TKBQG6aGklmKvaTr7pImS3N8Q\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy40OTQ5QjlEMDgzN0FBNUIw",
+      "snippet": {
+        "publishedAt": "2017-08-14T08:46:44.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Watch: Face Off@9 With Maha Siddiqui",
+        "description": "Watch the day's top stories in Face Off@9 With Maha Siddiqui.\n\n\nFor more stories         http://news18.com\n \nConnect with us \n\nFacebook              https://www.facebook.com/cnnnews18\nTwitter                   https://twitter.com/news18\nYouTube               http://www.youtube.com/c/cnnnews18",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FOKPvQQYlNA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FOKPvQQYlNA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FOKPvQQYlNA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FOKPvQQYlNA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FOKPvQQYlNA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "FOKPvQQYlNA",
+        "videoPublishedAt": "2017-08-14T08:46:25.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/udgZ4Li7dzQ0dGVVy-aqEQMzgYw\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy43ODA2MDVCQzY5QzZDMjUw",
+      "snippet": {
+        "publishedAt": "2017-08-13T05:07:23.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Watch: Face Off@9 With Marya Shakil And Shreya Dhoundial",
+        "description": "Watch the day's top stories in Face Off@9 With Marya Shakil And Shreya Dhoundial.\n\nFor more stories         http://news18.com\n \nConnect with us \n\nFacebook              https://www.facebook.com/cnnnews18\nTwitter                   https://twitter.com/news18\nYouTube               http://www.youtube.com/c/cnnnews18",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U48QOpBavv8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U48QOpBavv8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U48QOpBavv8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U48QOpBavv8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "U48QOpBavv8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "U48QOpBavv8",
+        "videoPublishedAt": "2017-08-13T05:07:11.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/VWo1AlSIEJdXMpVMLSB6g7mFc2Q\"",
+      "id": "UEwzSGhNVENXQi1lLTQzZjg3eDBPMGI4MGNlbkxCRXhCYy5GNzk2RTlDQTNCQzJCQzJG",
+      "snippet": {
+        "publishedAt": "2017-08-08T18:19:18.000Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Watch: Face Off@9 With Zakka Jacob",
+        "description": "Watch the day's top stories in Face Off@9 With Zakka Jacob.\n\nFor more stories         http://news18.com\n \nConnect with us \n\nFacebook              https://www.facebook.com/cnnnews18\nTwitter                   https://twitter.com/news18\nYouTube               http://www.youtube.com/c/cnnnews18",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KMM01_ceM4A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KMM01_ceM4A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KMM01_ceM4A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KMM01_ceM4A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "playlistId": "PL3HhMTCWB-e-43f87x0O0b80cenLBExBc",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KMM01_ceM4A"
+        }
+      },
+      "contentDetails": {
+        "videoId": "KMM01_ceM4A",
+        "videoPublishedAt": "2017-08-08T18:19:07.000Z"
+      }
+    }
+  ]
+}

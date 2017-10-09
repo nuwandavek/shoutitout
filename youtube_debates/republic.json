@@ -1,0 +1,2261 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/P7K71_tl99jTdcdG85JSsOSr6CU\"",
+  "nextPageToken": "CDIQAA",
+  "pageInfo": {
+    "totalResults": 51,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/6OkkP4SWpaYn3qH_-ZfD6EckR4I\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC44QzVGQUU2QjE2NDgxM0M4",
+      "snippet": {
+        "publishedAt": "2017-10-04T05:57:08.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "Srinagar Terror Attack: Forces Crush Pakistan's Strike | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nHit the Pakistanis hard now, says Arnab\n\nRead more about the attack►http://bit.ly/2fMmSFh\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wgCuSJ2QVXw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wgCuSJ2QVXw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wgCuSJ2QVXw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wgCuSJ2QVXw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wgCuSJ2QVXw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wgCuSJ2QVXw"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/UY9tYpTIiZ2DvRZMbTszAbBapqw\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC5ENjI1QUI0MDI5NEQzODFE",
+      "snippet": {
+        "publishedAt": "2017-10-04T05:42:07.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "Amit Shah In Kerala Declares War On The Left | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nHigh voltage fight for Kerala.\n\nREAD | BJP's Campaign Against Left In Kerala►http://bit.ly/2fM85KQ\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/maazqdFcbLM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/maazqdFcbLM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/maazqdFcbLM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/maazqdFcbLM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/maazqdFcbLM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "maazqdFcbLM"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/1IhhGDLp7OScf-FOB6mBjl1aiaw\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC41RTNBREYwMkI5QzU3RkY2",
+      "snippet": {
+        "publishedAt": "2017-10-03T05:28:52.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "Hrithik Roshan Accuses Kangana Ranaut Of STALKING | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nHrithik stalked, hounded by Kangana?\n\nRead more about Hrithik's Complaint►http://bit.ly/2yEWmBe\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AkFs4BX13gY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AkFs4BX13gY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AkFs4BX13gY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AkFs4BX13gY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AkFs4BX13gY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AkFs4BX13gY"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/DPPQfIaO3J0DoxwKU-cOcegZw74\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC40QzRDOEU0QUYwNUIxN0M1",
+      "snippet": {
+        "publishedAt": "2017-10-03T05:24:04.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "VVIP Racism: Aditya Narayan ABUSES Airline Staff | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nIf this is not a new form of Apartheid, then what is? Arnab asks\n\nWATCH | Aditya Narayan Misbehaves With Airline Staff►http://bit.ly/2wuq8rW\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RceG2IQHThA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RceG2IQHThA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RceG2IQHThA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RceG2IQHThA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RceG2IQHThA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RceG2IQHThA"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/Kd2x_-fpus0myZnrBdyGIh_Zqx0\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC4yQjZFRkExQjFGODk3RUFD",
+      "snippet": {
+        "publishedAt": "2017-09-30T05:37:53.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "#OurLivesMatter: Strip Down Every VVIP Privilege | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nEnough VVIP racism, enough.The stampede took place on the North foot overbridge at the station around 10:30 am.\n\nRead more about the Stampede►http://bit.ly/2fCP4uc\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/87aCTM7y7aw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/87aCTM7y7aw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/87aCTM7y7aw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/87aCTM7y7aw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/87aCTM7y7aw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "87aCTM7y7aw"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/J1Lfb9DyvLLWsKRzQ-8eRYYm4eo\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC4yQUJFNUVCMzVDNjcxRTlF",
+      "snippet": {
+        "publishedAt": "2017-09-30T05:37:53.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "Stampede At Elphinstone Station - 22 People Dead | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\n5 warnings were ignored. The stampede took place on the North foot overbridge at the station around 10:30 am.\n\nRead more about the Stampede►http://bit.ly/2fCP4uc\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aLdXRWt021U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aLdXRWt021U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aLdXRWt021U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aLdXRWt021U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aLdXRWt021U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aLdXRWt021U"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/GE5d8MawF2MYzd91yP2x2MI4Jgs\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC41MzY4MzcwOUFFRUU3QzEx",
+      "snippet": {
+        "publishedAt": "2017-09-29T08:37:01.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "Economy WAR: Can UPA Really Complain? | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nYashwant Sinha's article in a leading newspaper can't be dismissed as personal ambition or angst against this government, Congress members said. \n\nRead more about Yashwant Sinha's Article►http://bit.ly/2fuySaL\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DTCNKoCksSI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DTCNKoCksSI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DTCNKoCksSI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DTCNKoCksSI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DTCNKoCksSI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DTCNKoCksSI"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/4DpW7h-cq9OgZ2c_biIIvTpHgMg\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC5DRUQwODMxQzUyRTlGRkY3",
+      "snippet": {
+        "publishedAt": "2017-09-29T07:00:57.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "Economy WAR: Arun Jaitley Vs Yashwant Sinha | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nYashwant Sinha's article in a leading newspaper can't be dismissed as personal ambition or angst against this government, Congress members said. \n\nRead more about Yashwant Sinha's Article►http://bit.ly/2fuySaL\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AZWITfHRPqI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AZWITfHRPqI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AZWITfHRPqI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AZWITfHRPqI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AZWITfHRPqI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AZWITfHRPqI"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/mwa6xj0wAm8k2SqM7xiQuRP9NGE\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC5DNkMwRUI2MkI4QkI4NDFG",
+      "snippet": {
+        "publishedAt": "2017-09-28T05:23:16.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "Bofors Scam: CBI Exposes UPA Completely | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nBofors hearing in SC on October 8\n\nRed more about Bofors Scam►http://bit.ly/2fAhncN\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y-nfv7uM1XM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y-nfv7uM1XM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y-nfv7uM1XM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/y-nfv7uM1XM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/y-nfv7uM1XM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "y-nfv7uM1XM"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/yzttIpeOJ0ddMcWFnSu20r-xCPw\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC45NkVENTkxRDdCQUFBMDY4",
+      "snippet": {
+        "publishedAt": "2017-09-28T05:23:12.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "Al Qaeda Man Planned To Train Rohingyas | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nGlobe - trotting Rohingya terror trainer\n\nREAD | Rajnath Singh On Rohingya Muslims►http://bit.ly/2xl7RyA\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NnsPlzL-yDg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NnsPlzL-yDg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NnsPlzL-yDg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NnsPlzL-yDg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NnsPlzL-yDg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NnsPlzL-yDg"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/YuaxJ-x1SmKitQM9WCUJB6P1_lo\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC4zQzFBN0RGNzNFREFCMjBE",
+      "snippet": {
+        "publishedAt": "2017-09-27T05:33:25.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "Hafiz Saeed-Rohingya Link EXPOSED | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nDirect Pak link to Hindu massacre\n\nREAD | Rajnath Singh On Rohingya Muslims►http://bit.ly/2xl7RyA\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x-gq6kMjbco/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x-gq6kMjbco/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x-gq6kMjbco/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x-gq6kMjbco/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/x-gq6kMjbco/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "x-gq6kMjbco"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/X-MMtpJlk6dJ4L4KXc2OkcINpx0\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC5GNDg1Njc1QzZERjlFRjE5",
+      "snippet": {
+        "publishedAt": "2017-09-27T05:23:13.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "Pakistan Attacks FAIL - Time For Surgical Strike 2.0? | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nPak's flop revenge attack\n\nREAD | Pakistan DUMPS Hafiz Saaed►http://bit.ly/2wUH3bc\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z_UTpYgVme4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z_UTpYgVme4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z_UTpYgVme4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/z_UTpYgVme4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/z_UTpYgVme4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "z_UTpYgVme4"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/7RPoEi0oqOJ8g-QrAR1Dp9xmRqg\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC4xOTEzQzhBQzU3MDNDNjcz",
+      "snippet": {
+        "publishedAt": "2017-09-26T06:15:02.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "India Tears Apart Pakistan At The UN | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nPak left red faced on world stage\n\nREAD | Rajnath Singh On Rohingya Muslims►http://bit.ly/2xl7RyA\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7Gcc4Y7qcrA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7Gcc4Y7qcrA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7Gcc4Y7qcrA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7Gcc4Y7qcrA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7Gcc4Y7qcrA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7Gcc4Y7qcrA"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/T63KqdfrKIMkM3CH75s_xXNvHCw\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC5BRjJDODk5REM0NjkzMUIy",
+      "snippet": {
+        "publishedAt": "2017-09-26T06:11:43.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "Rohingya Terror EXPOSED | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nBodies of 45 Hindus found in Rakhine\n\nREAD | Rajnath Singh On Rohingya Muslims►http://bit.ly/2xl7RyA\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tiyQUhjOwY0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tiyQUhjOwY0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tiyQUhjOwY0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tiyQUhjOwY0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tiyQUhjOwY0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tiyQUhjOwY0"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/87xv2PqUghi-zQKLmBKMZYqNOX0\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2017-09-25T05:52:38.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "#LutyensKashmirHypocrisy: Over 50 Kashmiris Killed In 9 Months | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nLoud on pellets, silent on Pak bullets\n\nREAD | Rajnath Singh On Rohingya Muslims►http://bit.ly/2xl7RyA\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Va7NphiAVeg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Va7NphiAVeg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Va7NphiAVeg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Va7NphiAVeg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Va7NphiAVeg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Va7NphiAVeg"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/f1qnHAOyB3gsk3DaH6f59UJMLaM\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2017-09-25T05:52:31.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "#NoMoreAppeasement: Attempt To Block Immersion Stopped | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nWhy is Mamata Banerjee playing competitive festival politics?\n\nREAD | Rajnath Singh On Rohingya Muslims►http://bit.ly/2xl7RyA\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fhY7FX5z2Bo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fhY7FX5z2Bo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fhY7FX5z2Bo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fhY7FX5z2Bo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fhY7FX5z2Bo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fhY7FX5z2Bo"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/F6rBGY3AOjtByK9qmjqSwKQyWWk\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2017-09-21T05:40:00.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "BAN \"Nikah\" Sex Racket In Hyderabad | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nCrackdown now, complete ban next? Arnab asks the panelists\n\nREAD | #BanNikahSexRacket►http://bit.ly/2fa3rCp\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GRURdniYCGQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GRURdniYCGQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GRURdniYCGQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GRURdniYCGQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GRURdniYCGQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GRURdniYCGQ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/A_qqijDbCxLudlJZ_S2veRhL3o4\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2017-09-21T05:36:24.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "Bangladesh Wants India's Help Against \"Rohingyas\" | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nBangladesh backs India on Rohingyas\n\nREAD | Rohingyas Muslim Terror Background►http://bit.ly/2wA9DJX\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TUJvMWK5DvA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TUJvMWK5DvA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TUJvMWK5DvA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TUJvMWK5DvA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TUJvMWK5DvA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TUJvMWK5DvA"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/ZyOqZsVMC30yiAqOWEFRumTQSCM\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2017-09-20T05:58:19.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "Zakir Musa Backs Rohingya Muslims | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nAl Qaeda frontman warns Hindus in Kashmir\n\nREAD | International Refugee Crisis Explained►http://bit.ly/2hhqSue\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xA_WMG8iNnk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xA_WMG8iNnk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xA_WMG8iNnk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xA_WMG8iNnk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xA_WMG8iNnk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xA_WMG8iNnk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/cuaiGXitjbrdwL6c5XwMod8lGn4\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2017-09-20T05:56:24.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "Name And Shame The Netas That Helped Dawood | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nTime to name the Mumbai Netas? Arnab asks.\n\nClick here to watch Police Commissioners full interview►http://bit.ly/2fxO6Mx\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9u8vQidcKTY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9u8vQidcKTY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9u8vQidcKTY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9u8vQidcKTY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9u8vQidcKTY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9u8vQidcKTY"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/aCxiJMBn35bVPEV87ty1Nx1TQ4M\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2017-09-19T05:58:56.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "Assam Run Over By Bangladeshis | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nBangladeshis threat to Assam's security.\n\nREAD | Rohingyas Muslim Terror Background►http://bit.ly/2wA9DJX\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/swaSHkHBGuM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/swaSHkHBGuM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/swaSHkHBGuM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/swaSHkHBGuM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/swaSHkHBGuM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "swaSHkHBGuM"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/xDx9FbUAjM_8vT8aY7r5pk8-DW4\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2017-09-19T05:58:49.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "Why People Fighting For \"Rohingyas\" Not Fighting For \"Assamese\"? | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nWhy don't the people fighting for Rohingyas fight for Assamese? Arnab asks on the debate.\n\nREAD | Rohingyas Muslim Terror Background►http://bit.ly/2wA9DJX\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a3s3mTTq4ls/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a3s3mTTq4ls/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a3s3mTTq4ls/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a3s3mTTq4ls/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a3s3mTTq4ls/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "a3s3mTTq4ls"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/41kAfgfAbN7k5gEGgyNs7GCJw0Q\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2017-09-16T08:59:26.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "Mamata And Owaisi Begin Rohingya Politics | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nArnab Asks: Isn't it necessary to de-link religion & terrorism?\n\nRead more about Rohingya muslims►http://bit.ly/2fn8aRv\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T0JmJZ-0JHI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T0JmJZ-0JHI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T0JmJZ-0JHI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/T0JmJZ-0JHI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/T0JmJZ-0JHI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "T0JmJZ-0JHI"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/xxs4DClqhwsuCgKbWoqRwDvfh3c\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2017-09-15T05:28:19.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "Ritabrata Banerjee EXPOSES CPI(M) | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nWhistleblower MP exposes CPM\n\nRead more about Ritabrata Banerjee►http://bit.ly/2wrIkBO\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3SKoqRQyCmo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3SKoqRQyCmo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3SKoqRQyCmo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3SKoqRQyCmo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3SKoqRQyCmo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3SKoqRQyCmo"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/i0ZpwTbCc86mxk-W5XYtMFDee8w\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2017-09-15T05:18:58.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "Amarnath Yatra Attack: Mastermind KILLED | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nIndia hunts them down one by one.\n\nRead about Amarnath Terror Attack►http://bit.ly/2xB8WFj\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tywgkNj1x_w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tywgkNj1x_w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tywgkNj1x_w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tywgkNj1x_w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tywgkNj1x_w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tywgkNj1x_w"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/d90BVUntvK6vIH6hfrBIrXTdZPo\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2017-09-14T05:15:26.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "#KanchiTapes: Should The Case Be Reopened? | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nThe family of Sankararaman is open to filing an appeal.\n\nRead more about the \"Kanchi Tapes\"►http://bit.ly/2wb6sgq\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nNiSS1MmN8k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nNiSS1MmN8k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nNiSS1MmN8k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nNiSS1MmN8k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nNiSS1MmN8k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nNiSS1MmN8k"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/LWWz4s9s-b0NvBW062E7xmcwjv4\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2017-09-14T05:15:16.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "#KanchiTapes: Is There A Bigger Hint & A Lead? | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nPolitical silence on #KanchiTapes\n\nRead more about the \"Kanchi Tapes\"►http://bit.ly/2wb6sgq\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e1Bt5tV5ir4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e1Bt5tV5ir4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e1Bt5tV5ir4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e1Bt5tV5ir4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/e1Bt5tV5ir4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "e1Bt5tV5ir4"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/PFRhOlCuQOcH2_ox1HqNiJl2tR0\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2017-09-13T05:41:21.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "Gauri Lankesh Case: Journalists Join Hands With Politicians | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nHaven't 'Arm chair activists' & 'Lutyens Media'  used Bengaluru Protest to make a political point?, Arnab asks on the debate.\n\nGet Latest Update On Ryan International School Murder►http://bit.ly/2jh8YvG\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zQxtTrU-hR4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zQxtTrU-hR4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zQxtTrU-hR4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zQxtTrU-hR4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zQxtTrU-hR4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zQxtTrU-hR4"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/Jku_3H_tXAku-Yqtrz96qASw5Nc\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2017-09-13T05:25:33.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "Rahul Gandhi's Berkeley Speech - India Runs By Dynasts | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nRahul says India run by dynasts.\n\nRead more about Rahul Gandhi's Speech►http://bit.ly/2xWIhit\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MCu6zmlZadY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MCu6zmlZadY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MCu6zmlZadY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MCu6zmlZadY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MCu6zmlZadY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MCu6zmlZadY"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/SxmWJ9ybIoK2jNOBVwpn1bfYfxg\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2017-09-12T06:22:23.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "73% Of PoK Want Freedom From Pakistan | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nPoK response to survey shocks Pakistan. Opinion collected through 10,000 survey forms.\n\nRead more about #PoKRejectsPakistan►http://bit.ly/2gZZm7P\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Kno-e_f1Kmo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Kno-e_f1Kmo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Kno-e_f1Kmo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Kno-e_f1Kmo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Kno-e_f1Kmo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Kno-e_f1Kmo"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/fIUgRdO5PmZyPSMaiu4BJCf4bnc\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2017-09-12T05:46:47.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "Gurugram Murder: Arrest Ryan Pinto | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nJust how unsafe were the students at Ryan International School, Gurugram, and how unconcerned were the owners?\n\nGet Latest Update On Ryan International School Murder►http://bit.ly/2jh8YvG\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t96pK2z1tbM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t96pK2z1tbM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t96pK2z1tbM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t96pK2z1tbM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t96pK2z1tbM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "t96pK2z1tbM"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/70MX3HVtjmTAmDEUZcZnuzi3rQ4\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2017-09-09T13:29:50.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "Is The Pseudo Liberal Lobby The Biggest Lynch Mob? | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nAs an all-out fight breaks out between the Left Wing and the Right Wing following the murder of journalist Gauri Lankesh, Arnab questions the hypocrisy of the 'pseudo liberal' brigade on The Debate\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o4PCRsA6nWY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o4PCRsA6nWY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o4PCRsA6nWY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o4PCRsA6nWY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o4PCRsA6nWY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "o4PCRsA6nWY"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/2i0l18WWPBRQI6yj-Vb2ZhApFzM\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2017-09-09T13:29:34.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "Sex Racket Under Garb Of Marriage? | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\nAfter Republic TV exposes sex rackets in the name of marriage, Arnab debates whether it's time put an end to this practice.\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zDdLxxlo0Qc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zDdLxxlo0Qc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zDdLxxlo0Qc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zDdLxxlo0Qc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zDdLxxlo0Qc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zDdLxxlo0Qc"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/HbXeFtnBNcu3Rk6cc77oVlYrZFo\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2017-09-08T05:38:54.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "Stop The \"Gauri Guessing Game\" | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nDid the Lutyens lobby get it wrong? Arnab asks the panelists\n\nRead more about Gauri Lankesh Murder►http://bit.ly/2eJQP8p\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aTjmyKu9Mq4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aTjmyKu9Mq4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aTjmyKu9Mq4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aTjmyKu9Mq4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aTjmyKu9Mq4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aTjmyKu9Mq4"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/tB6qfJA-lX1naIl6vE3XDxgBvnU\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2017-09-08T05:33:06.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "Tarun Tejpal Case: Will Victim Shamers Now Apologise? | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nArnab asks on the debate, Court orders framing of charges, will 'victim shamers' now apologise?\n\nRead more about Tarun Tejpal's Case►http://bit.ly/2eNjsBx\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wmT9fnl2L0Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wmT9fnl2L0Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wmT9fnl2L0Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wmT9fnl2L0Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wmT9fnl2L0Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wmT9fnl2L0Q"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/OXB4it6lebVj3EjeuWoIXGH1UT8\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2017-09-07T05:18:24.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "Gauri Lankesh Murder: Opposition Blaming BJP & RSS | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nAfter Gauri lankesh's death, Should the opposition blame the RSS and the BJP or should they shed some light on evidence?\n\nRead more about Gauri Lankesh Murder►http://bit.ly/2eJQP8p\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yKxJwWQatV0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yKxJwWQatV0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yKxJwWQatV0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yKxJwWQatV0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yKxJwWQatV0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yKxJwWQatV0"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/UUb88NFQvBMB0sf0sw2DWZFK5_Y\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2017-09-06T12:06:04.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "Pakistan ATTACKS China | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nAfter even Pakistan's 'all-weather' friend China dumps Pakistan, Arnab debates whether Pak has to introspect and realise that it has become a terror state.\n\nRead more about PM Modi in China ►http://bit.ly/2eAUMvR\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ymPQa8oV8UI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ymPQa8oV8UI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ymPQa8oV8UI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ymPQa8oV8UI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ymPQa8oV8UI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ymPQa8oV8UI"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/vMTS-APHyZfPj_uq5-j7x0ca91o\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2017-09-06T05:16:05.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "Mamata Banerjee TARGETS RSS | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nFirst Kerala, then Karnataka and now West Bengal. Arnab debates whether the RSS is being targeted by the Opposition\n\nRead more about RSS Vs Opposition►http://bit.ly/2wET6YK\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bgf7MlKaEls/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bgf7MlKaEls/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bgf7MlKaEls/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bgf7MlKaEls/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bgf7MlKaEls/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bgf7MlKaEls"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/WikQcG0RfQR_w_PZoESYxu6gCK4\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2017-09-05T05:30:58.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "Sunanda Pushkar Murder: New Leela Tapes | The Debate",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nRepublic points out the contradictions and burning questions on the special edition of the Monday debate.\n\nRead latest news on Sunanda Pushkar's case►http://bit.ly/2wsfxyn\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zpDHZy1xAmw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zpDHZy1xAmw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zpDHZy1xAmw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zpDHZy1xAmw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zpDHZy1xAmw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zpDHZy1xAmw"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/snp-UlAsOVQmTlapp3So5DeaZwA\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2017-09-02T17:23:38.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "Part 1: Should Religion Be Kept Out Of Indian Politics? | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nIn a Saturday special broadcast, Arnab asks, “Shouldn’t religious figures be out of Indian politics?”\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zWbqgizaLzQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zWbqgizaLzQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zWbqgizaLzQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zWbqgizaLzQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zWbqgizaLzQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zWbqgizaLzQ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/xFfM2yVUAnlvvfIeG_JjWGGBXGk\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2017-09-02T05:31:13.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "Srinagar \"Eid Attack\" | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nAs terrorists attack policemen in Srinagar, Arnab debates if it's time to wipe terrorism out of the Kashmir valley\n\nRead more about Srinagar Terrorist Attack►http://bit.ly/2iQbA3D\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s22nXaLZuoU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s22nXaLZuoU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s22nXaLZuoU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/s22nXaLZuoU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/s22nXaLZuoU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "s22nXaLZuoU"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/Gbc1-p8qaj7ZCuNVfqUlVB_zjIk\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2017-09-01T05:05:56.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "Pakistan EXPOSED: Dawood In Pakistan | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nAfter former Pak President Pervez Musharraf admitted that Dawood Ibrahim is in Pakistan, Arnab debates if the time has come to declare Pak a state sponsor of terror\n\nRead About Pakistan’s ‘Eid Terror’ Tapes►http://bit.ly/2glcLmZ\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mn-TXvxnO6U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mn-TXvxnO6U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mn-TXvxnO6U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Mn-TXvxnO6U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Mn-TXvxnO6U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Mn-TXvxnO6U"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/NydfCEuw4cBjFsVGw5ZgGej2hAA\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2017-08-30T05:44:28.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "Mumbai Flooded: Where Did All The Money Go? | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nWhere is the money that is allotted to the Mumbai Municipal Corporation?\nShare your views using #MumbaiFlooded and let us know!\n\nRead more about Mumbai rains ►http://bit.ly/2wZtUfR\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hE9MxKvTgTg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hE9MxKvTgTg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hE9MxKvTgTg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hE9MxKvTgTg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hE9MxKvTgTg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hE9MxKvTgTg"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/MiyKpiiBO1XY9IOrXdKuISVPHtA\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2017-08-28T05:18:12.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "Ram Rahim Verdict: Why Is Punjab CM Amarinder Singh Not Resigning? | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nArnab asks: Given the fact that 'Godmen' are used across the political spectrum\n\nRead more about Gurmeet Ram Rahim's Verdict►http://bit.ly/2wq4Uyx\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W7ChNQPnNtg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W7ChNQPnNtg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W7ChNQPnNtg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/W7ChNQPnNtg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/W7ChNQPnNtg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "W7ChNQPnNtg"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/m0fFNkke0bLKvhumIISc04tLzBA\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2017-08-26T05:19:47.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "Mamata Banerjee's Festival Politics | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nAfter Mamata Banerjee halts Durga idol immersion for 24 hours, Arnab debates whether the West Bengal CM is trying to pit one religion against the other for votebank politics\n\nRead more about Mamata's Festival Politics ►http://bit.ly/2wICakq\n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Fsbnkd22PCU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Fsbnkd22PCU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Fsbnkd22PCU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Fsbnkd22PCU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Fsbnkd22PCU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Fsbnkd22PCU"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/iv8au6QBApsILMVhaw1pK7Lp590\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2017-08-24T05:14:38.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "UCC Sting - Links Between AIMPLB And Political Parties | The Debate With Arnab Goswami",
+        "description": "Subscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nArnab debates the need for the Uniform Civil Code after #UCCSting shows links between AIMPLB and political parties.\n\nRead More About Republic's Exclusive UCC Sting ►http://bit.ly/2v87uJQ \n\nClick Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3OQZSCgAQVw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3OQZSCgAQVw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3OQZSCgAQVw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3OQZSCgAQVw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3OQZSCgAQVw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3OQZSCgAQVw"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/6DoVSOfyddt2sDTOP7ndwwFbUuQ\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2017-08-23T11:41:28.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "Triple Talaq BANNED - Celebrations For Indian Women | The Debate With Arnab Goswami",
+        "description": "Click Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy\n\nArnab debates Supreme Court's historic verdict on Triple Talaq and discusses how it's a day of celebration for Indian women\n\nSubscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nGet more news on the website ►http://www.republicworld.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3eRMCZcFufk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3eRMCZcFufk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3eRMCZcFufk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3eRMCZcFufk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3eRMCZcFufk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3eRMCZcFufk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/FsDY-KgratpGOEuux2iUjNgwzNo\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2017-08-23T11:40:54.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "Should Triple Talaq Brigade Apologize? | The Debate With Arnab Goswami",
+        "description": "Click Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy\n\nAhead of the Supreme Court verdict on Triple Talaq, Arnab debates whether it's time for those backing it to accept defeat and apologise\n\nSubscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nGet more news on the website ►http://www.republicworld.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6wJl-UhvEHU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6wJl-UhvEHU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6wJl-UhvEHU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6wJl-UhvEHU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6wJl-UhvEHU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6wJl-UhvEHU"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/9bdI9vWXocZviqwk_fMpmlYToJs\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2017-08-23T11:41:02.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "Why Should Religious Institutions Be Above Ambit Of Legality? | The Debate With Arnab Goswami",
+        "description": "Click Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy\n\nAfter the Yogi govt cracks down on Madrasas, Arnab debates if they are being specifically targetted or if it is the need of the hour\n\nSubscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nGet more news on the website ►http://www.republicworld.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2rBDuISR8rY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2rBDuISR8rY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2rBDuISR8rY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2rBDuISR8rY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2rBDuISR8rY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2rBDuISR8rY"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"VPWTmrH7dFmi4s1RqrK4tLejnRI/o8gkuzYcjVDHCNOHuLCIb0_XpLg\"",
+      "id": "UEw5aUNmeEowcmkzMTFjSkFaMGdUREpXRGhObGJOYmcyaC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2017-08-23T11:41:10.000Z",
+        "channelId": "UCwqusr8YDwM-3mEYTDeJHzw",
+        "title": "Arnab Goswami Talks On The Truth About Col Purohit | The Debate",
+        "description": "Click Here To Watch Arnab Goswami's Latest Debates►http://bit.ly/2uASgcy\n\nAfter Republic TV accesses documents that reveal Col. Purohit was given gallantry awards by the Army, Arnab debates if an Indian Army officer was used for political motive.\n\nSubscribe Now For More Latest News & Updates ►http://bit.ly/2gWogFc\n\nGet more news on the website ►http://www.republicworld.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dnI1UGEKOOE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dnI1UGEKOOE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dnI1UGEKOOE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dnI1UGEKOOE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dnI1UGEKOOE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Republic World",
+        "playlistId": "PL9iCfxJ0ri311cJAZ0gTDJWDhNlbNbg2h",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dnI1UGEKOOE"
+        }
+      }
+    }
+  ]
+}
