@@ -1,7 +1,8 @@
 import json
 from pprint import pprint
+import sys
 
-with open('../data/hafiz.json') as data_file:    
+with open(sys.argv[1]) as data_file:    
   data = json.load(data_file)
 
 def merge(intervals):
