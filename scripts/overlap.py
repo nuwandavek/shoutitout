@@ -1,7 +1,8 @@
 import json
 from pprint import pprint
+import sys
 
-with open('../data/hafiz.json') as data_file:    
+with open(sys.argv[1]) as data_file:    
   data = json.load(data_file)
 
 def merge(intervals):
@@ -15,10 +16,10 @@ def merge(intervals):
     else:
       lower = merged[-1]
       # test for intersection between lower and higher:
-      # we know via sorting that lower[0] <= higher[0]
+      # we know via sorting that lower['start'] <= higher['start']
       if higher['start'] <= lower['end']:
         upper_bound = max(lower['end'], higher['end'])
-        merged[-1] = (lower['start'], upper_bound)  # replace by merged interval
+        merged[-1] = {'start': lower['start'], 'end': upper_bound}  # replace by merged interval
       else:
         merged.append(higher)
   return merged
@@ -60,3 +61,9 @@ for name, intervals in all_intervals:
 intersections = [(name1, name2, intersects(data1, data2) ) for name1, data1 in all_intervals for name2, data2 in all_intervals]
 intersections_sum = [(name1, name2, sumIntervals(intervals)) for name1, name2, intervals in intersections]
 pprint(intersections_sum)
+print 'total time: {}'.format(data['duration'])
+
+concat_intervals = reduce(lambda a, b: a + b, [intervals[1] for intervals in all_intervals])
+merged = merge(concat_intervals)
+
+print 'total spoken time: {}'.format(sumIntervals(merge(concat_intervals)))
