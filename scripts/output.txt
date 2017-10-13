@@ -1,0 +1,16 @@
+(after removing intro intervals)
+
+arnab: 1167.599241
+for: 1221.224137
+against: 1479.264343
+[('arnab', 'arnab', 1167.5992410000022),
+ ('arnab', 'for', 376.4631080000013),
+ ('arnab', 'against', 592.2714410000008),
+ ('for', 'arnab', 376.4631080000013),
+ ('for', 'for', 1221.224137000001),
+ ('for', 'against', 960.5802500000004),
+ ('against', 'arnab', 592.2714410000008),
+ ('against', 'for', 960.5802500000004),
+ ('against', 'against', 1479.2643429999998)]
+total time: 2391.261
+total spoken time: 2238.481128

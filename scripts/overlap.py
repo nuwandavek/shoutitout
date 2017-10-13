@@ -53,7 +53,13 @@ def intersects(a,b):
   ranges = [{'start': x[0], 'end': x[1]} for x in ranges]
   return ranges
 
-all_intervals = [(x, merge(data[x])) for x in ['arnab', 'for', 'against']]
+introTime = 490
+data['duration'] -= introTime
+# remove all intervals before introTime
+def filterIntroIntervals(intervals):
+  return [{'start': max(a['start'], introTime), 'end': a['end']} for a in intervals if a['end'] > introTime]
+
+all_intervals = [(x, filterIntroIntervals(merge(data[x]))) for x in ['arnab', 'for', 'against']]
 
 for name, intervals in all_intervals:
   print '{}: {}'.format(name, sumIntervals(intervals))
