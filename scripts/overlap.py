@@ -67,6 +67,9 @@ for name, intervals in all_intervals:
 intersections = [(name1, name2, intersects(data1, data2) ) for name1, data1 in all_intervals for name2, data2 in all_intervals]
 intersections_sum = [(name1, name2, sumIntervals(intervals)) for name1, name2, intervals in intersections]
 pprint(intersections_sum)
+# all 3
+all_intersects = reduce(lambda a, b: intersects(a, b), [intervals[1] for intervals in all_intervals])
+print 'all 3 intersection: {}'.format(sumIntervals(all_intersects))
 print 'total time: {}'.format(data['duration'])
 
 concat_intervals = reduce(lambda a, b: a + b, [intervals[1] for intervals in all_intervals])

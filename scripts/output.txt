@@ -1,5 +1,4 @@
 (after removing intro intervals)
-
 arnab: 1167.599241
 for: 1221.224137
 against: 1479.264343
@@ -12,5 +11,7 @@ against: 1479.264343
  ('against', 'arnab', 592.2714410000008),
  ('against', 'for', 960.5802500000004),
  ('against', 'against', 1479.2643429999998)]
+all 3 intersection: 299.708206
 total time: 2391.261
 total spoken time: 2238.481128
+
