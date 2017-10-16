@@ -1,16 +1,88 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>shout-it-out</title>
 	<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
     <script type="text/javascript" src="https://d3js.org/d3.v4.min.js"></script>
     <script type="text/javascript" src="jsmain.js"></script>
+    <script type="text/javascript" src="data.js"></script>
+    <script type="text/javascript" src="jquery.waypoints.min.js"></script>
+    <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="cssmain.css">
+		
     
 </head>
 <body>
-	<div id="svgdiv"></div>
-	<div id="svgdiv2"></div>
-	<div id="svgdiv3"></div>
-	<div id="svgdiv4"></div>
+	<div class="row full">
+		<div class="col-md-8 col-md-offset-2 alignme">
+			<p class="jumbo">The Anatomy of a <span class="ita">Debate</span></p>
+			
+			<div class="col-md-5">
+				<p class="quote">
+					"... From a pseudo secularist, you've become a traitor now..."				
+				</p>
+				<p class="bysig"> - One panelist to another,<br> Republic TV Debate</p>
+			</div>
+			
+			<p class="content">
+				What does it mean when one human calls another, a traitor? What does it mean when a person calls another, an intellectual terrorist? What does it mean when the people in question are panelists in a primetime <i>debate</i> show on India's most watched english news channel? The implication of betrayal towards the state, was not a label used in civil discourse, until very recently. And the bar to make claims without credible, independently verifiable facts, never lower. There are no people-you-disagree-with, anymore - only "sikulars", "man-hating feminazis" and "bhakts". But I have to agree, a Mortal Kombat cage match between a trishool weilding bhakt and a commie-naxal-sympathizer makes for great TV. 
+			</p>
+
+			<div id="svgdiv4" class="marr" style="text-align: center;"></div>
+			<p class="sec_title">Chapter 1 :  The <i>Debate</i></p>
+			<p class="content">
+				We picked one debate, and decided to beat it to death. The following is the analysis of one debate, from the immensely popular <i>debate</i> show featuring the legend, Arnab Goswami on Republic TV. Here's the link to the video. Watch it at the risk of your own sanity. The analysis tries very hard to separate the content of the debate from the medium/framework. The critique is not so much against what Arnab or the panelists say, but how they go about doing it. A win at this point is convincing people on both sides of the debate that this is probably not how we should talk to each other. Here goes!    
+			</p>
+			
+			<div>
+				<img src="arnab.jpg" class="img img-responsive " id="timelines-pre">
+			</div>
+			<div style="margin-top: 50px" id="timelines">
+				<div id="svgdiv00" class="col-md-12"></div>
+				<div id="svgdiv0" class="col-md-12"></div>
+				<div id="svgdiv" class="col-md-12"></div>
+				<div id="svgdiv2" class="col-md-12"></div>
+				<div id="svgdiv3" class="col-md-12"></div>
+				<p class="sec_title2">
+					But wait a minute, this doesn't make any sense. That adds up to 150.7% of the show! Exactly. It does add up to that, which brings us to the next chapter.
+				</p>
+				
+			</div>
+			<p class="sec_title">Chapter 2 : The Epidemic of Speaking Over Eachother</p>
+			<div class="col-md-12">
+				<div id="venn" class="col-md-6" style="text-align: center;"></div>
+				<div class="col-md-6"><p>
+
+					<span style="font-size: 25px; font-weight: 600">More than one person speaks at a time, for a whopping 59.4% of the debate. and all three parites - Arnab, pro-Arnab, and anti-Arnab - speak together for 13.39% of the debate.</span>
+					<br>
+					The show lasts for 48.02 mins, out of which the first 8.17 mins are occupied by an intro video followed by a reporter. The actual debate is 39.8 mins long, out of which there is 37.3 mins of speaking time. The speaking time percentages of these entities are calculated against 37.3 mins.
+				</p></div>
+			</div>
+			<div class="col-md-12" style="margin-top:30px">
+				<p class="col-md-6">Despite what must be very close to the metaphorical fish market, it appears like all parties get equal screen time, right? They do, but the insidious aspect of Arnab debates is that he clearly picks a side, sometimes even championing it better than the panelists. So the above Venn diagram needs to be redrawn.<br>Now, the difference in screen time becomes clear. Arnab and team has more than 3 times the screen time as his opponents, whenever they are not shouting over each other. Also, it has to be mentioned that 2 panelists who were anti-arnab did not (get to) say a single word in the entire debate.</p>
+				<div id="venn2" class="col-md-6" style="text-align: center;"></div>
+			</div>
+
+			<p class="sec_title">Chapter 3 : Hotwords</p>
+			<div class="col-md-12">
+				<div id="venn" class="col-md-6" style="text-align: center;"></div>
+				<div class="col-md-6"><p>
+
+					<span style="font-size: 25px; font-weight: 600">More than one person speaks at a time, for a whopping 59.4% of the debate. and all three parites - Arnab, pro-Arnab, and anti-Arnab - speak together for 13.39% of the debate.</span>
+					<br>
+					The show lasts for 48.02 mins, out of which the first 8.17 mins are occupied by an intro video followed by a reporter. The actual debate is 39.8 mins long, out of which there is 37.3 mins of speaking time. The speaking time percentages of these entities are calculated against 37.3 mins.
+				</p></div>
+			</div>
+			<div class="col-md-12" style="margin-top:30px">
+				<p class="col-md-6">Despite what must be very close to the metaphorical fish market, it appears like all parties get equal screen time, right? They do, but the insidious aspect of Arnab debates is that he clearly picks a side, sometimes even championing it better than the panelists. So the above Venn diagram needs to be redrawn.<br>Now, the difference in screen time becomes clear. Arnab and team has more than 3 times the screen time as his opponents, whenever they are not shouting over each other. Also, it has to be mentioned that 2 panelists who were anti-arnab did not (get to) say a single word in the entire debate.</p>
+				<div id="venn2" class="col-md-6" style="text-align: center;"></div>
+			</div>
+			<p class="content">
+				This was not an academic effort to understand the Indian television news landscape, but an effort nevertheless to view it through the lens of a framework based on logic and measured response, that has been long abandoned by the 24x7 news media. I began by looking at the last 50 debate shows of the top 7 english news channels of India, but soon realized that aggregate statistics fail to highlight the real issue with these shows. Republic TV has had a debate on Pakistan/Terrorism/Religion/Kashmir in 64% of the last 50 debates, while Mirror Now has had a mere 4% debates on the subject. On the contrary, Mirror now has had 28% debates on the economy where as Republic has had 4%. We can see that the two channels are clearly focussing on different things, but we do not have anchors and metrics to comprehend what these numbers mean. We need to look at the content, and more importantly, the method. But going beyond simple sentiment analysis or distribution of topics, however, is limited simply by the fact that we do not have data. So, we set about creating it. Arpit wrote a chrome extention to annotate speaker times in youtube videos. But we soon realized that any meaningful aggregation (and the resulting conslusion) needs to be operated on a large amount of data - data we could simply not generate, as two individuals.
+				
+			</p>
+		</div>
+	</div>
 </body>
 </html>

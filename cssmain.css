@@ -1,0 +1,67 @@
+body{
+	background-color: #eeeeee;
+	text-align: center;
+	font-size: 20px;
+	font-family: 'Josefin Sans';
+}
+
+.row{
+	margin : 0px;
+	padding: 0px;
+}
+
+.jumbo{
+	font-size: 80px;
+	margin-top: 50px;
+	padding: 20px;
+	font-weight: 700;
+
+}
+.ita{
+	padding: 20px;
+	padding-bottom: 10px;
+	font-weight: 300;
+	font-style: italic;
+	background-color:#f5c70f;
+}
+.content{
+	text-align: justify;
+}
+.quote{
+	font-style: italic;
+	font-size: 40px;
+	font-weight: 600;
+	text-align: center;
+}
+
+.bysig{
+	text-align: center;
+}
+
+.marr{
+	margin-bottom: 20px;
+}
+
+.alignme{
+	text-align: justify;
+}
+.sec_title{
+	font-size: 40px;
+	margin-bottom: 10px;
+	margin-top: 50px;
+}
+
+.sec_title2{
+	font-size: 30px;
+	margin-bottom: 10px;
+	margin-top: 30px;
+}
+.txt1{
+	fill: #eeeeee;
+}
+#venn{
+	background-color: #333333;
+}
+#venn2{
+	background-color: #333333;
+}
