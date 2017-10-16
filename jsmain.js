@@ -45,6 +45,66 @@ var circleEnlarger = function(){
     d3.selectAll(".txt1").transition().delay(1000).duration(1000).attr("opacity",1);
 }
 
+var populateHotWords = function(word,svg,scale){
+    console.log(word);
+
+    var  rad = d3.scaleLinear().range([0, 150]).domain([0,25]);
+    svg.selectAll(".hotBubble1").data(hotwords.Arnab[word].times).enter().append("circle")
+        .attr("cx",function(d){
+            return scale(d);
+        })
+        .attr("cy",70).attr("r",0).attr("fill","#EB6B56").attr("opacity",0.4)
+        .attr("stroke","#eeeeee").attr("stroke-width",0.1).attr("class","hotbub1");
+
+    svg.selectAll(".hotBubble1").data(hotwords.For[word].times).enter().append("circle")
+        .attr("cx",function(d){
+            return scale(d);
+        })
+        .attr("cy",70).attr("r",0).attr("fill","#f39c12").attr("opacity",0.4)
+        .attr("stroke","#eeeeee").attr("stroke-width",0.1).attr("class","hotbub2");
+
+    svg.selectAll(".hotBubble1").data(hotwords.Against[word].times).enter().append("circle")
+        .attr("cx",function(d){
+            return scale(d);
+        })
+        .attr("cy",70).attr("r",0).attr("fill","#44B39D").attr("opacity",0.4)
+        .attr("stroke","#eeeeee").attr("stroke-width",0.1).attr("class","hotbub3");
+    svg.selectAll(".hotBubble1").data(hotwords.Intro[word].times).enter().append("circle")
+        .attr("cx",function(d){
+            return scale(d);
+        })
+        .attr("cy",70).attr("r",0).attr("fill","#3498db").attr("opacity",0.4)
+        .attr("stroke","#eeeeee").attr("stroke-width",0.1).attr("class","hotbub4");
+
+    svg.append("circle").attr("cx",scale(8*60)).attr("cy",270).attr("r",0).attr("fill","#EB6B56").attr("class","hotbub5");
+    svg.append("circle").attr("cx",scale(24*60)).attr("cy",270).attr("r",0).attr("fill","#f39c12").attr("class","hotbub6");
+    svg.append("circle").attr("cx",scale(40*60)).attr("cy",270).attr("r",0).attr("fill","#44B39D").attr("class","hotbub7");
+
+    d3.selectAll(".hotbub1").transition().duration(1000).attr("r",20);
+    d3.selectAll(".hotbub2").transition().duration(1000).attr("r",20);
+    d3.selectAll(".hotbub3").transition().duration(1000).attr("r",20);
+    d3.selectAll(".hotbub4").transition().duration(1000).attr("r",20);
+    d3.select(".hotbub5").transition().duration(1000).attr("r",rad(hotwords.Arnab[word].counts));
+    d3.select(".hotbub6").transition().duration(1000).attr("r",rad(hotwords.For[word].counts));
+    d3.select(".hotbub7").transition().duration(1000).attr("r",rad(hotwords.Against[word].counts));
+
+
+    svg.append("text").attr("x",scale(8*60)).attr("y",450).attr("font-size",20).attr("text-anchor","middle").attr("fill","#eee")
+    .attr("class","hotbubtxt").text("Count : " + hotwords.Arnab[word].counts);
+
+    svg.append("text").attr("x",scale(24*60)).attr("y",450).attr("font-size",20).attr("text-anchor","middle").attr("fill","#eee")
+    .attr("class","hotbubtxt").text("Count : " + hotwords.For[word].counts);
+
+    svg.append("text").attr("x",scale(40*60)).attr("y",450).attr("font-size",20).attr("text-anchor","middle").attr("fill","#eee")
+    .attr("class","hotbubtxt").text("Count : " + hotwords.Against[word].counts);
+
+    svg.append("text").attr("x",scale(24*60)).attr("y",495).attr("font-size",30).attr("text-anchor","middle").attr("fill","#eee")
+    .attr("class","hotbubtxt").text("Hotword : " + word);
+
+
+}
+
+
 $(document).ready(function(){
     timeinsecs = interval_data.duration;
     var  x = d3.scaleLinear().range([10, 790]).domain([0,timeinsecs]);
@@ -154,6 +214,33 @@ $(document).ready(function(){
             .attr("x",155).attr("y",150).attr("text-anchor","middle").attr("opacity",0).attr("class","txt1").text(overlap[1]['both']);
     
 
+    var hot1 = d3.select("#hotwords1").append("svg").attr("width",800).attr("height",500);
+    hot1.append("rect").attr("x",0).attr("y",69).attr("width",800).attr("height",2).attr("fill","#eeeeee");
+    var p = d3.scaleLinear().range([0, 800]).domain([0,timeinsecs]);
+
+    hot1.append("rect").attr("x",p(0)).attr("width",p(timeinsecs)-p(0)).attr("y",20).attr("height",3).attr("fill","#eeeeee");
+    hot1.append("text").attr("x",p(0)).attr("y",15).attr("font-size",14).attr("fill","#eeeeee").text("0 min");
+    hot1.append("text").attr("x",p(interval_data.debate_start)).attr("y",15).attr("font-size",14).attr("text-anchor","middle").attr("fill","#eeeeee").text("Debate Begins : 8.16min");
+    hot1.append("text").attr("x",p(20*60)).attr("y",15).attr("font-size",14).attr("text-anchor","middle").attr("fill","#eee").text("20min");
+    hot1.append("text").attr("x",p(30*60)).attr("y",15).attr("font-size",14).attr("text-anchor","middle").attr("fill","#eee").text("30min");
+    hot1.append("text").attr("x",p(40*60)).attr("y",15).attr("font-size",14).attr("text-anchor","middle").attr("fill","#eee").text("40min");
+    hot1.append("text").attr("x",p(48*60)).attr("y",15).attr("font-size",14).attr("text-anchor","end").attr("fill","#eee").text("48min");
+    hot1.append("text").attr("x",p(8*60)).attr("y",430).attr("font-size",20).attr("text-anchor","middle").attr("fill","#eee").text("Arnab");
+    hot1.append("text").attr("x",p(24*60)).attr("y",430).attr("font-size",20).attr("text-anchor","middle").attr("fill","#eee").text("Pro-Arnab");
+    hot1.append("text").attr("x",p(40*60)).attr("y",430).attr("font-size",20).attr("text-anchor","middle").attr("fill","#eee").text("Anti-Arnab");
+
+    $(".selectpicker").change(function(){
+        var selectedDeps = $('.selectpicker').val();
+        d3.selectAll(".hotbub1").remove();
+        d3.selectAll(".hotbub2").remove();
+        d3.selectAll(".hotbub3").remove();
+        d3.selectAll(".hotbub4").remove();
+        d3.selectAll(".hotbub5").remove();
+        d3.selectAll(".hotbub6").remove();
+        d3.selectAll(".hotbubtxt").remove();
+        populateHotWords(selectedDeps,hot1,p); 
+    })
+
     var waypoints1 = $('#timelines-pre').waypoint({
         handler: function(direction) {
             console.log(this.element.id + ' hit')
@@ -176,6 +263,14 @@ $(document).ready(function(){
         offset: '100%'
     });
 
+    var waypoints3 = $('#venn2').waypoint({
+        handler: function(direction) {
+            populateHotWords("Pakistan",hot1,p);
+            $('.selectpicker').selectpicker('val', 'Pakistan');   
+        }
+    }, {
+        offset: '100%'
+    });
 
 
 

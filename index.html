@@ -10,6 +10,9 @@
     <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="cssmain.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.4/css/bootstrap-select.min.css">
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.4/js/bootstrap-select.min.js"></script>
+
 		
     
 </head>
@@ -64,19 +67,30 @@
 				<div id="venn2" class="col-md-6" style="text-align: center;"></div>
 			</div>
 
-			<p class="sec_title">Chapter 3 : Hotwords</p>
-			<div class="col-md-12">
-				<div id="venn" class="col-md-6" style="text-align: center;"></div>
-				<div class="col-md-6"><p>
+			<p class="sec_title marr">Chapter 3 : Hotwords</p>
+			<div class="col-md-12" style="text-align: center;">
 
-					<span style="font-size: 25px; font-weight: 600">More than one person speaks at a time, for a whopping 59.4% of the debate. and all three parites - Arnab, pro-Arnab, and anti-Arnab - speak together for 13.39% of the debate.</span>
-					<br>
-					The show lasts for 48.02 mins, out of which the first 8.17 mins are occupied by an intro video followed by a reporter. The actual debate is 39.8 mins long, out of which there is 37.3 mins of speaking time. The speaking time percentages of these entities are calculated against 37.3 mins.
-				</p></div>
-			</div>
-			<div class="col-md-12" style="margin-top:30px">
-				<p class="col-md-6">Despite what must be very close to the metaphorical fish market, it appears like all parties get equal screen time, right? They do, but the insidious aspect of Arnab debates is that he clearly picks a side, sometimes even championing it better than the panelists. So the above Venn diagram needs to be redrawn.<br>Now, the difference in screen time becomes clear. Arnab and team has more than 3 times the screen time as his opponents, whenever they are not shouting over each other. Also, it has to be mentioned that 2 panelists who were anti-arnab did not (get to) say a single word in the entire debate.</p>
-				<div id="venn2" class="col-md-6" style="text-align: center;"></div>
+
+
+				<select class="selectpicker" title="Select a Hotword">
+				  <optgroup label="Select a Hotword">
+				    <option>Pakistan</option>
+				    <option>Myanmar</option>
+				    <option>Terror</option>
+				    <option>Pseudo</option>
+				    <option>Refugee</option>
+				    <option>Illegal Immigrant</option>
+				    <option>Hindu</option>
+				    <option>Muslim</option>
+				  </optgroup>
+				</select>
+
+				<div id="hotwords1" class="col-md-12" style="text-align: center;"></div>
+				<div id="hotwords2" class="col-md-12" style="text-align: center;"></div>
+				<div class="col-md-12">
+					<p>
+					</p>
+				</div>
 			</div>
 			<p class="content">
 				This was not an academic effort to understand the Indian television news landscape, but an effort nevertheless to view it through the lens of a framework based on logic and measured response, that has been long abandoned by the 24x7 news media. I began by looking at the last 50 debate shows of the top 7 english news channels of India, but soon realized that aggregate statistics fail to highlight the real issue with these shows. Republic TV has had a debate on Pakistan/Terrorism/Religion/Kashmir in 64% of the last 50 debates, while Mirror Now has had a mere 4% debates on the subject. On the contrary, Mirror now has had 28% debates on the economy where as Republic has had 4%. We can see that the two channels are clearly focussing on different things, but we do not have anchors and metrics to comprehend what these numbers mean. We need to look at the content, and more importantly, the method. But going beyond simple sentiment analysis or distribution of topics, however, is limited simply by the fact that we do not have data. So, we set about creating it. Arpit wrote a chrome extention to annotate speaker times in youtube videos. But we soon realized that any meaningful aggregation (and the resulting conslusion) needs to be operated on a large amount of data - data we could simply not generate, as two individuals.
