@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>shout-it-out</title>
+	<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	
+    
+    <script type="text/javascript" src="https://d3js.org/d3.v4.min.js"></script>
+    <script type="text/javascript" src="jsmain.js"></script>
+    <script type="text/javascript" src="data.js"></script>
+    <script type="text/javascript" src="jquery.waypoints.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="cssmain.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.4/css/bootstrap-select.min.css">
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.4/js/bootstrap-select.min.js"></script>
+	<link href="https://fonts.googleapis.com/css?family=Josefin+Sans:300,400,700" rel="stylesheet">
+
+
+	<meta property="og:url"           content="http://vivekaithal.co/shoutitout" />
+	<meta property="og:type"          content="website" />
+	<meta property="og:title"         content="Anatomy of a Debate" />
+	<meta property="og:description"   content="There are no people-you-disagree-with, anymore - only 'sikulars', 'man-hating feminazis' and 'bhakts'. But I have to agree, a Mortal Kombat cage match between a trishool weilding bhakt and a commie-sympathizing-sikular makes for great TV. One Arnab Goswami debate." />
+	<meta property="og:image"         content="https://raw.githubusercontent.com/nuwandavek/shoutitout/master/fbog.jpg" />
+
+
+		
+    
+</head>
+<body>
+	<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.10&appId=281000682394217";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+	<div class="row full">
+		<div class="col-md-8 col-md-offset-2 alignme">
+			<p class="jumbo">The Anatomy of a <span class="ita">Debate</span></p>
+			<p class="content" style="text-align: center;">Data : @arpit | Article/Viz : @vivek</p>
+			
+			<div class="col-md-5">
+				<p class="quote">
+					"... From a pseudo secularist, you've become a traitor now..."				
+				</p>
+				<p class="bysig"><br> - <br>One panelist to another,<br> Republic TV Debate<br>26th Sep 2017</p>
+			</div>
+			
+			<p class="content" class="col-md-7">
+				What does it mean when one calls his fellow citizen a <span class="hlight">"traitor"</span>? When he/she labels another <span class="hlight">intellectual terrorist</span>? What does it say about us, when the people in question are panelists of a primetime <i>debate</i> show on India's most watched english news channel? The implication of betrayal towards the state, was not a label used in civil discourse, until very recently. And the bar to make claims without credible, independently verifiable facts, never lower. There are no people-you-disagree-with, anymore - only "sikulars", "man-hating feminazis" and "bhakts". But I have to agree, a <span class="hlight">Mortal Kombat cage match between a trishool weilding bhakt and a commie-sympathizing-sikular makes for great TV.</span> 
+			</p>
+
+			<div id="svgdiv4" class="marr" style="text-align: center;"></div>
+			<p class="sec_title">The <i>Debate</i></p>
+			<p class="content">
+				If you are in India and haven't heard of <span class="hlight">Arnab Goswami</span> by now, you must be living under a literal rock. And you must be lucky. We all hear/discuss about how he shouts a lot, in an endearing way, because <span class="hlight">he speaks truth to power, amirite? No, he doesn't.</span> Arnab succeeds in confusing his viewers, which he then uses to thrust his opinion as truth. It is not so much his content, but his method that makes him most effective. Which is why, we decided to distil his content from his method. The critique is not so much against what Arnab or the panelists say, but how they go about doing it. A win at this point is convincing people on both sides of the debate that this is probably not how we should talk to each other. We picked one debate, and decided to beat it to death. Here's the <a href="https://www.youtube.com/watch?v=x-gq6kMjbco">link</a> to the video. Watch it at the risk of your own sanity. <span class="hlight">Arnab uses 4 broad tools, to accomplish his goal in every debate</span> : 
+				<ol>
+					<li><span class="hlight">Shouting over each other</span> to ensure all arguments seem equally obvious, and none are comprehensible</li>
+					<li>Dedicating a <span class="hlight">disproportionate amount of time to the side he favours</span>, to do more than just ensure (an often false) equivalency of ideas</li>
+					<li><span class="hlight">Using certain terms and not using certain terms</span>, repeatedly, for better recall</li>
+					<li>Use <span class="hlight">Red Herring arguments</span> to direct the debate from anything remotely relevant, and use <span class="hlight">Ad Hominem<span class="hlight"> attacks when they fail</li>
+				</ol>
+				We're trying to shed some light on each of these methods, with some data[0].   
+			</p>
+			
+			<div>
+				<img src="arnab.jpg" class="img img-responsive " id="timelines-pre">
+			</div>
+			<p class="sec_title">Chapter 1 : The Epidemic of Speaking Over Eachother</p>
+			
+			<div style="margin-top: 50px" id="timelines">
+				<div id="svgdiv00" class="col-md-12"></div>
+				<div id="svgdiv0" class="col-md-12"></div>
+				<div id="svgdiv" class="col-md-12"></div>
+				<div id="svgdiv2" class="col-md-12"></div>
+				<div id="svgdiv3" class="col-md-12"></div>
+				<p class="sec_title2">
+					But wait a minute, this doesn't make any sense. <span class="hlight">Total Speech time adds up to 150.7% of the show!</span> Exactly. It does add up to that, which brings us to this.
+				</p>
+				
+			</div>
+			<div class="col-md-12">
+				<div id="venn" class="col-md-6" style="text-align: center;"></div>
+				<div class="col-md-6"><p class="content">
+
+					<span class="hlight">More than one person speaks</span> at a time, for a whopping <span class="hlight">59.4% of the debate</span>. and all three parites - Arnab, pro-Arnab, and anti-Arnab - <span class="hlight">speak all at once for a mindnumbing 13.39% of the debate.</span>
+					<br>
+					The show lasts for 48.02 mins, out of which the first 8.17 mins are occupied by an intro video followed by a reporter. The actual debate is 39.8 mins long, out of which there is 37.3 mins of speaking time. The speaking time percentages of these entities are calculated against 37.3 mins.
+				</p>
+			</div>
+			</div>
+			<p class="sec_title marr">Chapter 2 : More Talk /= More Truth</p>			
+			<div class="col-md-12" style="margin-top:30px">
+				<p class="col-md-6">Despite what must be very close to the metaphorical fish market, <span class="hlight">it appears like all parties get equal screen time, right?</span> They do, but the insidious aspect of Arnab debates is that he clearly picks a side, sometimes even championing it better than the panelists. So the above Venn diagram needs to be redrawn.<br>Now, the difference in screen time becomes clear. <span class="hlight">Arnab and team has more than 3 times the screen time as his opponents</span>, whenever they are not shouting over each other. Also, it has to be mentioned that <span class="hlight">2 panelists who were anti-arnab did not (get to) say a single word</span> in the entire debate.</p>
+				<div id="venn2" class="col-md-6" style="text-align: center;"></div>
+			</div>
+
+			<p class="sec_title marr">Chapter 3 : Hotwords</p>
+			<div class="col-md-12" style="text-align: center;">
+
+
+
+				<select class="selectpicker" title="Select a Hotword">
+				  <optgroup label="Select a Hotword">
+				    <option>Pakistan</option>
+				    <option>Myanmar</option>
+				    <option>Terror</option>
+				    <option>Pseudo</option>
+				    <option>Refugee</option>
+				    <option>Illegal Immigrant</option>
+				    <option>Hindu</option>
+				    <option>Muslim</option>
+				  </optgroup>
+				</select>
+
+				<div id="hotwords1" class="col-md-12" style="text-align: center;"></div>
+				<div id="hotwords2" class="col-md-12" style="text-align: center;"></div>
+				<div class="col-md-12">
+					<p>
+					</p>
+				</div>
+				<div><img src="refmig.jpg" class="img img-responsive col-md-5" id="refmig"></div>
+				<p class="content" style="margin-top: 30px">
+					Words uttered, especially across different view-points, are insightful in understanding priority and the general narrative of the debate. In this particular debate, <span class="hlight">Arnab mentioned "Pakistan" 21 times, and Myanmar a mere 6 times.</span> The word <span class="hlight">"Terror" was uttered 37 times</span>, and was spread out throughout the debate. He also loves the words "Pseudo" for some reason. Though the choice of hotwords under observation are subjective, the distribution of the chosen words do paint a picture of the tone of the debate. An extremely telling example of this is that <span class="hlight">Rohingyas were referred to as "Illegal Immigrants" 10 times by Arnab and team, whereas they were referred to as "Refugees" a total of zero times.</span> Despite there being a loss of context with measuring word frequency (weather speakers were objecting the use of the word or using it themselves), it certainly speaks volumes about concepts and entities that were integral to the discussion. [There were 3 entities that were also frequent but weren't observed - "Rohingya","India" and "Indian Government".]
+				</p>
+			</div>
+
+			<p class="sec_title marr">Chapter 4 : Red-herrings, Ad Hominems and the Kool-Aid</p>
+			<div id="carousel-time" class="col-md-12"></div>
+			<div id="carousel-example-generic" class="carousel slide caru col-md-12" data-ride="carousel" data-interval=4500>
+  <!-- Indicators -->
+			  
+
+			  <!-- Wrapper for slides -->
+			  <div class="carousel-inner" role="listbox">
+			  </div>
+
+			  <!-- Controls -->
+			  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+			    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+			    <span class="sr-only">Previous</span>
+			  </a>
+			  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+			    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+			    <span class="sr-only">Next</span>
+			  </a>
+			</div>
+
+
+
+			<p class="content">
+				Red herring and hyperbole are Arnab's go-to methods to rile up the panelists. He heckles them with statements such as "You should be ashamed" and "I will continue till you muster the courage to reply". He says things like "The Rohingya will come to every Indian city and take over", which is silly because Bangalore will be under water by the time they get here. His panelists make him proud with their smokescreens and evasions. <span class="hlight">Shubhrashta bellowed "THIS IS NONSENSE!" 6 times, when Dinesh Varshey was speaking. Dinesh Varshey screamed "SHUT UP ARNAB GOSWAMI!" through out the final few minutes of the debate.</span> <br>
+				Almost all panelists evade legitimate questions with counter questions. "Aren't you concerned about Rohingyas being murdered?" is met with "Aren't you concerned about Kashmiri Pandits being murdered?". Arnab especially answers legitimate questions with ridicule and mockery. "Aap kahenge Rohingya terrorist athithi devo bhava", was his response to a question about why India did not treat refugees from other conflict regions with the same contempt and hate. 
+			</p>
+		</div>
+	</div>
+	<div class="row" style="background-color: #333333; color: #eeeeee">
+		<div class="col-md-offset-2 col-md-8">
+			<p style="margin-top: 50px; text-align: justify;">Arnab Goswami <span class="hlight2">is toxic</span>. He uses the tools of confusion illustrated above, to confuse viewers. He then <span class="hlight2">peddles his own opinion as an uncontestable fact.</span> He uses one piece of evidence to generalize the intentions of millions of people. He refuses to answer straight questions. His panelists scream at each other. He chooses to debate over certain things, and chooses not to debate over certain things, and by this choice he shapes what is important in people's minds. He takes advantage of people's fears and vulerabilities, and channels their rage at other individuals. <span class="hlight2">And in my humble opinion, he goes on air every night, and he hurts India, the nation I dearly love.</span></p> <p style="font-size: 2.5em;text-align: center;margin-top: 50px">
+			Make no mistake, this is no debate show. It is WWE. It is entertainment. It is a Mortal Kombat cage match between a trishool weilding bhakt and a commie-sympathizing-sikular. <br>And it makes for really great TV.</p>
+			<a href="next.html">Click here if you want to talk about this article, or future efforts. [We need an incredible amount of help]</a>
+			<div style="text-align: center;height: 100px; margin-top: 20px">
+				<div class="fb-like" data-href="http://vivekaithal.co/shoutitout" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+					<div style="margin-top: 10px"><a href="https://twitter.com/share" class="twitter-share-button" data-show-count="true">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+			</div>
+		</div>
+	</div>
+</body>
+</html>

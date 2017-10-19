@@ -1,0 +1,138 @@
+body{
+	background-color: #eeeeee;
+	text-align: center;
+	font-size: 2em;
+	font-family: 'Josefin Sans';
+}
+
+.row{
+	margin : 0px;
+	padding: 0px;
+}
+
+.jumbo{
+	font-size: 4em;
+	margin-top: 50px;
+	padding: 20px;
+	font-weight: 700;
+	text-align: center;
+
+}
+.ita{
+	padding: 20px;
+	padding-bottom: 10px;
+	font-weight: 300;
+	font-style: italic;
+	background-color:#f5c70f;
+}
+.content{
+	text-align: justify;
+
+}
+.quote{
+	font-style: italic;
+	font-size: 2em;
+	font-weight: 600;
+	text-align: center;
+}
+
+.bysig{
+	text-align: center;
+}
+
+.marr{
+	margin-bottom: 20px;
+}
+
+.alignme{
+	text-align: justify;
+}
+.sec_title{
+	font-size: 2.5em;
+	margin-bottom: 10px;
+	margin-top: 50px;
+	text-align: left;
+}
+
+.sec_title2{
+	font-size: 1.5em;
+	margin-bottom: 10px;
+	margin-top: 30px;
+}
+.txt1{
+	fill: #eeeeee;
+}
+#venn{
+	background-color: #333333;
+}
+#venn2{
+	background-color: #333333;
+}
+
+#hotwords1{
+	background-color: #333333;
+}
+
+.bootstrap-select{
+	margin-bottom: 40px;
+}
+
+.cont-car{
+	text-align: center;
+	margin-top: 70px;
+}
+
+.caru,.item{
+	height: 300px;
+}
+.caru{
+	background-color: #333;
+	margin-bottom: 30px;
+}
+.meti{
+	text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #eeeeee;
+
+}
+#carousel-time{
+	background-color: #333333;
+	text-align: center;
+}
+
+
+.pulse{
+	animation: pulse-me 3s linear infinite;
+}
+
+@keyframes pulse-me{
+	0%{
+		stroke: rgba(200,200,200,0.3);
+		stroke-width : 0px;
+	}
+	50%{
+		stroke:  rgba(200,200,200,0.5);
+		stroke-width : 20px;
+	}
+	70%{
+		stroke: rgba(200,200,200,0.5);
+		stroke-width : 30px;
+	}
+	100%{
+		stroke: rgba(200,200,200,0.3);
+		stroke-width : 40px;
+	}
+}
+
+.hlight{
+	background-color: #e8cb56;
+	padding: 2px;
+}
+
+.hlight2{
+	background-color: #eeeeee;
+	color: #333333;
+	padding: 2px;
+}
