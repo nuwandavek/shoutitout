@@ -100,7 +100,7 @@ var outrageous = [
 {"comment":"..Lutyens brigade usi ke baarein mein likhenge .. inne NDTV ke naam liya aur woh hasrahethe.. mere peechein padjaayenge.. unka hobby hai na aaj kal","time":2344,"who":"Arnab","color":"#EB6B56"},
 {"comment":"Aap kahenge Rohingya terrorist, athithi devo bhava. Hafeez saeed athithi devo bhava, kasab athithi devo bhava","time":2402,"who":"Arnab","color":"#EB6B56"},
 {"comment":"Shut up, shut up arnab goswami! ","time":2404,"who":"Against-Arnab","color":"#44B39D"},
-{"comment":"What was you're party's position during the emergency sir?","time":2605,"who":"Arnab","color":"#EB6B56"},
+{"comment":"What was your party's position during the emergency sir?","time":2605,"who":"Arnab","color":"#EB6B56"},
 {"comment":"I don't change my subjects","time":2641,"who":"Arnab","color":"#EB6B56"},
 {"comment":"You and I may never disagree but that's what our democaracy is all about","time":2749,"who":"Arnab","color":"#EB6B56"},
 {"comment":"Sir, you are being intolerant to me! ","time":2762,"who":"Arnab","color":"#EB6B56"},
