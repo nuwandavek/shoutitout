@@ -172,59 +172,58 @@ $(document).ready(function(){
 
     var venni = d3.select("#venn").append("svg").attr("width", 350).attr("height", 350);
     //venni.append("rect").attr("x",0).attr("y",0).attr("width",400).attr("height",350).attr("fill","#333333");
-    venni.append("circle").attr("cx",140).attr("cy",115).attr("r",0)
+    venni.append("circle").attr("cx",145).attr("cy",145).attr("r",0)
         .attr("fill","#44B39D").attr("opacity",0.7).attr("class","cir1").attr("stroke-width",2);
-    venni.append("circle").attr("cx",240).attr("cy",115).attr("r",0)
+    venni.append("circle").attr("cx",185).attr("cy",115).attr("r",0)
         .attr("fill","#f39c12").attr("opacity",0.7).attr("class","cir2").attr("stroke-width",2);
-    venni.append("circle").attr("cx",170).attr("cy",225).attr("r",0)
+    venni.append("circle").attr("cx",175).attr("cy",215).attr("r",0)
         .attr("fill","#EB6B56").attr("opacity",0.7).attr("class","cir3").attr("stroke-width",2);
-    venni.append("text").attr("x",240).attr("y",305).attr("text-anchor","middle").attr("opacity",0).attr("class","txt1").text("Arnab");
-    venni.append("text").attr("x",60).attr("y",150).attr("text-anchor","middle").attr("opacity",0).attr("class","txt1").text("Anti-Arnab");
-    venni.append("text").attr("x",290).attr("y",75).attr("text-anchor","middle").attr("opacity",0).attr("class","txt1").text("Pro-Arnab");
+    venni.append("text").attr("x",245).attr("y",305).attr("text-anchor","middle").attr("opacity",0).attr("class","txt1").text("Arnab");
+    venni.append("text").attr("x",50).attr("y",150).attr("text-anchor","middle").attr("opacity",0).attr("class","txt1").text("Anti-Arnab");
+    venni.append("text").attr("x",295).attr("y",75).attr("text-anchor","middle").attr("opacity",0).attr("class","txt1").text("Pro-Arnab");
     venni.append("text")
-        .attr("x",190).attr("y",255).attr("text-anchor","middle").attr("opacity",0).attr("class","txt1").text(overlap[0]['arnab']);
+        .attr("x",195).attr("y",265).attr("text-anchor","middle").attr("opacity",0).attr("class","txt1").text(overlap[0]['arnab']);
     venni.append("text")
-        .attr("x",290).attr("y",125).attr("text-anchor","middle").attr("opacity",0).attr("class","txt1").text(overlap[0]['pro']);
+        .attr("x",275).attr("y",105).attr("text-anchor","middle").attr("opacity",0).attr("class","txt1").text(overlap[0]['pro']);
     venni.append("text")
-            .attr("x",100).attr("y",90).attr("text-anchor","middle").attr("opacity",0).attr("class","txt1").text(overlap[0]['anti']);
+            .attr("x",55).attr("y",115).attr("text-anchor","middle").attr("opacity",0).attr("class","txt1").text(overlap[0]['anti']);
     venni.append("text")
-            .attr("x",230).attr("y",185).attr("text-anchor","middle").attr("opacity",0).attr("class","txt1").text(overlap[0]['arnab-pro']);
+            .attr("x",255).attr("y",175).attr("text-anchor","middle").attr("opacity",0).attr("class","txt1").text(overlap[0]['arnab-pro']);
     venni.append("text")
-            .attr("x",145).attr("y",195).attr("text-anchor","middle").attr("opacity",0).attr("class","txt1").text(overlap[0]['arnab-anti']);
+            .attr("x",130).attr("y",215).attr("text-anchor","middle").attr("opacity",0).attr("class","txt1").text(overlap[0]['arnab-anti']);
     venni.append("text")
-            .attr("x",195).attr("y",100).attr("text-anchor","middle").attr("opacity",0).attr("class","txt1").text(overlap[0]['pro-anti']);
+            .attr("x",165).attr("y",100).attr("text-anchor","middle").attr("opacity",0).attr("class","txt1").text(overlap[0]['pro-anti']);
     venni.append("text")
-            .attr("x",190).attr("y",160).attr("text-anchor","middle").attr("opacity",0).attr("class","txt1").text(overlap[0]['all']);
+            .attr("x",175).attr("y",160).attr("text-anchor","middle").attr("opacity",0).attr("class","txt1").text(overlap[0]['all']);
 
 
 
     var venni2 = d3.select("#venn2").append("svg").attr("width", 350).attr("height", 350);
     //venni.append("rect").attr("x",0).attr("y",0).attr("width",400).attr("height",350).attr("fill","#333333");
-    venni2.append("circle").attr("cx",120).attr("cy",165).attr("r",0)
+    venni2.append("circle").attr("cx",155).attr("cy",165).attr("r",0)
         .attr("fill","#44B39D").attr("opacity",0.7).attr("class","cir4").attr("stroke-width",2);
-    venni2.append("circle").attr("cx",200).attr("cy",165).attr("r",0)
+    venni2.append("circle").attr("cx",195).attr("cy",165).attr("r",0)
         .attr("fill","#EB6B56").attr("opacity",0.7).attr("class","cir5").attr("stroke-width",2);
     venni2.append("text").attr("x",60).attr("y",200).attr("text-anchor","middle").attr("opacity",0).attr("class","txt1").text("Anti-Arnab");
-    venni2.append("text").attr("x",270).attr("y",125).attr("text-anchor","middle").attr("opacity",0).attr("class","txt1").text("Arnab & Team");
+    venni2.append("text").attr("x",280).attr("y",125).attr("text-anchor","middle").attr("opacity",0).attr("class","txt1").text("Arnab & Team");
     venni2.append("text")
-        .attr("x",250).attr("y",175).attr("text-anchor","middle").attr("opacity",0).attr("class","txt1").text(overlap[1]['for']);
+        .attr("x",290).attr("y",175).attr("text-anchor","middle").attr("opacity",0).attr("class","txt1").text(overlap[1]['for']);
     venni2.append("text")
             .attr("x",60).attr("y",140).attr("text-anchor","middle").attr("opacity",0).attr("class","txt1").text(overlap[1]['against']);
     venni2.append("text")
-            .attr("x",155).attr("y",150).attr("text-anchor","middle").attr("opacity",0).attr("class","txt1").text(overlap[1]['both']);
+            .attr("x",165).attr("y",150).attr("text-anchor","middle").attr("opacity",0).attr("class","txt1").text(overlap[1]['both']);
     
 
     var hot1 = d3.select("#hotwords1").append("svg").attr("width",800).attr("height",500);
     hot1.append("rect").attr("x",0).attr("y",69).attr("width",800).attr("height",2).attr("fill","#eeeeee");
     var p = d3.scaleLinear().range([0, 800]).domain([0,timeinsecs]);
 
-    hot1.append("rect").attr("x",p(0)).attr("width",p(timeinsecs)-p(0)).attr("y",20).attr("height",3).attr("fill","#eeeeee");
-    hot1.append("text").attr("x",p(0)).attr("y",15).attr("font-size",14).attr("fill","#eeeeee").text("0 min");
-    hot1.append("text").attr("x",p(interval_data.debate_start)).attr("y",15).attr("font-size",14).attr("text-anchor","middle").attr("fill","#eeeeee").text("Debate Begins : 8.16min");
-    hot1.append("text").attr("x",p(20*60)).attr("y",15).attr("font-size",14).attr("text-anchor","middle").attr("fill","#eee").text("20min");
-    hot1.append("text").attr("x",p(30*60)).attr("y",15).attr("font-size",14).attr("text-anchor","middle").attr("fill","#eee").text("30min");
-    hot1.append("text").attr("x",p(40*60)).attr("y",15).attr("font-size",14).attr("text-anchor","middle").attr("fill","#eee").text("40min");
-    hot1.append("text").attr("x",p(48*60)).attr("y",15).attr("font-size",14).attr("text-anchor","end").attr("fill","#eee").text("48min");
+    hot1.append("text").attr("x",p(0)).attr("y",40).attr("font-size",14).attr("fill","#eeeeee").text("0 min");
+    hot1.append("text").attr("x",p(interval_data.debate_start)).attr("y",40).attr("font-size",14).attr("text-anchor","middle").attr("fill","#eeeeee").text("Debate Begins : 8.16min");
+    hot1.append("text").attr("x",p(20*60)).attr("y",40).attr("font-size",14).attr("text-anchor","middle").attr("fill","#eee").text("20min");
+    hot1.append("text").attr("x",p(30*60)).attr("y",40).attr("font-size",14).attr("text-anchor","middle").attr("fill","#eee").text("30min");
+    hot1.append("text").attr("x",p(40*60)).attr("y",40).attr("font-size",14).attr("text-anchor","middle").attr("fill","#eee").text("40min");
+    hot1.append("text").attr("x",p(48*60)).attr("y",40).attr("font-size",14).attr("text-anchor","end").attr("fill","#eee").text("48min");
     hot1.append("text").attr("x",p(8*60)).attr("y",430).attr("font-size",20).attr("text-anchor","middle").attr("fill","#eee").text("Arnab");
     hot1.append("text").attr("x",p(24*60)).attr("y",430).attr("font-size",20).attr("text-anchor","middle").attr("fill","#eee").text("Pro-Arnab");
     hot1.append("text").attr("x",p(40*60)).attr("y",430).attr("font-size",20).attr("text-anchor","middle").attr("fill","#eee").text("Anti-Arnab");
@@ -240,6 +239,44 @@ $(document).ready(function(){
         d3.selectAll(".hotbubtxt").remove();
         populateHotWords(selectedDeps,hot1,p); 
     })
+
+    for(var m = 0; m<outrageous.length;m++){
+        var min = (outrageous[m].time/60.0).toFixed(2);
+        var div1 = $(".carousel-inner").append("<div class='item meti' id='item-"+m+"''></div>");
+        $("#item-"+m).append("<div class='carousel-content cont-car col-md-8 col-md-offset-2'><p>\""+outrageous[m].comment+"\"<br> - "+outrageous[m].who+"<br>"+min+" mins</div>");   
+    }
+    $($(".item")[0]).addClass("active");
+    $("#out-circle-0").addClass("pulse");
+    
+    var hot2 = d3.select("#carousel-time").append("svg").attr("width",800).attr("height",100);
+    hot2.append("rect").attr("x",0).attr("y",69).attr("width",800).attr("height",2).attr("fill","#eeeeee");
+    var p = d3.scaleLinear().range([0, 800]).domain([0,timeinsecs]);
+
+    hot2.append("text").attr("x",p(0)).attr("y",40).attr("font-size",14).attr("fill","#eeeeee").text("0 min");
+    hot2.append("text").attr("x",p(interval_data.debate_start)).attr("y",40).attr("font-size",14).attr("text-anchor","middle").attr("fill","#eeeeee").text("Debate Begins : 8.16min");
+    hot2.append("text").attr("x",p(20*60)).attr("y",40).attr("font-size",14).attr("text-anchor","middle").attr("fill","#eee").text("20min");
+    hot2.append("text").attr("x",p(30*60)).attr("y",40).attr("font-size",14).attr("text-anchor","middle").attr("fill","#eee").text("30min");
+    hot2.append("text").attr("x",p(40*60)).attr("y",40).attr("font-size",14).attr("text-anchor","middle").attr("fill","#eee").text("40min");
+    hot2.append("text").attr("x",p(48*60)).attr("y",40).attr("font-size",14).attr("text-anchor","end").attr("fill","#eee").text("48min");
+
+    hot2.selectAll(".out-circles").data(outrageous).enter().append("circle").attr("cx",function(d){
+        return p(d.time);
+    }).attr("cy",69).attr("r",10).attr("fill",function(d){
+        return d.color;
+    }).attr("id",function(d,i){
+        return "out-circle-"+i
+    }).attr("class","out-circles").style("opacity",0.75);
+    
+    $('#carousel-example-generic').bind('slide.bs.carousel', function (e) {
+        var yo = $(e.relatedTarget).attr("id").split("-")[1];
+        $(".out-circles").removeClass("pulse");
+        $("#out-circle-"+yo).addClass("pulse")
+    });
+
+
+
+
+    
 
     var waypoints1 = $('#timelines-pre').waypoint({
         handler: function(direction) {
@@ -266,7 +303,8 @@ $(document).ready(function(){
     var waypoints3 = $('#venn2').waypoint({
         handler: function(direction) {
             populateHotWords("Pakistan",hot1,p);
-            $('.selectpicker').selectpicker('val', 'Pakistan');   
+            $('.selectpicker').selectpicker('val', 'Pakistan');
+            this.destroy();   
         }
     }, {
         offset: '100%'

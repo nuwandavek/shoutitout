@@ -68,6 +68,50 @@ var hotwords = {
 };
 
 
+var outrageous = [
+{"comment":"Let's take the links off, let's blow the veil off","time":331,"who":"Arnab","color":"#EB6B56"},
+{"comment":"All these facts are known to the pseudos in India","time":437,"who":"Arnab","color":"#EB6B56"},
+{"comment":"Dinesh Vashni, you are stunned today to react","time":543,"who":"Arnab","color":"#EB6B56"},
+{"comment":"Agar yeh rohingya aake hamare ma behnonke saath balatkaar karenge.. [Indistinct chatter]","time":663,"who":"For-Arnab","color":"#f39c12"},
+{"comment":"Gaurav arya aapko sharam aani chahiye","time":841,"who":"Against-Arnab","color":"#44B39D"},
+{"comment":"You should hang your head in shame today","time":842,"who":"For-Arnab","color":"#f39c12"},
+{"comment":"Dekhiye aaj inko sharam nahi aayi, even when so many hindus have been .. [indistinct]","time":851,"who":"For-Arnab","color":"#f39c12"},
+{"comment":"The Rohingyas are a violent bloodthirsty people","time":902,"who":"Arnab","color":"#EB6B56"},
+{"comment":"I don't want a group of people led by a terrorist from karachi on my soil. If you want, you can invite them home. I don't have space for them on our soil","time":930,"who":"Arnab","color":"#EB6B56"},
+{"comment":"Had we not exposed you, you'd have gotten away with it","time":998,"who":"Arnab","color":"#EB6B56"},
+{"comment":"Had we not exposed you, you'd have brought in another 100k rohingyas and told them 'Come here, take over my country'","time":964,"who":"Arnab","color":"#EB6B56"},
+{"comment":"I will continue till you muster the courage to reply","time":1022,"who":"Arnab","color":"#EB6B56"},
+{"comment":"How can I continue if you keep talking?","time":1036,"who":"Against-Arnab","color":"#44B39D"},
+{"comment":"This is nonsense, this is nonsense, this is nonsense, this is nonsense, this is nonsense, this is nonsense","time":1142,"who":"For-Arnab","color":"#f39c12"},
+{"comment":"It is your responsibility to speak up, otherwise these rohingyas will enter every indian city and try to take it over","time":1262,"who":"Arnab","color":"#EB6B56"},
+{"comment":"Only me one screen, only me, only me only me for a while please","time":1324,"who":"Arnab","color":"#EB6B56"},
+{"comment":"Aap jaaiye kisi channel par jaha economy ke baat horahi thi, kyu aaye rohingya pe baat karne","time":1329,"who":"For-Arnab","color":"#f39c12"},
+{"comment":"Aap gali khaane laayak hai, is desh mein rehne layak nahi hai","time":1346,"who":"For-Arnab","color":"#f39c12"},
+{"comment":"Aap hai intellectual terrorist ","time":1444,"who":"For-Arnab","color":"#f39c12"},
+{"comment":"Aap aapko bewakoof karna chatein hai toh mein kahunga aap raajneetik kaaranaonkeliye kar rahehe yeh sab","time":1609,"who":"Arnab","color":"#EB6B56"},
+{"comment":"We've heard about the women and children argument.. [indistinct] women terrorists blowing themselves up.. [indistinct] this women card is not going to play","time":1886,"who":"For-Arnab","color":"#f39c12"},
+{"comment":"The rohingya muslims today are the new isis","time":1925,"who":"For-Arnab","color":"#f39c12"},
+{"comment":"From pseudo secularist, you've turned into a traitor now","time":2161,"who":"For-Arnab","color":"#f39c12"},
+{"comment":"..And you can't think about the country? What kind of a man are you? ","time":2162,"who":"For-Arnab","color":"#f39c12"},
+{"comment":"Pakistan is an enemy state for us, maybe not for you, but for me it is ","time":2195,"who":"Arnab","color":"#EB6B56"},
+{"comment":"We are laughing at your ignorance","time":2284,"who":"For-Arnab","color":"#f39c12"},
+{"comment":"Hahahaha. He said NDTV hehehehe","time":2299,"who":"Arnab","color":"#EB6B56"},
+{"comment":"Don't laugh like a fool","time":2294,"who":"Against-Arnab","color":"#44B39D"},
+{"comment":"..Lutyens brigade usi ke baarein mein likhenge .. inne NDTV ke naam liya aur woh hasrahethe.. mere peechein padjaayenge.. unka hobby hai na aaj kal","time":2344,"who":"Arnab","color":"#EB6B56"},
+{"comment":"Aap kahenge Rohingya terrorist, athithi devo bhava. Hafeez saeed athithi devo bhava, kasab athithi devo bhava","time":2402,"who":"Arnab","color":"#EB6B56"},
+{"comment":"Shut up, shut up arnab goswami! ","time":2404,"who":"Against-Arnab","color":"#44B39D"},
+{"comment":"What was you're party's position during the emergency sir?","time":2605,"who":"Arnab","color":"#EB6B56"},
+{"comment":"I don't change my subjects","time":2641,"who":"Arnab","color":"#EB6B56"},
+{"comment":"You and I may never disagree but that's what our democaracy is all about","time":2749,"who":"Arnab","color":"#EB6B56"},
+{"comment":"Sir, you are being intolerant to me! ","time":2762,"who":"Arnab","color":"#EB6B56"},
+{"comment":"...Jinki bachionke saath rape hua ..unka dard samjiye","time":2823,"who":"For-Arnab","color":"#f39c12"},
+{"comment":"You have your views, I have mine","time":2825,"who":"Arnab","color":"#EB6B56"}]
+
+
+
+
+
+
 var interval_data = 
 {against : [
 {end: 682.073027, start: 635.023117},
