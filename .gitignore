@@ -1,3 +1,4 @@
 .Rhistory
 node_modules
 dist
+.grunt
