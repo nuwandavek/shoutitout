@@ -1,5 +1,5 @@
 var timeline_svg = function(x,id,timeinsecs,color,intro,rect_data,num){
-    var svg = d3.select(id).append("svg").attr("width", 900).attr("height", 120);
+    var svg = d3.select(id).attr("width", 900).attr("height", 120).append("svg").attr("preserveAspectRatio", "xMidYMid meet").attr("viewBox", "0 0 900 120");
     svg.append("rect").attr("x",x(0)).attr("width",x(timeinsecs)-x(0)).attr("y",10).attr("height",100).attr("fill","#333333");
     svg.selectAll(".rectcol").data(rect_data).enter().append("rect")
         .attr("x",function(d,i){
@@ -46,8 +46,6 @@ var circleEnlarger = function(){
 }
 
 var populateHotWords = function(word,svg,scale){
-    console.log(word);
-
     var  rad = d3.scaleLinear().range([0, 150]).domain([0,25]);
     svg.selectAll(".hotBubble1").data(hotwords.Arnab[word].times).enter().append("circle")
         .attr("cx",function(d){
@@ -110,7 +108,7 @@ $(document).ready(function(){
     var  x = d3.scaleLinear().range([10, 790]).domain([0,timeinsecs]);
    
 
-    var svg00 = d3.select("#svgdiv00").append("svg").attr("width", 800).attr("height", 30);
+    var svg00 = d3.select("#svgdiv00").attr("width", 800).attr("height", 30).append("svg").attr("preserveAspectRatio", "xMidYMid meet").attr("viewBox", "0 0 800 30");
     svg00.append("rect").attr("x",x(0)).attr("width",x(timeinsecs)-x(0)).attr("y",20).attr("height",10).attr("fill","#333333");
     svg00.append("line").attr("x1",x(interval_data.debate_start)).attr("x2",x(interval_data.debate_start)).attr("y1",10).attr("y2",110)
         .attr("stroke","#eeeeee").attr("stroke-width",3);
@@ -128,7 +126,7 @@ $(document).ready(function(){
     timeline_svg(x,"#svgdiv3",timeinsecs,"#44B39D",interval_data.debate_start,interval_data.against,4);
 
    
-    var svg4 = d3.select("#svgdiv4").append("svg").attr("width", 800).attr("height", 67);
+    var svg4 = d3.select("#svgdiv4").attr("width", 800).attr("height", 67).append("svg").attr("preserveAspectRatio", "xMidYMid meet").attr("viewBox", "0 0 800 67");
     svg4.append("rect").attr("x",x(0)).attr("width",x(timeinsecs)-x(0)).attr("y",10).attr("height",100).attr("fill","#333333");
     svg4.selectAll(".rectcol2").data(interval_data.against).enter().append("rect")
         .attr("x",function(d,i){
@@ -169,8 +167,7 @@ $(document).ready(function(){
     svg4.append("line").attr("x1",x(interval_data.debate_start)).attr("x2",x(interval_data.debate_start)).attr("y1",10).attr("y2",110)
         .attr("stroke","#eeeeee").attr("stroke-width",3).attr("stroke-dasharray",3);
 
-
-    var venni = d3.select("#venn").append("svg").attr("width", 350).attr("height", 350);
+    var venni = d3.select("#venn").attr("width", 350).attr("height", 350).append("svg").attr("preserveAspectRatio", "xMidYMid meet").attr("viewBox", "0 0 350 350");
     //venni.append("rect").attr("x",0).attr("y",0).attr("width",400).attr("height",350).attr("fill","#333333");
     venni.append("circle").attr("cx",145).attr("cy",145).attr("r",0)
         .attr("fill","#44B39D").attr("opacity",0.7).attr("class","cir1").attr("stroke-width",2);
@@ -197,8 +194,7 @@ $(document).ready(function(){
             .attr("x",175).attr("y",160).attr("text-anchor","middle").attr("opacity",0).attr("class","txt1").text(overlap[0]['all']);
 
 
-
-    var venni2 = d3.select("#venn2").append("svg").attr("width", 350).attr("height", 350);
+    var venni2 = d3.select("#venn2").attr("width", 350).attr("height", 350).append("svg").attr("preserveAspectRatio", "xMidYMid meet").attr("viewBox", "0 0 350 350");
     //venni.append("rect").attr("x",0).attr("y",0).attr("width",400).attr("height",350).attr("fill","#333333");
     venni2.append("circle").attr("cx",155).attr("cy",165).attr("r",0)
         .attr("fill","#44B39D").attr("opacity",0.7).attr("class","cir4").attr("stroke-width",2);
@@ -214,7 +210,7 @@ $(document).ready(function(){
             .attr("x",165).attr("y",150).attr("text-anchor","middle").attr("opacity",0).attr("class","txt1").text(overlap[1]['both']);
     
 
-    var hot1 = d3.select("#hotwords1").append("svg").attr("width",800).attr("height",500);
+    var hot1 = d3.select("#hotwords1").attr("width", 800).attr("height", 500).append("svg").attr("preserveAspectRatio", "xMidYMid meet").attr("viewBox", "0 0 800 500");
     hot1.append("rect").attr("x",0).attr("y",69).attr("width",800).attr("height",2).attr("fill","#eeeeee");
     var p = d3.scaleLinear().range([0, 800]).domain([0,timeinsecs]);
 
@@ -248,7 +244,7 @@ $(document).ready(function(){
     $($(".item")[0]).addClass("active");
     $("#out-circle-0").addClass("pulse");
     
-    var hot2 = d3.select("#carousel-time").append("svg").attr("width",800).attr("height",100);
+    var hot2 = d3.select("#carousel-time").attr("width", 800).attr("height", 100).append("svg").attr("preserveAspectRatio", "xMidYMid meet").attr("viewBox", "0 0 800 100")
     hot2.append("rect").attr("x",0).attr("y",69).attr("width",800).attr("height",2).attr("fill","#eeeeee");
     var p = d3.scaleLinear().range([0, 800]).domain([0,timeinsecs]);
 
